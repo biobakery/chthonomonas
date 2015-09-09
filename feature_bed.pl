@@ -15,7 +15,7 @@ open(LOG, ">$g.proteins.bed") or die "cannot open log";
 my $string = ();
 my $keep = ();
 my $file = $g."_genes.fna";
-	open(FILE, "/Users/xochitlmorgan/Dropbox/hutlab/XCM/NZCompGen/$file") or die "cannot open";
+	open(FILE, "data/$file") or die "cannot open";
 	while(<FILE>)
 	{
 		chomp;
