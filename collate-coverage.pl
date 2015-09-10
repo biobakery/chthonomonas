@@ -8,7 +8,7 @@ my @strains = qw(P488 TKA WRG);
 
 foreach my $s (@strains)
 {
-my $file = "/Users/xochitlmorgan/bams/$s.cov";
+my $file = "tmp/$s.cov";
 open(FILE, $file) or die "cannot open $file";
 while(<FILE>)
 	{
@@ -20,7 +20,7 @@ while(<FILE>)
 close(FILE);
 }
 #print Dumper %res;
-print "gene\tP488T_mean\tP488_sd\tTKA_mean\tTKA_sd\tWRG_mean\tWRG_sd\n";
+print "geneID\tgene\tP488T_median\tP488_sd\tTKA_median\tTKA_sd\tWRG_median\tWRG_sd\n";
 foreach my $key (sort keys %res)
 {
 print $key, "\t"; 

@@ -4,10 +4,10 @@ use Data::Dumper;
 
 my %key;
 
-my @p488 = `cut -f 1 P488.proteins.bed`;
-my @tka = `cut -f 1 TKA.proteins.bed`;
-my @wrg = `cut -f 1 WRG.proteins.bed`;
-my @t49 = `cut -f 1 T49.proteins.bed`;
+my @p488 = `cut -f 1 bams/P488.proteins.bed`;
+my @tka = `cut -f 1 bams/TKA.proteins.bed`;
+my @wrg = `cut -f 1 bams/WRG.proteins.bed`;
+my @t49 = `cut -f 1 bams/T49.proteins.bed`;
 
 foreach my $p (@p488)
 {
