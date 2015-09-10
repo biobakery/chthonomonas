@@ -9,6 +9,9 @@ bowtie2-build data/WRG_genes.fna WRG
 bowtie2-build data/P488_genes.fna P488
 bowtie2-build data/T49_genes.fna T49
 bedtools bamtofastq -i TKA.bam -fq TKA.fastq
+# in macqiime
+process_sff.py -i GIAPFB102.sff
+convert_fastaqual_fastq.py -q GIAPFB102.qual -f GIAPFB102.fna -o fastq
 
 #second, do alignments
 #P488 genome, P488 proteins
