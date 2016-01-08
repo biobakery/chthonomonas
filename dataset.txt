@@ -1,0 +1,1036 @@
+646320113	BSU34880	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	Bacillus subtilis subtilis 168	13	3584317	3585054	-	4215606	hisA	histidine
+637138969	Mb1629	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	Mycobacterium bovis AF2122/97	13	1788660	1789397	+	4345492	hisA	histidine
+2525260144	CCALI_02190	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	13	2584360	2585103	+	3437861	hisA	histidine
+650387920	NIES39_L02660	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	Arthrospira platensis NIES-39	13	4669522	4670295	+	6788435	hisA	histidine
+643734441	JTY_1616	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	Mycobacterium bovis BCG Tokyo 172	13	1781443	1782180	+	4371711	hisA	histidine
+2586012023	OP10G_4355	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16)	Fimbriimonas ginsengisoli Gsoil 348	13	4753604	4754320	-	5231762	hisA	histidine
+639729837	Acel_1062	bifunctional HisA/TrpF protein	Acidothermus cellulolyticus 11B	13	1171625	1172350	+	2443540	hisA	histidine
+637001998	Missing locus_tag:AC_000091.cds1961.2097262..2097999	N-(5'-phospho-L-ribosyl-formimino)-5-amino-1- (5'-phosphoribosyl)-4-imidazolecarboxamide isomerase	Escherichia coli K12- W3110	13	2097262	2097999	+	4646332	hisA	histidine
+637703666	cbdb_A1278	phosphoribosylformimino-5- aminoimidazolecarboxamide ribotide isomerase	Dehalococcoides mccartyi CBDB1	13	1016912	1017646	-	1395502	hisA	histidine
+646672302	Mrub_0851	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	"Meiothermus ruber 21, DSM 1279"	13	835087	835791	+	3097457	hisA	histidine
+640084111	NATL1_08361	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Prochlorococcus marinus NATL1A	13	768731	769501	-	1864731	hisA	histidine
+641371029	Caur_0344	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Chloroflexus aurantiacus J-10-fl	13	437815	438540	+	5258541	hisA	histidine
+640078572	A9601_08601	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Prochlorococcus marinus AS9601	13	745680	746447	-	1669886	hisA	histidine
+646855646	Trad_0231	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	"Truepera radiovictrix RQ-24, DSM 17093"	13	268329	269027	+	3260398	hisA	histidine
+2540552148	BSU6051_34880	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase HisA	Bacillus subtilis subtilis 6051-HGW	13	3584298	3585035	-	4215610	hisA	histidine
+637001996	Missing locus_tag:AC_000091.cds1959.2095605..2096672	fused histidinol-phosphatase and imidazoleglycerol-phosphate dehydratase	Escherichia coli K12- W3110	11	2095605	2096672	+	4646332	hisB	histidine
+640083629	NATL1_03611	Imidazole glycerol-phosphate dehydratase	Prochlorococcus marinus NATL1A	11	334306	334917	-	1864731	hisB	histidine
+641372608	Caur_1935	Imidazoleglycerol-phosphate dehydratase	Chloroflexus aurantiacus J-10-fl	11	2664935	2665552	+	5258541	hisB	histidine
+637138967	Mb1627	imidazoleglycerol-phosphate dehydratase	Mycobacterium bovis AF2122/97	11	1787401	1788033	+	4345492	hisB	histidine
+643734439	JTY_1614	imidazoleglycerol-phosphate dehydratase	Mycobacterium bovis BCG Tokyo 172	11	1780184	1780816	+	4371711	hisB	histidine
+646855856	Trad_0438	Imidazoleglycerol-phosphate dehydratase	"Truepera radiovictrix RQ-24, DSM 17093"	11	482691	483290	-	3260398	hisB	histidine
+637703283	cbdb_A824	imidazoleglycerol-phosphate dehydratase	Dehalococcoides mccartyi CBDB1	11	671064	671654	-	1395502	hisB	histidine
+646672624	Mrub_1168	Imidazoleglycerol-phosphate dehydratase	"Meiothermus ruber 21, DSM 1279"	11	1182163	1182747	+	3097457	hisB	histidine
+640078006	A9601_03041	Imidazoleglycerol-phosphate dehydratase	Prochlorococcus marinus AS9601	11	281174	281779	-	1669886	hisB	histidine
+639729835	Acel_1060	Imidazoleglycerol-phosphate dehydratase	Acidothermus cellulolyticus 11B	11	1170403	1171023	+	2443540	hisB	histidine
+650384608	NIES39_C02760	imidazoleglycerol-phosphate dehydratase	Arthrospira platensis NIES-39	11	1297320	1297967	+	6788435	hisB	histidine
+646320115	BSU34900	imidazoleglycerol-phosphate dehydratase	Bacillus subtilis subtilis 168	11	3585690	3586274	-	4215606	hisB	histidine
+2586012025	OP10G_4357	imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	Fimbriimonas ginsengisoli Gsoil 348	11	4754901	4755503	-	5231762	hisB	histidine
+2525260383	CCALI_02429	imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	11	2843512	2844105	+	3437861	hisB	histidine
+2540552150	BSU6051_34900	imidazoleglycerol-phosphate dehydratase HisB	Bacillus subtilis subtilis 6051-HGW	11	3585671	3586255	-	4215610	hisB	histidine
+646672623	Mrub_1167	aminotransferase class I and II	"Meiothermus ruber 21, DSM 1279"	10	1181112	1182170	+	3097457	hisC	histidine
+640077903	A9601_02041	Aminotransferases class-I	Prochlorococcus marinus AS9601	10	186926	188035	-	1669886	hisC	histidine
+640083526	NATL1_02611	Aminotransferases class-I	Prochlorococcus marinus NATL1A	10	238509	239624	-	1864731	hisC	histidine
+2586007738	OP10G_0115	histidinol phosphate aminotransferase apoenzyme (EC 2.6.1.9)	Fimbriimonas ginsengisoli Gsoil 348	10	110957	112069	+	5231762	hisC	histidine
+2525260344	CCALI_02390	histidinol phosphate aminotransferase apoenzyme (EC 2.6.1.9)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	10	2801156	2802286	+	3437861	hisC	histidine
+646318826	BSU22620	histidinol-phosphate aminotransferase	Bacillus subtilis subtilis 168	10	2370415	2371497	-	4215606	hisC	histidine
+650384136	NIES39_A08360	histidinol-phosphate aminotransferase	Arthrospira platensis NIES-39	10	813093	814232	-	6788435	hisC	histidine
+637138966	Mb1626	histidinol-phosphate aminotransferase	Mycobacterium bovis AF2122/97	10	1786262	1787404	+	4345492	hisC	histidine
+639729834	Acel_1059	histidinol-phosphate aminotransferase	Acidothermus cellulolyticus 11B	10	1169183	1170403	+	2443540	hisC	histidine
+641372605	Caur_1932	histidinol-phosphate aminotransferase	Chloroflexus aurantiacus J-10-fl	10	2662752	2663858	+	5258541	hisC	histidine
+643734438	JTY_1613	histidinol-phosphate aminotransferase	Mycobacterium bovis BCG Tokyo 172	10	1779045	1780187	+	4371711	hisC	histidine
+637703284	cbdb_A825	histidinol-phosphate aminotransferase	Dehalococcoides mccartyi CBDB1	10	671656	672732	-	1395502	hisC	histidine
+646855857	Trad_0439	histidinol-phosphate aminotransferase	"Truepera radiovictrix RQ-24, DSM 17093"	10	483283	484374	-	3260398	hisC	histidine
+637001995	Missing locus_tag:AC_000091.cds1958.2094535..2095605	histidinol-phosphate aminotransferase	Escherichia coli K12- W3110	10	2094535	2095605	+	4646332	hisC	histidine
+2540550872	BSU6051_22620	"histidinol-phosphate aminotransferase, tyrosine/phenylalanine aminotransferase HisC"	Bacillus subtilis subtilis 6051-HGW	10	2370414	2371496	-	4215610	hisC	histidine
+637001994	Missing locus_tag:AC_000091.cds1957.2093234..2094538	bifunctional histidinal dehydrogenase and histidinol dehydrogenase	Escherichia coli K12- W3110	9	2093234	2094538	+	4646332	hisD	histidine
+639729833	Acel_1058	Histidinol dehydrogenase	Acidothermus cellulolyticus 11B	9	1167840	1169186	+	2443540	hisD	histidine
+650386064	NIES39_E03590	histidinol dehydrogenase	Arthrospira platensis NIES-39	9	2778731	2780044	-	6788435	hisD	histidine
+640079418	A9601_16921	Histidinol dehydrogenase	Prochlorococcus marinus AS9601	9	1434952	1436238	+	1669886	hisD	histidine
+2525260382	CCALI_02428	histidinol dehydrogenase	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	9	2842202	2843515	+	3437861	hisD	histidine
+646672216	Mrub_0766	histidinol dehydrogenase	"Meiothermus ruber 21, DSM 1279"	9	747632	748879	-	3097457	hisD	histidine
+641373377	Caur_2694	Histidinol dehydrogenase	Chloroflexus aurantiacus J-10-fl	9	3604486	3605793	+	5258541	hisD	histidine
+640085178	NATL1_18891	Histidinol dehydrogenase	Prochlorococcus marinus NATL1A	9	1551192	1552541	+	1864731	hisD	histidine
+2586007882	OP10G_0258	Histidinol dehydrogenase	Fimbriimonas ginsengisoli Gsoil 348	9	260407	261711	+	5231762	hisD	histidine
+646320116	BSU34910	histidinol dehydrogenase	Bacillus subtilis subtilis 168	9	3586271	3587554	-	4215606	hisD	histidine
+637138965	Mb1625	histidinol dehydrogenase	Mycobacterium bovis AF2122/97	9	1784949	1786265	+	4345492	hisD	histidine
+646856767	Trad_1355	histidinol dehydrogenase	"Truepera radiovictrix RQ-24, DSM 17093"	9	1454984	1456303	+	3260398	hisD	histidine
+637703285	cbdb_A826	histidinol dehydrogenase	Dehalococcoides mccartyi CBDB1	9	672745	674055	-	1395502	hisD	histidine
+643734437	JTY_1612	histidinol dehydrogenase	Mycobacterium bovis BCG Tokyo 172	9	1777732	1779048	+	4371711	hisD	histidine
+2540552151	BSU6051_34910	histidinol dehydrogenase HisD	Bacillus subtilis subtilis 6051-HGW	9	3586252	3587535	-	4215610	hisD	histidine
+643734443	JTY_1618	imidazole glycerol phosphate synthase	Mycobacterium bovis BCG Tokyo 172	14	1783002	1783805	+	4371711	hisF	histidine
+650384473	NIES39_C01410	imidazole glycerol phosphate synthase cyclase subunit HisF	Arthrospira platensis NIES-39	14	1178070	1178855	+	6788435	hisF	histidine
+646320112	BSU34870	imidazole glycerol phosphate synthase subunit HisF	Bacillus subtilis subtilis 168	14	3583562	3584320	-	4215606	hisF	histidine
+2540552147	BSU6051_34870	imidazole glycerol phosphate synthase subunit HisF	Bacillus subtilis subtilis 6051-HGW	14	3583543	3584301	-	4215610	hisF	histidine
+637138971	Mb1631	imidazole glycerol phosphate synthase subunit HisF	Mycobacterium bovis AF2122/97	14	1790219	1791022	+	4345492	hisF	histidine
+640078197	A9601_04851	Imidazole glycerol phosphate synthase subunit HisF (cyclase)	Prochlorococcus marinus AS9601	14	420410	421180	+	1669886	hisF	histidine
+640083760	NATL1_04831	Imidazole glycerol phosphate synthase subunit HisF (cyclase)	Prochlorococcus marinus NATL1A	14	439725	440495	+	1864731	hisF	histidine
+2525259578	CCALI_01624	imidazole glycerol phosphate synthase subunit hisF (EC 4.1.3.-)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	14	1929961	1930734	-	3437861	hisF	histidine
+637001999	Missing locus_tag:AC_000091.cds1962.2097981..2098757	"imidazole glycerol phosphate synthase, catalytic subunit with HisF"	Escherichia coli K12- W3110	14	2097981	2098757	+	4646332	hisF	histidine
+646673105	Mrub_1637	imidazoleglycerol phosphate synthase cyclase subunit	"Meiothermus ruber 21, DSM 1279"	14	1669058	1669843	+	3097457	hisF	histidine
+646855499	Trad_0083	"imidazoleglycerol phosphate synthase, cyclase subunit"	"Truepera radiovictrix RQ-24, DSM 17093"	14	100630	101475	+	3260398	hisF	histidine
+637703487	cbdb_A1057	"imidazoleglycerol phosphate synthase, cyclase subunit"	Dehalococcoides mccartyi CBDB1	14	858642	859403	-	1395502	hisF	histidine
+2586012445	OP10G_4774	"imidazoleglycerol phosphate synthase, cyclase subunit"	Fimbriimonas ginsengisoli Gsoil 348	14	5178967	5179719	+	5231762	hisF	histidine
+639729843	Acel_1069	"imidazoleglycerol phosphate synthase, cyclase subunit"	Acidothermus cellulolyticus 11B	14	1179841	1180698	+	2443540	hisF	histidine
+641372504	Caur_1830	"imidazoleglycerol phosphate synthase, cyclase subunit"	Chloroflexus aurantiacus J-10-fl	14	2515223	2516002	+	5258541	hisF	histidine
+643734955	JTY_2132	ATP phosphoribosyltransferase	Mycobacterium bovis BCG Tokyo 172	7	2352616	2353470	-	4371711	hisG	histidine
+646671643	Mrub_0194	ATP phosphoribosyltransferase	"Meiothermus ruber 21, DSM 1279"	7	168324	168962	+	3097457	hisG	histidine
+2586009513	OP10G_1874	ATP phosphoribosyltransferase	Fimbriimonas ginsengisoli Gsoil 348	7	2021646	2022515	+	5231762	hisG	histidine
+639730050	Acel_1270	ATP phosphoribosyltransferase	Acidothermus cellulolyticus 11B	7	1417274	1418149	-	2443540	hisG	histidine
+637139483	Mb2145c	ATP phosphoribosyltransferase	Mycobacterium bovis AF2122/97	7	2360231	2361085	-	4345492	hisG	histidine
+650386344	NIES39_G00810	ATP phosphoribosyltransferase	Arthrospira platensis NIES-39	7	3052537	3053181	+	6788435	hisG	histidine
+641371942	Caur_1263	ATP phosphoribosyltransferase	Chloroflexus aurantiacus J-10-fl	7	1761267	1762274	-	5258541	hisG	histidine
+637001993	Missing locus_tag:AC_000091.cds1956.2092329..2093228	ATP phosphoribosyltransferase	Escherichia coli K12- W3110	7	2092329	2093228	+	4646332	hisG	histidine
+646858157	Trad_2737	ATP phosphoribosyltransferase	"Truepera radiovictrix RQ-24, DSM 17093"	7	2983869	2984495	+	3260398	hisG	histidine
+2525260245	CCALI_02291	ATP phosphoribosyltransferase (homohexameric) (EC 2.4.2.17)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	7	2708842	2709720	+	3437861	hisG	histidine
+646320117	BSU34920	ATP phosphoribosyltransferase catalytic subunit	Bacillus subtilis subtilis 168	7	3587551	3588192	-	4215606	hisG	histidine
+2540552152	BSU6051_34920	ATP phosphoribosyltransferase HisG	Bacillus subtilis subtilis 6051-HGW	7	3587532	3588173	-	4215610	hisG	histidine
+640078328	A9601_06161	possible ATP phosphoribosyltransferase	Prochlorococcus marinus AS9601	7	537293	537931	+	1669886	hisG	histidine
+640083892	NATL1_06151	possible ATP phosphoribosyltransferase	Prochlorococcus marinus NATL1A	7	558223	558885	+	1864731	hisG	histidine
+637703286	cbdb_A828	probable ATP phosphoribosyltransferase	Dehalococcoides mccartyi CBDB1	7	674062	675468	-	1395502	hisG	histidine
+2540552149	BSU6051_34890	amidotransferase glutaminase HisH	Bacillus subtilis subtilis 6051-HGW	12	3585032	3585670	-	4215610	hisH	histidine
+640084151	NATL1_08761	Glutamine amidotransferase	Prochlorococcus marinus NATL1A	12	813516	814169	+	1864731	hisH	histidine
+640078880	A9601_11651	Glutamine amidotransferase class-I	Prochlorococcus marinus AS9601	12	977407	978024	-	1669886	hisH	histidine
+643734440	JTY_1615	imidazole glycerol phosphate synthase	Mycobacterium bovis BCG Tokyo 172	12	1780813	1781433	+	4371711	hisH	histidine
+646672625	Mrub_1169	imidazole glycerol phosphate synthase glutamine amidotransferase subunit	"Meiothermus ruber 21, DSM 1279"	12	1182759	1183358	+	3097457	hisH	histidine
+646320114	BSU34890	imidazole glycerol phosphate synthase subunit HisH	Bacillus subtilis subtilis 168	12	3585051	3585689	-	4215606	hisH	histidine
+637138968	Mb1628	imidazole glycerol phosphate synthase subunit HisH	Mycobacterium bovis AF2122/97	12	1788030	1788650	+	4345492	hisH	histidine
+650388890	NIES39_O01400	imidazole glycerol phosphate synthase subunit HisH	Arthrospira platensis NIES-39	12	5702027	5702668	+	6788435	hisH	histidine
+2525260143	CCALI_02189	imidazole glycerol phosphate synthase subunit hisH (EC 2.4.2.-)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	12	2583650	2584330	+	3437861	hisH	histidine
+639729836	Acel_1061	"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"	Acidothermus cellulolyticus 11B	12	1171035	1171628	+	2443540	hisH	histidine
+637001997	Missing locus_tag:AC_000091.cds1960.2096672..2097262	"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"	Escherichia coli K12- W3110	12	2096672	2097262	+	4646332	hisH	histidine
+646855855	Trad_0437	"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"	"Truepera radiovictrix RQ-24, DSM 17093"	12	482038	482691	-	3260398	hisH	histidine
+641371028	Caur_0343	"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"	Chloroflexus aurantiacus J-10-fl	12	437174	437812	+	5258541	hisH	histidine
+2586012024	OP10G_4356	"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"	Fimbriimonas ginsengisoli Gsoil 348	12	4754314	4754904	-	5231762	hisH	histidine
+637703490	cbdb_A1060	"imidazole glycerol phosphate synthase,glutamineamidotransferase subunit"	Dehalococcoides mccartyi CBDB1	12	861844	862461	-	1395502	hisH	histidine
+646320111	BSU34860	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein	Bacillus subtilis subtilis 168	15	3582936	3583565	-	4215606	hisI	histidine
+637002000	Missing locus_tag:AC_000091.cds1963.2098751..2099362	fused phosphoribosyl-AMP cyclohydrolase and phosphoribosyl-ATP pyrophosphatase	Escherichia coli K12- W3110	15	2098751	2099362	+	4646332	hisI	histidine
+643734444	JTY_1619	"phosphoribosyl-AMP 1,6 cyclohydrolase"	Mycobacterium bovis BCG Tokyo 172	15	1783802	1784149	+	4371711	hisI	histidine
+650385287	NIES39_D04010	phosphoribosyl-AMP cyclohydrolase	Arthrospira platensis NIES-39	15	1992300	1992656	-	6788435	hisI	histidine
+640083912	NATL1_06341	Phosphoribosyl-AMP cyclohydrolase	Prochlorococcus marinus NATL1A	15	573986	574627	-	1864731	hisI	histidine
+637703664	cbdb_A1276	phosphoribosyl-AMP cyclohydrolase	Dehalococcoides mccartyi CBDB1	15	1016002	1016316	-	1395502	hisI	histidine
+637138972	Mb1632	phosphoribosyl-AMP cyclohydrolase	Mycobacterium bovis AF2122/97	15	1791019	1791366	+	4345492	hisI	histidine
+640078347	A9601_06341	Phosphoribosyl-AMP cyclohydrolase	Prochlorococcus marinus AS9601	15	552585	553244	-	1669886	hisI	histidine
+639729844	Acel_1070	Phosphoribosyl-AMP cyclohydrolase	Acidothermus cellulolyticus 11B	15	1180768	1181196	+	2443540	hisI	histidine
+2525259577	CCALI_01623	phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	15	1929527	1929898	-	3437861	hisI	histidine
+2586010376	OP10G_2733	phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)	Fimbriimonas ginsengisoli Gsoil 348	15	2996590	2996949	+	5231762	hisI	histidine
+2540552146	BSU6051_34860	"phosphoribosyl-AMP cyclohydrolase, phosphoribosyl-ATP pyrophosphohydrolase HisI"	Bacillus subtilis subtilis 6051-HGW	15	3582917	3583546	-	4215610	hisI	histidine
+646673106	Mrub_1638	phosphoribosyl-ATP diphosphatase	"Meiothermus ruber 21, DSM 1279"	15	1669871	1670506	+	3097457	hisI	histidine
+641372731	Caur_2057	phosphoribosyl-ATP diphosphatase	Chloroflexus aurantiacus J-10-fl	15	2816252	2816869	-	5258541	hisI	histidine
+646858016	Trad_2596	phosphoribosyl-ATP diphosphatase	"Truepera radiovictrix RQ-24, DSM 17093"	15	2821497	2822159	-	3260398	hisI	histidine
+646673373	Mrub_1906	2-isopropylmalate synthase	"Meiothermus ruber 21, DSM 1279"	19	1965044	1966603	-	3097457	leuA	leucine
+640078886	A9601_11711	2-isopropylmalate synthase	Prochlorococcus marinus AS9601	19	985583	987223	+	1669886	leuA	leucine
+646319407	BSU28280	2-isopropylmalate synthase	Bacillus subtilis subtilis 168	19	2892138	2893694	-	4215606	leuA	leucine
+637703271	cbdb_A808	2-isopropylmalate synthase	Dehalococcoides mccartyi CBDB1	19	657459	658976	-	1395502	leuA	leucine
+641370852	Caur_0166	2-isopropylmalate synthase	Chloroflexus aurantiacus J-10-fl	19	205232	206938	+	5258541	leuA	leucine
+646855622	Trad_0207	2-isopropylmalate synthase	"Truepera radiovictrix RQ-24, DSM 17093"	19	235467	237005	+	3260398	leuA	leucine
+640084802	NATL1_15201	2-isopropylmalate synthase	Prochlorococcus marinus NATL1A	19	1233783	1235402	-	1864731	leuA	leucine
+650383406	NIES39_A01060	2-isopropylmalate synthase	Arthrospira platensis NIES-39	19	114426	116042	-	6788435	leuA	leucine
+637141083	Mb3737	2-isopropylmalate synthase	Mycobacterium bovis AF2122/97	19	4091088	4093193	+	4345492	leuA	leucine
+637000073	Missing locus_tag:AC_000091.cds74.83529..81958	2-isopropylmalate synthase	Escherichia coli K12- W3110	19	81958	83529	-	4646332	leuA	leucine
+643736600	JTY_3772	2-isopropylmalate synthase	Mycobacterium bovis BCG Tokyo 172	19	4124106	4126553	+	4371711	leuA	leucine
+2586011773	OP10G_4110	2-isopropylmalate synthase (EC 2.3.3.13)	Fimbriimonas ginsengisoli Gsoil 348	19	4492479	4493621	+	5231762	leuA	leucine
+2525260883	CCALI_02928	2-isopropylmalate synthase (EC 2.3.3.13)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	19	3432844	3434394	+	3437861	leuA	leucine
+2540551453	BSU6051_28280	2-isopropylmalate synthase LeuA	Bacillus subtilis subtilis 6051-HGW	19	2892120	2893676	-	4215610	leuA	leucine
+639729480	Acel_0712	2-isopropylmalate synthase/homocitrate synthase family protein	Acidothermus cellulolyticus 11B	19	779201	780865	+	2443540	leuA	leucine
+643735841	JTY_3011	3-isopropylmalate dehydrogenase	Mycobacterium bovis BCG Tokyo 172	21	3299595	3300605	-	4371711	leuB	leucine
+640084101	NATL1_08261	3-isopropylmalate dehydrogenase	Prochlorococcus marinus NATL1A	21	759278	760357	-	1864731	leuB	leucine
+646857621	Trad_2208	3-isopropylmalate dehydrogenase	"Truepera radiovictrix RQ-24, DSM 17093"	21	2386283	2387368	+	3260398	leuB	leucine
+637000072	Missing locus_tag:AC_000091.cds73.81958..80867	3-isopropylmalate dehydrogenase	Escherichia coli K12- W3110	21	80867	81958	-	4646332	leuB	leucine
+639729478	Acel_0710	3-isopropylmalate dehydrogenase	Acidothermus cellulolyticus 11B	21	776748	777794	+	2443540	leuB	leucine
+646673313	Mrub_1846	3-isopropylmalate dehydrogenase	"Meiothermus ruber 21, DSM 1279"	21	1903909	1904961	-	3097457	leuB	leucine
+640078562	A9601_08501	3-isopropylmalate dehydrogenase	Prochlorococcus marinus AS9601	21	736432	737505	-	1669886	leuB	leucine
+2586010730	OP10G_3083	3-isopropylmalate dehydrogenase	Fimbriimonas ginsengisoli Gsoil 348	21	3361673	3362695	+	5231762	leuB	leucine
+637703267	cbdb_A804	3-isopropylmalate dehydrogenase	Dehalococcoides mccartyi CBDB1	21	654101	655198	-	1395502	leuB	leucine
+646319406	BSU28270	3-isopropylmalate dehydrogenase	Bacillus subtilis subtilis 168	21	2891020	2892117	-	4215606	leuB	leucine
+650384308	NIES39_B00890	3-isopropylmalate dehydrogenase	Arthrospira platensis NIES-39	21	990928	992019	-	6788435	leuB	leucine
+637140368	Mb3019c	3-isopropylmalate dehydrogenase	Mycobacterium bovis AF2122/97	21	3309074	3310084	-	4345492	leuB	leucine
+641370726	Caur_0041	3-isopropylmalate dehydrogenase	Chloroflexus aurantiacus J-10-fl	21	49439	50515	+	5258541	leuB	leucine
+2525258977	CCALI_01023	3-isopropylmalate dehydrogenase (EC 1.1.1.85)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	21	1196117	1197214	-	3437861	leuB	leucine
+2540551452	BSU6051_28270	3-isopropylmalate dehydrogenase LeuB	Bacillus subtilis subtilis 6051-HGW	21	2891002	2892099	-	4215610	leuB	leucine
+650389950	NIES39_R01360	3-isopropylmalate dehydratase large subunit	Arthrospira platensis NIES-39	22	6768375	6769784	+	6788435	leuC	leucine
+640083600	NATL1_03341	3-isopropylmalate dehydratase large subunit	Prochlorococcus marinus NATL1A	22	307783	309192	-	1864731	leuC	leucine
+646673317	Mrub_1850	3-isopropylmalate dehydratase large subunit	"Meiothermus ruber 21, DSM 1279"	22	1906426	1907850	-	3097457	leuC	leucine
+640077978	A9601_02781	3-isopropylmalate dehydratase large subunit	Prochlorococcus marinus AS9601	22	255305	256711	-	1669886	leuC	leucine
+2586010615	OP10G_2971	3-isopropylmalate dehydratase large subunit	Fimbriimonas ginsengisoli Gsoil 348	22	3237545	3238930	+	5231762	leuC	leucine
+2540551451	BSU6051_28260	3-isopropylmalate dehydratase large subunit LeuC	Bacillus subtilis subtilis 6051-HGW	22	2889534	2890952	-	4215610	leuC	leucine
+641370854	Caur_0168	"3-isopropylmalate dehydratase, large subunit"	Chloroflexus aurantiacus J-10-fl	22	207940	209364	+	5258541	leuC	leucine
+646857618	Trad_2205	"3-isopropylmalate dehydratase, large subunit"	"Truepera radiovictrix RQ-24, DSM 17093"	22	2383764	2385203	+	3260398	leuC	leucine
+639730375	Acel_1591	"3-isopropylmalate dehydratase, large subunit"	Acidothermus cellulolyticus 11B	22	1789464	1790885	-	2443540	leuC	leucine
+637703269	cbdb_A806	"3-isopropylmalate dehydratase, large subunit"	Dehalococcoides mccartyi CBDB1	22	655771	657021	-	1395502	leuC	leucine
+2525260693	CCALI_02739	"3-isopropylmalate dehydratase, large subunit (EC 4.2.1.33)"	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	22	3226797	3228197	-	3437861	leuC	leucine
+637000071	Missing locus_tag:AC_000091.cds72.80864..79464	"3-isopropylmalate isomerase subunit, dehydratase component"	Escherichia coli K12- W3110	22	79464	80864	-	4646332	leuC	leucine
+643735832	JTY_3004	isopropylmalate dehydratase large subunit	Mycobacterium bovis BCG Tokyo 172	22	3291791	3293212	-	4371711	leuC	leucine
+637140359	Mb3012c	isopropylmalate isomerase large subunit	Mycobacterium bovis AF2122/97	22	3301214	3302635	-	4345492	leuC	leucine
+646319405	BSU28260	isopropylmalate isomerase large subunit	Bacillus subtilis subtilis 168	22	2889552	2890970	-	4215606	leuC	leucine
+650389951	NIES39_R01370	3-isopropylmalate dehydratase small subunit	Arthrospira platensis NIES-39	23	6769880	6770485	+	6788435	leuD	leucine
+2586011571	OP10G_3910	3-isopropylmalate dehydratase small subunit	Fimbriimonas ginsengisoli Gsoil 348	23	4289542	4290132	+	5231762	leuD	leucine
+640083599	NATL1_03331	3-isopropylmalate dehydratase small subunit	Prochlorococcus marinus NATL1A	23	307138	307758	-	1864731	leuD	leucine
+646673314	Mrub_1847	3-isopropylmalate dehydratase small subunit	"Meiothermus ruber 21, DSM 1279"	23	1904975	1905580	-	3097457	leuD	leucine
+640077977	A9601_02771	3-isopropylmalate dehydratase small subunit	Prochlorococcus marinus AS9601	23	254682	255305	-	1669886	leuD	leucine
+2540551450	BSU6051_28250	3-isopropylmalate dehydratase small subunit LeuD	Bacillus subtilis subtilis 6051-HGW	23	2888922	2889521	-	4215610	leuD	leucine
+646857619	Trad_2206	"3-isopropylmalate dehydratase, small subunit"	"Truepera radiovictrix RQ-24, DSM 17093"	23	2385205	2385801	+	3260398	leuD	leucine
+641370855	Caur_0169	"3-isopropylmalate dehydratase, small subunit"	Chloroflexus aurantiacus J-10-fl	23	209376	209981	+	5258541	leuD	leucine
+637703268	cbdb_A805	"3-isopropylmalate dehydratase, small subunit"	Dehalococcoides mccartyi CBDB1	23	655199	655699	-	1395502	leuD	leucine
+639730374	Acel_1590	"3-isopropylmalate dehydratase, small subunit"	Acidothermus cellulolyticus 11B	23	1788829	1789422	-	2443540	leuD	leucine
+2525260692	CCALI_02738	"3-isopropylmalate dehydratase, small subunit (EC 4.2.1.33)"	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	23	3226152	3226790	-	3437861	leuD	leucine
+637000070	Missing locus_tag:AC_000091.cds71.79453..78848	3-isopropylmalate isomerase subunit	Escherichia coli K12- W3110	23	78848	79453	-	4646332	leuD	leucine
+646319404	BSU28250	isopropylmalate isomerase small subunit	Bacillus subtilis subtilis 168	23	2888940	2889539	-	4215606	leuD	leucine
+637140358	Mb3011c	isopropylmalate isomerase small subunit	Mycobacterium bovis AF2122/97	23	3300593	3301189	-	4345492	leuD	leucine
+643735831	JTY_3003	isopropylmalate isomerase small subunit	Mycobacterium bovis BCG Tokyo 172	23	3291170	3291766	-	4371711	leuD	leucine
+646857869	Trad_2452	adenylosuccinate lyase	"Truepera radiovictrix RQ-24, DSM 17093"	18	2679504	2680808	-	3260398	purB	purine
+641371846	Caur_1166	adenylosuccinate lyase	Chloroflexus aurantiacus J-10-fl	18	1633392	1634792	-	5258541	purB	purine
+639730930	Acel_2128	adenylosuccinate lyase	Acidothermus cellulolyticus 11B	18	2409155	2410582	+	2443540	purB	purine
+650385184	NIES39_D02980	adenylosuccinate lyase	Arthrospira platensis NIES-39	18	1913001	1914296	+	6788435	purB	purine
+637703281	cbdb_A821	adenylosuccinate lyase	Dehalococcoides mccartyi CBDB1	18	668721	670076	+	1395502	purB	purine
+646317123	BSU06440	adenylosuccinate lyase	Bacillus subtilis subtilis 168	18	700232	701527	+	4215606	purB	purine
+637001118	Missing locus_tag:AC_000091.cds1093.1193563..1192193	adenylosuccinate lyase	Escherichia coli K12- W3110	18	1192193	1193563	-	4646332	purB	purine
+637138132	Mb0800	adenylosuccinate lyase	Mycobacterium bovis AF2122/97	18	872197	873615	+	4345492	purB	purine
+2586011663	OP10G_4001	adenylosuccinate lyase	Fimbriimonas ginsengisoli Gsoil 348	18	4372712	4373983	-	5231762	purB	purine
+646673755	Mrub_2293	adenylosuccinate lyase	"Meiothermus ruber 21, DSM 1279"	18	2346356	2347681	+	3097457	purB	purine
+2525260868	CCALI_02913	Adenylosuccinate lyase (EC 4.3.2.2)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	18	3418776	3420065	-	3437861	purB	purine
+2540549179	BSU6051_06440	adenylosuccinate lyase PurB	Bacillus subtilis subtilis 6051-HGW	18	700229	701524	+	4215610	purB	purine
+640085154	NATL1_18651	Fumarate lyase:Adenylosuccinate lyase	Prochlorococcus marinus NATL1A	18	1522143	1523438	+	1864731	purB	purine
+640079393	A9601_16671	Fumarate lyase:Adenylosuccinate lyase	Prochlorococcus marinus AS9601	18	1407842	1409137	+	1669886	purB	purine
+643733616	JTY_0799	putative adenylosuccinate lyase	Mycobacterium bovis BCG Tokyo 172	18	873507	874925	+	4371711	purB	purine
+640079264	A9601_15391	hypothetical protein	Prochlorococcus marinus AS9601	20	1319228	1319545	-	1669886	purC	purine
+2540549180	BSU6051_06450	phosphoribosylaminoimidazole succinocarboxamide synthetase PurC	Bacillus subtilis subtilis 6051-HGW	20	701598	702323	+	4215610	purC	purine
+2525258860	CCALI_00906	phosphoribosylaminoimidazole- succinocarboxamide synthase (EC 6.3.2.6)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	20	1059804	1060748	-	3437861	purC	purine
+637703282	cbdb_A823	phosphoribosylaminoimidazole- succinocarboxamidesynthase	Dehalococcoides mccartyi CBDB1	20	670077	670991	+	1395502	purC	purine
+646673756	Mrub_2294	phosphoribosylaminoimidazole-succinocarboxamide synthase	"Meiothermus ruber 21, DSM 1279"	20	2347691	2348407	+	3097457	purC	purine
+637138135	Mb0803	phosphoribosylaminoimidazole-succinocarboxamide synthase	Mycobacterium bovis AF2122/97	20	875532	876425	+	4345492	purC	purine
+639730931	Acel_2129	phosphoribosylaminoimidazole-succinocarboxamide synthase	Acidothermus cellulolyticus 11B	20	2410708	2411562	+	2443540	purC	purine
+643733619	JTY_0802	phosphoribosylaminoimidazole-succinocarboxamide synthase	Mycobacterium bovis BCG Tokyo 172	20	876842	877735	+	4371711	purC	purine
+650383506	NIES39_A02060	phosphoribosylaminoimidazole-succinocarboxamide synthase	Arthrospira platensis NIES-39	20	210556	211290	+	6788435	purC	purine
+646317124	BSU06450	phosphoribosylaminoimidazole-succinocarboxamide synthase	Bacillus subtilis subtilis 168	20	701601	702326	+	4215606	purC	purine
+646857867	Trad_2450	phosphoribosylaminoimidazole-succinocarboxamide synthase	"Truepera radiovictrix RQ-24, DSM 17093"	20	2678234	2679031	-	3260398	purC	purine
+2586010574	OP10G_2930	phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	Fimbriimonas ginsengisoli Gsoil 348	20	3198007	3198903	-	5231762	purC	purine
+637002443	Missing locus_tag:AC_000091.cds2398.2596274..2595561	phosphoribosylaminoimidazole-succinocarboxamide synthetase	Escherichia coli K12- W3110	20	2595561	2596274	-	4646332	purC	purine
+641371940	Caur_1261	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	Chloroflexus aurantiacus J-10-fl	20	1759475	1760224	-	5258541	purC	purine
+640085054	NATL1_17661	SAICAR synthetase	Prochlorococcus marinus NATL1A	20	1447445	1448188	-	1864731	purC	purine
+650388611	NIES39_M02750	phosphoribosylamine--glycine ligase	Arthrospira platensis NIES-39	5	5394739	5396010	+	6788435	purD	purine
+641371308	Caur_0629	phosphoribosylamine--glycine ligase	Chloroflexus aurantiacus J-10-fl	5	843733	844977	+	5258541	purD	purine
+637138127	Mb0795	phosphoribosylamine--glycine ligase	Mycobacterium bovis AF2122/97	5	866775	868043	+	4345492	purD	purine
+639730929	Acel_2127	phosphoribosylamine--glycine ligase	Acidothermus cellulolyticus 11B	5	2407896	2409158	+	2443540	purD	purine
+646317132	BSU06530	phosphoribosylamine--glycine ligase	Bacillus subtilis subtilis 168	5	710148	711416	+	4215606	purD	purine
+643733611	JTY_0794	phosphoribosylamine--glycine ligase	Mycobacterium bovis BCG Tokyo 172	5	868085	869353	+	4371711	purD	purine
+2586011097	OP10G_3443	phosphoribosylamine--glycine ligase (EC 6.3.4.13)	Fimbriimonas ginsengisoli Gsoil 348	5	3776554	3777804	-	5231762	purD	purine
+2525259273	CCALI_01319	phosphoribosylamine--glycine ligase (EC 6.3.4.13)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	5	1557987	1559270	-	3437861	purD	purine
+637703279	cbdb_A819	phosphoribosylamine-glycine ligase	Dehalococcoides mccartyi CBDB1	5	666992	668269	+	1395502	purD	purine
+646858019	Trad_2599	phosphoribosylamine/glycine ligase	"Truepera radiovictrix RQ-24, DSM 17093"	5	2823980	2825236	+	3260398	purD	purine
+646671576	Mrub_0127	phosphoribosylamine/glycine ligase	"Meiothermus ruber 21, DSM 1279"	5	104800	106041	+	3097457	purD	purine
+640079266	A9601_15411	phosphoribosylglycinamide synthetase	Prochlorococcus marinus AS9601	5	1320104	1321435	+	1669886	purD	purine
+640085055	NATL1_17671	phosphoribosylglycinamide synthetase	Prochlorococcus marinus NATL1A	5	1448378	1449682	+	1864731	purD	purine
+637003218	Missing locus_tag:AC_000091.cds3149.3430750..3432039	phosphoribosylglycinamide synthetase phosphoribosylamine-glycine ligase	Escherichia coli K12- W3110	5	3430750	3432039	+	4646332	purD	purine
+2540549188	BSU6051_06530	phosphoribosylglycinamide synthetase PurD	Bacillus subtilis subtilis 6051-HGW	5	710145	711413	+	4215610	purD	purine
+2525258006	CCALI_00052	5-(carboxyamino)imidazole ribonucleotide mutase	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	16	50989	51537	-	3437861	purE	purine
+637000513	Missing locus_tag:AC_000091.cds506.552323..551814	N5-carboxyaminoimidazole ribonucleotide mutase	Escherichia coli K12- W3110	16	551814	552323	-	4646332	purE	purine
+2586010577	OP10G_2933	phosphoribosylaminoimidazole carboxylase	Fimbriimonas ginsengisoli Gsoil 348	16	3200366	3200866	-	5231762	purE	purine
+640077884	A9601_01851	Phosphoribosylaminoimidazole carboxylase	Prochlorococcus marinus AS9601	16	171588	172079	-	1669886	purE	purine
+640083506	NATL1_02411	Phosphoribosylaminoimidazole carboxylase	Prochlorococcus marinus NATL1A	16	222503	223039	-	1864731	purE	purine
+646672591	Mrub_1135	phosphoribosylaminoimidazole carboxylase catalytic subunit	"Meiothermus ruber 21, DSM 1279"	16	1142054	1142560	+	3097457	purE	purine
+637140654	Mb3303c	phosphoribosylaminoimidazole carboxylase catalytic subunit	Mycobacterium bovis AF2122/97	16	3612702	3613226	-	4345492	purE	purine
+646317121	BSU06420	phosphoribosylaminoimidazole carboxylase I	Bacillus subtilis subtilis 168	16	698612	699100	+	4215606	purE	purine
+2540549177	BSU6051_06420	phosphoribosylaminoimidazole carboxylase I PurE	Bacillus subtilis subtilis 6051-HGW	16	698609	699097	+	4215610	purE	purine
+646856444	Trad_1029	"phosphoribosylaminoimidazole carboxylase, catalytic subunit"	"Truepera radiovictrix RQ-24, DSM 17093"	16	1123846	1124364	+	3260398	purE	purine
+650385296	NIES39_D04100	"phosphoribosylaminoimidazole carboxylase, catalytic subunit"	Arthrospira platensis NIES-39	16	2000487	2001032	-	6788435	purE	purine
+639729174	Acel_0407	"phosphoribosylaminoimidazole carboxylase, catalytic subunit"	Acidothermus cellulolyticus 11B	16	423727	424257	+	2443540	purE	purine
+641372993	Caur_2313	"phosphoribosylaminoimidazole carboxylase, catalytic subunit"	Chloroflexus aurantiacus J-10-fl	16	3138926	3139420	-	5258541	purE	purine
+637703280	cbdb_A820	"phosphoribosylaminoimidazole carboxylase,catalytic subunit"	Dehalococcoides mccartyi CBDB1	16	668260	668724	+	1395502	purE	purine
+643736133	JTY_3300	putative phosphoribosylaminoimidazole carboxylase catalytic subunit	Mycobacterium bovis BCG Tokyo 172	16	3603236	3603760	-	4371711	purE	purine
+646673761	Mrub_2299	amidophosphoribosyltransferase	"Meiothermus ruber 21, DSM 1279"	26	2352378	2353775	+	3097457	purF	purine
+637703751	cbdb_A1377	amidophosphoribosyltransferase	Dehalococcoides mccartyi CBDB1	26	1095977	1097395	+	1395502	purF	purine
+646317128	BSU06490	amidophosphoribosyltransferase	Bacillus subtilis subtilis 168	26	705441	706871	+	4215606	purF	purine
+643733646	JTY_0830	amidophosphoribosyltransferase	Mycobacterium bovis BCG Tokyo 172	26	904250	905833	+	4371711	purF	purine
+639730872	Acel_2072	amidophosphoribosyltransferase	Acidothermus cellulolyticus 11B	26	2347722	2349242	-	2443540	purF	purine
+641372272	Caur_1601	amidophosphoribosyltransferase	Chloroflexus aurantiacus J-10-fl	26	2197220	2198692	-	5258541	purF	purine
+637002286	Missing locus_tag:AC_000091.cds2248.2435684..2434167	amidophosphoribosyltransferase	Escherichia coli K12- W3110	26	2434167	2435684	-	4646332	purF	purine
+650384119	NIES39_A08190	amidophosphoribosyltransferase	Arthrospira platensis NIES-39	26	795105	796586	+	6788435	purF	purine
+646856963	Trad_1553	amidophosphoribosyltransferase	"Truepera radiovictrix RQ-24, DSM 17093"	26	1662720	1664147	-	3260398	purF	purine
+637138163	Mb0831	amidophosphoribosyltransferase	Mycobacterium bovis AF2122/97	26	902941	904524	+	4345492	purF	purine
+2586012322	OP10G_4652	amidophosphoribosyltransferase (EC 2.4.2.14)	Fimbriimonas ginsengisoli Gsoil 348	26	5053195	5054661	-	5231762	purF	purine
+2525258802	CCALI_00848	amidophosphoribosyltransferase (EC 2.4.2.14)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	26	996253	997764	+	3437861	purF	purine
+640077700	A9601_00031	Glutamine amidotransferase class-II:Phosphoribosyl transferase	Prochlorococcus marinus AS9601	26	4425	5885	+	1669886	purF	purine
+640083266	NATL1_00031	Glutamine amidotransferase class-II:Phosphoribosyl transferase	Prochlorococcus marinus NATL1A	26	4597	6054	+	1864731	purF	purine
+2540549184	BSU6051_06490	glutamine phosphoribosylpyrophosphate amidotransferase PurF	Bacillus subtilis subtilis 6051-HGW	26	705438	706868	+	4215610	purF	purine
+640083611	NATL1_03441	AICARFT/IMPCHase bienzyme:Methylglyoxal synthase-like domain	Prochlorococcus marinus NATL1A	4	318872	320428	-	1864731	purH	purine
+640077989	A9601_02881	AICARFT/IMPCHase bienzyme:Methylglyoxal synthase-like domain-containing protein	Prochlorococcus marinus AS9601	4	266042	267595	-	1669886	purH	purine
+637138318	Mb0982	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Mycobacterium bovis AF2122/97	4	1068644	1070215	+	4345492	purH	purine
+646317131	BSU06520	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Bacillus subtilis subtilis 168	4	708594	710132	+	4215606	purH	purine
+2586009915	OP10G_2275	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Fimbriimonas ginsengisoli Gsoil 348	4	2447247	2448776	+	5231762	purH	purine
+650385503	NIES39_D06170	bifunctional purine biosynthesis protein PurH	Arthrospira platensis NIES-39	4	2197702	2199249	+	6788435	purH	purine
+2540549187	BSU6051_06520	bifunctional purine biosynthesis protein PurH	Bacillus subtilis subtilis 6051-HGW	4	708591	710129	+	4215610	purH	purine
+637003217	Missing locus_tag:AC_000091.cds3148.3429149..3430738	fused IMP cyclohydrolase and phosphoribosylaminoimidazolecarboxamide formyltransferase	Escherichia coli K12- W3110	4	3429149	3430738	+	4646332	purH	purine
+637703754	cbdb_A1381	phosphoribosylaminoimidazolecarboxamide formyltransferase	Dehalococcoides mccartyi CBDB1	4	1099179	1100720	+	1395502	purH	purine
+643733801	JTY_0981	phosphoribosylaminoimidazolecarboxamide formyltransferase	Mycobacterium bovis BCG Tokyo 172	4	1070342	1071913	+	4371711	purH	purine
+2525259026	CCALI_01072	phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	4	1259296	1260900	-	3437861	purH	purine
+641372732	Caur_2058	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Chloroflexus aurantiacus J-10-fl	4	2816928	2818466	-	5258541	purH	purine
+646673409	Mrub_1942	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	"Meiothermus ruber 21, DSM 1279"	4	2000174	2001679	-	3097457	purH	purine
+639729151	Acel_0384	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Acidothermus cellulolyticus 11B	4	397253	398848	+	2443540	purH	purine
+646855488	Trad_0076	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	"Truepera radiovictrix RQ-24, DSM 17093"	4	80609	82168	+	3260398	purH	purine
+637002524	Missing locus_tag:AC_000091.cds2479.2694199..2690312	phosphoribosylformyl-glycineamide synthetase	Escherichia coli K12- W3110	25	2690312	2694199	-	4646332	purL	purine
+2586011382	OP10G_3721	phosphoribosylformylglycinamidine synthase II	Fimbriimonas ginsengisoli Gsoil 348	25	4096652	4098853	+	5231762	purL	purine
+643733641	JTY_0825	phosphoribosylformylglycinamidine synthase II	Mycobacterium bovis BCG Tokyo 172	25	897959	900223	+	4371711	purL	purine
+646317127	BSU06480	phosphoribosylformylglycinamidine synthase II	Bacillus subtilis subtilis 168	25	703237	705465	+	4215606	purL	purine
+641374033	Caur_3365	phosphoribosylformylglycinamidine synthase II	Chloroflexus aurantiacus J-10-fl	25	4500009	4502933	+	5258541	purL	purine
+637702844	cbdb_A325	phosphoribosylformylglycinamidine synthase II	Dehalococcoides mccartyi CBDB1	25	280301	283162	-	1395502	purL	purine
+646673760	Mrub_2298	phosphoribosylformylglycinamidine synthase II	"Meiothermus ruber 21, DSM 1279"	25	2350174	2352378	+	3097457	purL	purine
+646856964	Trad_1554	phosphoribosylformylglycinamidine synthase II	"Truepera radiovictrix RQ-24, DSM 17093"	25	1664144	1666396	-	3260398	purL	purine
+639730874	Acel_2074	phosphoribosylformylglycinamidine synthase II	Acidothermus cellulolyticus 11B	25	2349886	2352150	-	2443540	purL	purine
+637138158	Mb0826	phosphoribosylformylglycinamidine synthase subunit II	Mycobacterium bovis AF2122/97	25	896650	898914	+	4345492	purL	purine
+2525258801	CCALI_00847	phosphoribosylformylglycinamidine synthase subunit II (EC 6.3.5.3)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	25	993965	996232	+	3437861	purL	purine
+640083265	NATL1_00021	phosphoribosylformylglycinamidine synthetase II	Prochlorococcus marinus NATL1A	25	2124	4535	+	1864731	purL	purine
+650384118	NIES39_A08180	phosphoribosylformylglycinamidine synthetase II	Arthrospira platensis NIES-39	25	792572	794941	+	6788435	purL	purine
+640077699	A9601_00021	phosphoribosylformylglycinamidine synthetase II	Prochlorococcus marinus AS9601	25	2038	4377	+	1669886	purL	purine
+2540549183	BSU6051_06480	phosphoribosylformylglycinamidine synthetase II PurL	Bacillus subtilis subtilis 6051-HGW	25	703234	705462	+	4215610	purL	purine
+640085333	NATL1_20391	phosphoribosyl formylglycinamidine cyclo-ligase	Prochlorococcus marinus NATL1A	1	1681835	1682875	-	1864731	purM	purine
+640079529	A9601_17981	phosphoribosyl formylglycinamidine cyclo-ligase	Prochlorococcus marinus AS9601	1	1530614	1531657	-	1669886	purM	purine
+637138164	Mb0832	phosphoribosylaminoimidazole synthetase	Mycobacterium bovis AF2122/97	1	904555	905649	+	4345492	purM	purine
+637002466	Missing locus_tag:AC_000091.cds2421.2619853..2620890	phosphoribosylaminoimidazole synthetase	Escherichia coli K12- W3110	1	2619853	2620890	+	4646332	purM	purine
+637703752	cbdb_A1378	phosphoribosylaminoimidazole synthetase	Dehalococcoides mccartyi CBDB1	1	1097511	1098533	+	1395502	purM	purine
+646317129	BSU06500	phosphoribosylaminoimidazole synthetase	Bacillus subtilis subtilis 168	1	706973	708013	+	4215606	purM	purine
+2540549185	BSU6051_06500	phosphoribosylaminoimidazole synthetase PurM	Bacillus subtilis subtilis 6051-HGW	1	706970	708010	+	4215610	purM	purine
+650389386	NIES39_O06360	phosphoribosylformylglycinamidine cyclo-ligase	Arthrospira platensis NIES-39	1	6143597	6144622	-	6788435	purM	purine
+641371941	Caur_1262	phosphoribosylformylglycinamidine cyclo-ligase	Chloroflexus aurantiacus J-10-fl	1	1760236	1761264	-	5258541	purM	purine
+646856998	Trad_1588	phosphoribosylformylglycinamidine cyclo-ligase	"Truepera radiovictrix RQ-24, DSM 17093"	1	1706208	1707263	+	3260398	purM	purine
+639730871	Acel_2071	phosphoribosylformylglycinamidine cyclo-ligase	Acidothermus cellulolyticus 11B	1	2346673	2347725	-	2443540	purM	purine
+646671524	Mrub_0075	phosphoribosylformylglycinamidine cyclo-ligase	"Meiothermus ruber 21, DSM 1279"	1	62016	63023	-	3097457	purM	purine
+2586011358	OP10G_3697	phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	Fimbriimonas ginsengisoli Gsoil 348	1	4070588	4071688	+	5231762	purM	purine
+2525258804	CCALI_00850	phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	1	998547	999590	+	3437861	purM	purine
+643733647	JTY_0831	putative phosphoribosylaminoimidazole synthetase	Mycobacterium bovis BCG Tokyo 172	1	905864	906958	+	4371711	purM	purine
+646317130	BSU06510	phosphoribosylglycinamide formyltransferase	Bacillus subtilis subtilis 168	3	708010	708597	+	4215606	purN	purine
+643733800	JTY_0980	phosphoribosylglycinamide formyltransferase	Mycobacterium bovis BCG Tokyo 172	3	1069698	1070345	+	4371711	purN	purine
+640084270	NATL1_09921	phosphoribosylglycinamide formyltransferase	Prochlorococcus marinus NATL1A	3	911298	911996	-	1864731	purN	purine
+2586009833	OP10G_2193	phosphoribosylglycinamide formyltransferase	Fimbriimonas ginsengisoli Gsoil 348	3	2364132	2364704	-	5231762	purN	purine
+639729150	Acel_0383	phosphoribosylglycinamide formyltransferase	Acidothermus cellulolyticus 11B	3	396648	397256	+	2443540	purN	purine
+650389952	NIES39_R01380	phosphoribosylglycinamide formyltransferase	Arthrospira platensis NIES-39	3	6770609	6771271	+	6788435	purN	purine
+646858018	Trad_2598	phosphoribosylglycinamide formyltransferase	"Truepera radiovictrix RQ-24, DSM 17093"	3	2823360	2823983	+	3260398	purN	purine
+646671575	Mrub_0126	phosphoribosylglycinamide formyltransferase	"Meiothermus ruber 21, DSM 1279"	3	104133	104729	+	3097457	purN	purine
+641371309	Caur_0630	phosphoribosylglycinamide formyltransferase	Chloroflexus aurantiacus J-10-fl	3	844981	845604	+	5258541	purN	purine
+640078684	A9601_09701	phosphoribosylglycinamide formyltransferase	Prochlorococcus marinus AS9601	3	836939	837595	-	1669886	purN	purine
+637138317	Mb0981	phosphoribosylglycinamide formyltransferase	Mycobacterium bovis AF2122/97	3	1068000	1068647	+	4345492	purN	purine
+637002467	Missing locus_tag:AC_000091.cds2422.2620890..2621528	phosphoribosylglycinamide formyltransferase 1	Escherichia coli K12- W3110	3	2620890	2621528	+	4646332	purN	purine
+2540549186	BSU6051_06510	phosphoribosylglycinamide formyltransferase PurN	Bacillus subtilis subtilis 6051-HGW	3	708007	708594	+	4215610	purN	purine
+2525258433	CCALI_00479	"phosphoribosylglycinamide formyltransferase, formyltetrahydrofolate-dependent"	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	3	544949	545608	-	3437861	purN	purine
+637703134	cbdb_A668	probable phosphoribosylglycinamide transformylase	Dehalococcoides mccartyi CBDB1	2	549591	550412	-	1395502	purN	purine
+650386218	NIES39_F00460	tryptophan synthase alpha chain	Arthrospira platensis NIES-39	1	2922491	2923312	+	6788435	trpA	tryptophan
+2540550873	BSU6051_22630	tryptophan synthase alpha subunit TrpA	Bacillus subtilis subtilis 6051-HGW	1	2371507	2372310	-	4215610	trpA	tryptophan
+646672977	Mrub_1512	tryptophan synthase subunit alpha	"Meiothermus ruber 21, DSM 1279"	1	1544300	1545091	+	3097457	trpA	tryptophan
+637138979	Mb1639	tryptophan synthase subunit alpha	Mycobacterium bovis AF2122/97	1	1797725	1798537	+	4345492	trpA	tryptophan
+646318827	BSU22630	tryptophan synthase subunit alpha	Bacillus subtilis subtilis 168	1	2371508	2372311	-	4215606	trpA	tryptophan
+2525260618	CCALI_02664	"tryptophan synthase, alpha chain (EC 4.2.1.20)"	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	1	3135377	3136180	-	3437861	trpA	tryptophan
+2586011478	OP10G_3817	"tryptophan synthase, alpha chain (EC 4.2.1.20)"	Fimbriimonas ginsengisoli Gsoil 348	1	4198799	4199590	+	5231762	trpA	tryptophan
+637703815	cbdb_A1451	"tryptophan synthase, alpha subunit"	Dehalococcoides mccartyi CBDB1	1	1144851	1145618	+	1395502	trpA	tryptophan
+646857747	Trad_2330	"tryptophan synthase, alpha subunit"	"Truepera radiovictrix RQ-24, DSM 17093"	1	2537754	2538557	+	3260398	trpA	tryptophan
+637001249	Missing locus_tag:AC_000091.cds1222.1318936..1318130	"tryptophan synthase, alpha subunit"	Escherichia coli K12- W3110	1	1318130	1318936	-	4646332	trpA	tryptophan
+639729849	Acel_1075	"tryptophan synthase, alpha subunit"	Acidothermus cellulolyticus 11B	1	1185486	1186289	+	2443540	trpA	tryptophan
+640083905	NATL1_06271	"Tryptophan synthase, alpha subunit"	Prochlorococcus marinus NATL1A	1	570379	571179	+	1864731	trpA	tryptophan
+641371362	Caur_0683	"tryptophan synthase, alpha subunit"	Chloroflexus aurantiacus J-10-fl	1	924513	925313	+	5258541	trpA	tryptophan
+640078341	A9601_06281	"Tryptophan synthase, alpha subunit"	Prochlorococcus marinus AS9601	1	548973	549758	+	1669886	trpA	tryptophan
+643734451	JTY_1626	"tryptophan synthase, subunit alpha"	Mycobacterium bovis BCG Tokyo 172	1	1790508	1791320	+	4371711	trpA	tryptophan
+650389367	NIES39_O06170	tryptophan synthase beta chain	Arthrospira platensis NIES-39	2	6129677	6130927	+	6788435	trpB	tryptophan
+2540550874	BSU6051_22640	tryptophan synthase beta subunit TrpB	Bacillus subtilis subtilis 6051-HGW	2	2372303	2373505	-	4215610	trpB	tryptophan
+637703814	cbdb_A1450	tryptophan synthase subunit beta	Dehalococcoides mccartyi CBDB1	2	1143655	1144854	+	1395502	trpB	tryptophan
+2586007662	OP10G_0039	tryptophan synthase subunit beta	Fimbriimonas ginsengisoli Gsoil 348	2	39644	40825	+	5231762	trpB	tryptophan
+640083503	NATL1_02381	Tryptophan synthase subunit beta	Prochlorococcus marinus NATL1A	2	220171	221424	-	1864731	trpB	tryptophan
+646318828	BSU22640	tryptophan synthase subunit beta	Bacillus subtilis subtilis 168	2	2372304	2373506	-	4215606	trpB	tryptophan
+637138978	Mb1638	tryptophan synthase subunit beta	Mycobacterium bovis AF2122/97	2	1796493	1797725	+	4345492	trpB	tryptophan
+646672976	Mrub_1511	tryptophan synthase subunit beta	"Meiothermus ruber 21, DSM 1279"	2	1543083	1544303	+	3097457	trpB	tryptophan
+640077881	A9601_01821	Tryptophan synthase subunit beta	Prochlorococcus marinus AS9601	2	169302	170546	-	1669886	trpB	tryptophan
+2525260619	CCALI_02665	"tryptophan synthase, beta chain (EC 4.2.1.20)"	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	2	3136177	3137397	-	3437861	trpB	tryptophan
+646857746	Trad_2329	"tryptophan synthase, beta subunit"	"Truepera radiovictrix RQ-24, DSM 17093"	2	2536547	2537767	+	3260398	trpB	tryptophan
+639729848	Acel_1074	"tryptophan synthase, beta subunit"	Acidothermus cellulolyticus 11B	2	1184212	1185489	+	2443540	trpB	tryptophan
+641373388	Caur_2705	"tryptophan synthase, beta subunit"	Chloroflexus aurantiacus J-10-fl	2	3623434	3624624	-	5258541	trpB	tryptophan
+637001250	Missing locus_tag:AC_000091.cds1223.1320129..1318936	"tryptophan synthase, beta subunit"	Escherichia coli K12- W3110	2	1318936	1320129	-	4646332	trpB	tryptophan
+643734450	JTY_1625	"tryptophan synthase, subunit beta"	Mycobacterium bovis BCG Tokyo 172	2	1789276	1790508	+	4371711	trpB	tryptophan
+637001251	Missing locus_tag:AC_000091.cds1224.1321499..1320141	fused indole-3-glycerolphosphate synthetase and N-(5-phosphoribosyl)anthranilate isomerase	Escherichia coli K12- W3110	3	1320141	1321499	-	4646332	trpC	tryptophan
+2540550876	BSU6051_22660	indol-3-glycerol phosphate synthase TrpC	Bacillus subtilis subtilis 6051-HGW	3	2374138	2374890	-	4215610	trpC	tryptophan
+640079217	A9601_14961	Indole-3-glycerol phosphate synthase	Prochlorococcus marinus AS9601	3	1277266	1278153	-	1669886	trpC	tryptophan
+637703811	cbdb_A1445	indole-3-glycerol phosphate synthase	Dehalococcoides mccartyi CBDB1	3	1141216	1141995	+	1395502	trpC	tryptophan
+650385613	NIES39_D07270	indole-3-glycerol phosphate synthase	Arthrospira platensis NIES-39	3	2319991	2320881	+	6788435	trpC	tryptophan
+643734449	JTY_1624	indole-3-glycerol phosphate synthase	Mycobacterium bovis BCG Tokyo 172	3	1788389	1789207	+	4371711	trpC	tryptophan
+640085000	NATL1_17161	Indole-3-glycerol phosphate synthase	Prochlorococcus marinus NATL1A	3	1401246	1402133	-	1864731	trpC	tryptophan
+2525260764	CCALI_02809	indole-3-glycerol phosphate synthase (EC 4.1.1.48)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	3	3309713	3310498	-	3437861	trpC	tryptophan
+2586012345	OP10G_4675	indole-3-glycerol phosphate synthase (EC 4.1.1.48)	Fimbriimonas ginsengisoli Gsoil 348	3	5078164	5078952	-	5231762	trpC	tryptophan
+641372070	Caur_1390	Indole-3-glycerol-phosphate synthase	Chloroflexus aurantiacus J-10-fl	3	1927346	1928203	+	5258541	trpC	tryptophan
+646856418	Trad_1002	Indole-3-glycerol-phosphate synthase	"Truepera radiovictrix RQ-24, DSM 17093"	3	1085486	1086361	+	3260398	trpC	tryptophan
+646673100	Mrub_1631	Indole-3-glycerol-phosphate synthase	"Meiothermus ruber 21, DSM 1279"	3	1662273	1663052	-	3097457	trpC	tryptophan
+646318830	BSU22660	indole-3-glycerol-phosphate synthase	Bacillus subtilis subtilis 168	3	2374139	2374888	-	4215606	trpC	tryptophan
+637138977	Mb1637	indole-3-glycerol-phosphate synthase	Mycobacterium bovis AF2122/97	3	1795606	1796424	+	4345492	trpC	tryptophan
+639729847	Acel_1073	Indole-3-glycerol-phosphate synthase	Acidothermus cellulolyticus 11B	3	1183326	1184189	+	2443540	trpC	tryptophan
+643735026	JTY_2202	anthranilate phosphoribosyltransferase	Mycobacterium bovis BCG Tokyo 172	4	2426933	2428045	-	4371711	trpD	tryptophan
+650383961	NIES39_A06610	anthranilate phosphoribosyltransferase	Arthrospira platensis NIES-39	4	631133	632206	+	6788435	trpD	tryptophan
+646858233	Trad_2814	anthranilate phosphoribosyltransferase	"Truepera radiovictrix RQ-24, DSM 17093"	4	3056991	3058046	-	3260398	trpD	tryptophan
+646674396	Mrub_2932	anthranilate phosphoribosyltransferase	"Meiothermus ruber 21, DSM 1279"	4	2970400	2971425	-	3097457	trpD	tryptophan
+637703810	cbdb_A1444	anthranilate phosphoribosyltransferase	Dehalococcoides mccartyi CBDB1	4	1140186	1141211	+	1395502	trpD	tryptophan
+646318831	BSU22670	anthranilate phosphoribosyltransferase	Bacillus subtilis subtilis 168	4	2374881	2375897	-	4215606	trpD	tryptophan
+637139554	Mb2215c	anthranilate phosphoribosyltransferase	Mycobacterium bovis AF2122/97	4	2434664	2435776	-	4345492	trpD	tryptophan
+639729741	Acel_0966	anthranilate phosphoribosyltransferase	Acidothermus cellulolyticus 11B	4	1061988	1063055	+	2443540	trpD	tryptophan
+641372424	Caur_1751	anthranilate phosphoribosyltransferase	Chloroflexus aurantiacus J-10-fl	4	2403535	2404554	+	5258541	trpD	tryptophan
+2586012346	OP10G_4676	Anthranilate phosphoribosyltransferase	Fimbriimonas ginsengisoli Gsoil 348	4	5078949	5079962	-	5231762	trpD	tryptophan
+2525260765	CCALI_02810	anthranilate phosphoribosyltransferase (EC 2.4.2.18)	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	4	3310645	3311682	-	3437861	trpD	tryptophan
+2540550877	BSU6051_22670	anthranilate phosphoribosyltransferase TrpD	Bacillus subtilis subtilis 6051-HGW	4	2374883	2375899	-	4215610	trpD	tryptophan
+637001252	Missing locus_tag:AC_000091.cds1225.1323098..1321503	fused glutamine amidotransferase (component II) of anthranilate synthase and anthranilate phosphoribosyltransferase	Escherichia coli K12- W3110	4	1321503	1323098	-	4646332	trpD	tryptophan
+640078621	A9601_09081	putative Anthranilate synthase component II	Prochlorococcus marinus AS9601	4	780018	781052	+	1669886	trpD	tryptophan
+640084204	NATL1_09271	putative Anthranilate synthase component II	Prochlorococcus marinus NATL1A	4	854992	856029	+	1864731	trpD	tryptophan
+2586012200	OP10G_4531	anthranilate synthase component I	Fimbriimonas ginsengisoli Gsoil 348	5	4931170	4932636	+	5231762	trpE	tryptophan
+637138975	Mb1635	anthranilate synthase component I	Mycobacterium bovis AF2122/97	5	1793269	1794819	+	4345492	trpE	tryptophan
+641372089	Caur_1408	anthranilate synthase component I	Chloroflexus aurantiacus J-10-fl	5	1952709	1954220	-	5258541	trpE	tryptophan
+637703808	cbdb_A1441	anthranilate synthase component I	Dehalococcoides mccartyi CBDB1	5	1138150	1139607	+	1395502	trpE	tryptophan
+639729845	Acel_1071	anthranilate synthase component I	Acidothermus cellulolyticus 11B	5	1181193	1182650	+	2443540	trpE	tryptophan
+646858237	Trad_2818	anthranilate synthase component I	"Truepera radiovictrix RQ-24, DSM 17093"	5	3060025	3061479	-	3260398	trpE	tryptophan
+646318832	BSU22680	anthranilate synthase component I	Bacillus subtilis subtilis 168	5	2375869	2377416	-	4215606	trpE	tryptophan
+646674404	Mrub_2940	anthranilate synthase component I	"Meiothermus ruber 21, DSM 1279"	5	2975515	2976930	-	3097457	trpE	tryptophan
+640079514	A9601_17841	Anthranilate synthase component I and chorismate binding enzyme	Prochlorococcus marinus AS9601	5	1517744	1519264	-	1669886	trpE	tryptophan
+640085316	NATL1_20231	Anthranilate synthase component I and chorismate binding enzyme	Prochlorococcus marinus NATL1A	5	1667649	1669169	-	1864731	trpE	tryptophan
+2540550878	BSU6051_22680	anthranilate synthase TrpE	Bacillus subtilis subtilis 6051-HGW	5	2375871	2377418	-	4215610	trpE	tryptophan
+2525258865	CCALI_00911	"anthranilate synthase, component I (EC 4.1.3.27)"	"Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)"	5	1065403	1066911	-	3437861	trpE	tryptophan
+650386287	NIES39_G00240	anthranilate synthetase component I	Arthrospira platensis NIES-39	5	2998969	3000513	-	6788435	trpE	tryptophan
+637001253	Missing locus_tag:AC_000091.cds1226.1324660..1323098	component I of anthranilate synthase	Escherichia coli K12- W3110	5	1323098	1324660	-	4646332	trpE	tryptophan
+643734447	JTY_1622	putative anthranilate synthase component I	Mycobacterium bovis BCG Tokyo 172	5	1786052	1787602	+	4371711	trpE	tryptophan
+646918460	ECD_01926	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	Escherichia coli BL21(DE3)	14	1990928	1991665	+	4558953	hisA	histidine
+637055584	PA5141	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	Pseudomonas aeruginosa PAO1	14	5789395	5790132	-	6264404	hisA	histidine
+640434539	SDY_2217	N-(5'-phospho-L-ribosyl-formimino)-5-amino-1- (5'-phosphoribosyl)-4- imidazolecarboxamide isomerase	Shigella dysenteriae sv. 1 Sd197	14	2020957	2021697	-	4369232	hisA	histidine
+640496353	Csac_2021	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Caldicellulosiruptor saccharolyticus DSM 8903	14	2166028	2166741	-	2970275	hisA	histidine
+640108306	Cthe_2887	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Clostridium thermocellum ATCC 27405	14	3413519	3414232	+	3843301	hisA	histidine
+2555825125	Tmari_1041	Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Thermotoga maritima MSB8	14	1053551	1054276	-	1869612	hisA	histidine
+642769696	Gbem_3701	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Geobacter bemidjiensis Bem, DSM 16622	14	4227025	4227756	-	4615150	hisA	histidine
+638142644	HNE_0070	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	Hyphomonas neptunium ATCC 15444	7	56214	56939	-	3705021	hisA	histidine
+646918458	ECD_01924	imidazole glycerol-phosphate dehydratase/histidinol phosphatase	Escherichia coli BL21(DE3)	12	1989271	1990338	+	4558953	hisB	histidine
+2555825127	Tmari_1043	Imidazoleglycerol-phosphate dehydratase	Thermotoga maritima MSB8	12	1054857	1055444	-	1869612	hisB	histidine
+640108303	Cthe_2884	Imidazoleglycerol-phosphate dehydratase	Clostridium thermocellum ATCC 27405	12	3411174	3411761	+	3843301	hisB	histidine
+637055586	PA5143	imidazoleglycerol-phosphate dehydratase	Pseudomonas aeruginosa PAO1	12	5791083	5791676	-	6264404	hisB	histidine
+640496355	Csac_2023	Imidazoleglycerol-phosphate dehydratase	Caldicellulosiruptor saccharolyticus DSM 8903	12	2167346	2167930	-	2970275	hisB	histidine
+642769698	Gbem_3703	imidazoleglycerol-phosphate dehydratase	Geobacter bemidjiensis Bem, DSM 16622	12	4228603	4229190	-	4615150	hisB	histidine
+640434541	SDY_2219	imidazoleglycerolphosphate dehydratase/histidinol-phosphate phosphatase	Shigella dysenteriae sv. 1 Sd197	12	2022284	2023354	-	4369232	hisB	histidine
+638142647	HNE_0073	imidazoleglycerol phosphate dehydratase	Hyphomonas neptunium ATCC 15444	8	58991	59617	-	3705021	hisB	histidine
+640496356	Csac_2024	aminotransferase, class I and II	Caldicellulosiruptor saccharolyticus DSM 8903	11	2167933	2168982	-	2970275	hisC	histidine
+646918457	ECD_01923	histidinol-phosphate aminotransferase	Escherichia coli BL21(DE3)	11	1988201	1989271	+	4558953	hisC	histidine
+642766204	Gbem_0236	histidinol-phosphate aminotransferase	Geobacter bemidjiensis Bem, DSM 16622	11	280211	281263	+	4615150	hisC	histidine
+640108302	Cthe_2883	histidinol-phosphate aminotransferase	Clostridium thermocellum ATCC 27405	11	3409985	3411061	+	3843301	hisC	histidine
+640434542	SDY_2220	histidinol-phosphate aminotransferase	Shigella dysenteriae sv. 1 Sd197	11	2023351	2024421	-	4369232	hisC	histidine
+2555825128	Tmari_1044	Histidinol-phosphate aminotransferase	Thermotoga maritima MSB8	11	1055441	1056448	-	1869612	hisC	histidine
+637053582	PA3165	putative aminotransferase	Pseudomonas aeruginosa PAO1	11	3552979	3554088	-	6264404	hisC	histidine
+638143695	HNE_1125	histidinol-phosphate aminotransferase	Hyphomonas neptunium ATCC 15444	1	1136897	1138000	+	3705021	hisC	histidine
+642769699	Gbem_3704	histidinol dehydrogenase	Geobacter bemidjiensis Bem, DSM 16622	10	4229229	4230518	-	4615150	hisD	histidine
+640496357	Csac_2025	Histidinol dehydrogenase	Caldicellulosiruptor saccharolyticus DSM 8903	10	2168975	2170294	-	2970275	hisD	histidine
+637054877	PA4448	histidinol dehydrogenase	Pseudomonas aeruginosa PAO1	10	4982104	4983426	-	6264404	hisD	histidine
+646918456	ECD_01922	histidinol dehydrogenase	Escherichia coli BL21(DE3)	10	1986963	1988204	+	4558953	hisD	histidine
+2555825129	Tmari_1045	Histidinol dehydrogenase	Thermotoga maritima MSB8	10	1056445	1057731	-	1869612	hisD	histidine
+640108301	Cthe_2882	Histidinol dehydrogenase	Clostridium thermocellum ATCC 27405	10	3408444	3409751	+	3843301	hisD	histidine
+640434543	SDY_2221	L-histidinal:NAD+ oxidoreductase	Shigella dysenteriae sv. 1 Sd197	10	2024418	2025722	-	4369232	hisD	histidine
+638143916	HNE_1346	histidinol dehydrogenase	Hyphomonas neptunium ATCC 15444	2	1380402	1381700	+	3705021	hisD	histidine
+2555825124	Tmari_1040	Imidazole glycerol phosphate synthase cyclase subunit	Thermotoga maritima MSB8	16	1052800	1053561	-	1869612	hisF	histidine
+646918461	ECD_01927	imidazole glycerol phosphate synthase subunit HisF	Escherichia coli BL21(DE3)	16	1991647	1992423	+	4558953	hisF	histidine
+637055583	PA5140	imidazole glycerol phosphate synthase subunit HisF	Pseudomonas aeruginosa PAO1	16	5788614	5789384	-	6264404	hisF	histidine
+640434538	SDY_2216	imidazole glycerol phosphate synthase subunit in heterodimer with HisH	Shigella dysenteriae sv. 1 Sd197	16	2020199	2020975	-	4369232	hisF	histidine
+640108307	Cthe_2888	imidazoleglycerol phosphate synthase, cyclase subunit	Clostridium thermocellum ATCC 27405	16	3414245	3415006	+	3843301	hisF	histidine
+640496352	Csac_2020	imidazoleglycerol phosphate synthase, cyclase subunit	Caldicellulosiruptor saccharolyticus DSM 8903	16	2165249	2166001	-	2970275	hisF	histidine
+642769695	Gbem_3700	imidazoleglycerol phosphate synthase, cyclase subunit	Geobacter bemidjiensis Bem, DSM 16622	16	4226149	4226907	-	4615150	hisF	histidine
+638142640	HNE_0066	imidazoleglycerol phosphate synthase, cyclase subunit	Hyphomonas neptunium ATCC 15444	3	53725	54483	-	3705021	hisF	histidine
+646918455	ECD_01921	ATP phosphoribosyltransferase	Escherichia coli BL21(DE3)	9	1985995	1986894	+	4558953	hisG	histidine
+640108300	Cthe_2881	ATP phosphoribosyltransferase	Clostridium thermocellum ATCC 27405	9	3407797	3408438	+	3843301	hisG	histidine
+642766698	Gbem_0727	ATP phosphoribosyltransferase	Geobacter bemidjiensis Bem, DSM 16622	9	858497	859369	+	4615150	hisG	histidine
+640434544	SDY_2222	ATP phosphoribosyltransferase	Shigella dysenteriae sv. 1 Sd197	9	2025728	2026627	-	4369232	hisG	histidine
+640496358	Csac_2026	ATP phosphoribosyltransferase	Caldicellulosiruptor saccharolyticus DSM 8903	9	2170267	2170896	-	2970275	hisG	histidine
+637054878	PA4449	ATP phosphoribosyltransferase	Pseudomonas aeruginosa PAO1	9	4983552	4984187	-	6264404	hisG	histidine
+642769701	Gbem_3706	ATP phosphoribosyltransferase	Geobacter bemidjiensis Bem, DSM 16622	9	4230812	4231450	-	4615150	hisG	histidine
+2555825130	Tmari_1046	ATP phosphoribosyltransferase catalytic subunit	Thermotoga maritima MSB8	9	1057703	1058329	-	1869612	hisG	histidine
+638143152	HNE_0579	ATP phosphoribosyltransferase	Hyphomonas neptunium ATCC 15444	4	575874	576584	+	3705021	hisG	histidine
+637053569	PA3152	glutamine amidotransferase	Pseudomonas aeruginosa PAO1	13	3535971	3536579	-	6264404	hisH	histidine
+640434540	SDY_2218	glutamine amidotransferase subunit of heterodimer with HisF	Shigella dysenteriae sv. 1 Sd197	13	2021694	2022284	-	4369232	hisH	histidine
+2555825126	Tmari_1042	Imidazole glycerol phosphate synthase amidotransferase subunit	Thermotoga maritima MSB8	13	1054255	1054860	-	1869612	hisH	histidine
+646918459	ECD_01925	imidazole glycerol phosphate synthase subunit HisH	Escherichia coli BL21(DE3)	13	1990338	1990928	+	4558953	hisH	histidine
+640496354	Csac_2022	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit	Caldicellulosiruptor saccharolyticus DSM 8903	13	2166738	2167349	-	2970275	hisH	histidine
+642769697	Gbem_3702	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit	Geobacter bemidjiensis Bem, DSM 16622	13	4227887	4228510	-	4615150	hisH	histidine
+640108305	Cthe_2886	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit	Clostridium thermocellum ATCC 27405	13	3412830	3413444	+	3843301	hisH	histidine
+638142645	HNE_0071	imidazoleglycerol phosphate synthase, glutamine amidotransferase subunit	Hyphomonas neptunium ATCC 15444	5	56936	57568	-	3705021	hisH	histidine
+646918462	ECD_01928	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein	Escherichia coli BL21(DE3)	17	1992417	1993028	+	4558953	hisI	histidine
+642766697	Gbem_0726	phosphoribosyl-AMP cyclohydrolase	Geobacter bemidjiensis Bem, DSM 16622	17	857967	858344	+	4615150	hisI	histidine
+640434537	SDY_2215	phosphoribosyl-amp cyclohydrolase	Shigella dysenteriae sv. 1 Sd197	17	2019594	2020205	-	4369232	hisI	histidine
+637055509	PA5066	phosphoribosyl-AMP cyclohydrolase	Pseudomonas aeruginosa PAO1	17	5705794	5706198	+	6264404	hisI	histidine
+640496351	Csac_2019	phosphoribosyl-AMP cyclohydrolase	Caldicellulosiruptor saccharolyticus DSM 8903	17	2164630	2165247	-	2970275	hisI	histidine
+640108308	Cthe_2889	phosphoribosyl-AMP cyclohydrolase	Clostridium thermocellum ATCC 27405	17	3415028	3415690	+	3843301	hisI	histidine
+2555825123	Tmari_1039	Phosphoribosyl-AMP cyclohydrolase / Phosphoribosyl-ATP pyrophosphatase	Thermotoga maritima MSB8	17	1052210	1052800	-	1869612	hisI	histidine
+638145933	HNE_3376	phosphoribosyl-AMP cyclohydrolase	Hyphomonas neptunium ATCC 15444	6	3521179	3521574	+	3705021	hisI	histidine
+646916622	ECD_00076	2-isopropylmalate synthase	Escherichia coli BL21(DE3)	18	84763	86334	-	4558953	leuA	leucine
+640106815	Cthe_1391	2-isopropylmalate synthase	Clostridium thermocellum ATCC 27405	18	1698328	1699863	-	3843301	leuA	leucine
+2555824629	Tmari_0550	2-isopropylmalate synthase	Thermotoga maritima MSB8	18	581146	582687	+	1869612	leuA	leucine
+642768735	Gbem_2742	2-isopropylmalate synthase	Geobacter bemidjiensis Bem, DSM 16622	18	3170244	3171791	-	4615150	leuA	leucine
+640495492	Csac_1145	2-isopropylmalate synthase	Caldicellulosiruptor saccharolyticus DSM 8903	18	1300004	1301527	+	2970275	leuA	leucine
+640432533	SDY_0101	2-isopropylmalate synthase	Shigella dysenteriae sv. 1 Sd197	18	102543	104114	-	4369232	leuA	leucine
+637051610	PA1217	probable 2-isopropylmalate synthase	Pseudomonas aeruginosa PAO1	18	1318147	1319514	-	6264404	leuA	leucine
+638143013	HNE_0440	2-isopropylmalate synthase	Hyphomonas neptunium ATCC 15444	7	436088	437647	-	3705021	leuA	leucine
+646916621	ECD_00075	3-isopropylmalate dehydrogenase	Escherichia coli BL21(DE3)	16	83672	84763	-	4558953	leuB	leucine
+2555824632	Tmari_0553	3-isopropylmalate dehydrogenase	Thermotoga maritima MSB8	16	584451	585515	+	1869612	leuB	leucine
+640495678	Csac_1333	3-isopropylmalate dehydrogenase	Caldicellulosiruptor saccharolyticus DSM 8903	16	1501226	1502293	+	2970275	leuB	leucine
+640432532	SDY_0100	3-isopropylmalate dehydrogenase	Shigella dysenteriae sv. 1 Sd197	16	101452	102546	-	4369232	leuB	leucine
+640107615	Cthe_2209	3-isopropylmalate dehydrogenase	Clostridium thermocellum ATCC 27405	16	2638003	2639091	-	3843301	leuB	leucine
+637053530	PA3118	3-isopropylmalate dehydrogenase	Pseudomonas aeruginosa PAO1	16	3500668	3501750	-	6264404	leuB	leucine
+642766880	Gbem_0908	3-isopropylmalate dehydrogenase	Geobacter bemidjiensis Bem, DSM 16622	16	1069867	1070955	+	4615150	leuB	leucine
+638142630	HNE_0056	3-isopropylmalate dehydrogenase	Hyphomonas neptunium ATCC 15444	8	46142	47194	+	3705021	leuB	leucine
+2555824630	Tmari_0551	3-isopropylmalate dehydratase large subunit	Thermotoga maritima MSB8	15	582689	583942	+	1869612	leuC	leucine
+640495676	Csac_1331	3-isopropylmalate dehydratase, large subunit	Caldicellulosiruptor saccharolyticus DSM 8903	15	1499443	1500732	+	2970275	leuC	leucine
+640107617	Cthe_2211	3-isopropylmalate dehydratase, large subunit	Clostridium thermocellum ATCC 27405	15	2639652	2640911	-	3843301	leuC	leucine
+640432531	SDY_0099	3-isopropylmalate isomerase subunit	Shigella dysenteriae sv. 1 Sd197	15	100049	101449	-	4369232	leuC	leucine
+642768730	Gbem_2737	homoaconitate hydratase family protein	Geobacter bemidjiensis Bem, DSM 16622	15	3164616	3165899	-	4615150	leuC	leucine
+637053533	PA3121	isopropylmalate isomerase large subunit	Pseudomonas aeruginosa PAO1	15	3503292	3504716	-	6264404	leuC	leucine
+646916620	ECD_00074	isopropylmalate isomerase large subunit	Escherichia coli BL21(DE3)	15	82269	83669	-	4558953	leuC	leucine
+638142621	HNE_0047	3-isopropylmalate dehydratase, large subunit	Hyphomonas neptunium ATCC 15444	9	39148	40545	+	3705021	leuC	leucine
+2555824631	Tmari_0552	3-isopropylmalate dehydratase small subunit	Thermotoga maritima MSB8	14	583953	584447	+	1869612	leuD	leucine
+640107616	Cthe_2210	3-isopropylmalate dehydratase, small subunit	Clostridium thermocellum ATCC 27405	14	2639093	2639662	-	3843301	leuD	leucine
+640495677	Csac_1332	3-isopropylmalate dehydratase, small subunit	Caldicellulosiruptor saccharolyticus DSM 8903	14	1500733	1501254	+	2970275	leuD	leucine
+642768729	Gbem_2736	aconitate hydratase domain protein	Geobacter bemidjiensis Bem, DSM 16622	14	3163991	3164518	-	4615150	leuD	leucine
+637053532	PA3120	isopropylmalate isomerase small subunit	Pseudomonas aeruginosa PAO1	14	3502642	3503280	-	6264404	leuD	leucine
+646916619	ECD_00073	isopropylmalate isomerase small subunit	Escherichia coli BL21(DE3)	14	81653	82258	-	4558953	leuD	leucine
+640432530	SDY_0098	isopropylmalate isomerase subunit	Shigella dysenteriae sv. 1 Sd197	14	99433	100038	-	4369232	leuD	leucine
+638143649	HNE_1078	3-isopropylmalate dehydratase, small subunit	Hyphomonas neptunium ATCC 15444	10	1084972	1085595	+	3705021	leuD	leucine
+646917694	ECD_01129	adenylosuccinate lyase	Escherichia coli BL21(DE3)	3	1193983	1195353	-	4558953	purB	purine
+640495915	Csac_1579	adenylosuccinate lyase	Caldicellulosiruptor saccharolyticus DSM 8903	3	1737139	1738569	+	2970275	purB	purine
+640106158	Cthe_0741	adenylosuccinate lyase	Clostridium thermocellum ATCC 27405	3	903102	904529	-	3843301	purB	purine
+640434353	SDY_2021	adenylosuccinate lyase	Shigella dysenteriae sv. 1 Sd197	3	1829280	1830650	+	4369232	purB	purine
+642768329	Gbem_2333	adenylosuccinate lyase	Geobacter bemidjiensis Bem, DSM 16622	3	2707332	2708627	-	4615150	purB	purine
+2555825185	Tmari_1101	Adenylosuccinate lyase	Thermotoga maritima MSB8	3	1112451	1113746	+	1869612	purB	purine
+637053937	PA3517	probable lyase	Pseudomonas aeruginosa PAO1	3	3933317	3934750	-	6264404	purB	purine
+638144531	HNE_1969	adenylosuccinate lyase	Hyphomonas neptunium ATCC 15444	61	2038174	2039472	+	3705021	purB	purine
+646918880	ECD_02368	phosphoribosylaminoimidazole- succinocarboxamidesynthase	Escherichia coli BL21(DE3)	4	2461394	2462107	-	4558953	purC	purine
+637051405	PA1013	phosphoribosylaminoimidazole-succinocarboxamide synthase	Pseudomonas aeruginosa PAO1	4	1096063	1096773	+	6264404	purC	purine
+2555825336	Tmari_1248	Phosphoribosylaminoimidazole-succinocarboxamide synthase	Thermotoga maritima MSB8	4	1268952	1269644	+	1869612	purC	purine
+640496331	Csac_1999	phosphoribosylaminoimidazole-succinocarboxamide synthase	Caldicellulosiruptor saccharolyticus DSM 8903	4	2145810	2146520	-	2970275	purC	purine
+642768506	Gbem_2511	phosphoribosylaminoimidazole-succinocarboxamide synthase	Geobacter bemidjiensis Bem, DSM 16622	4	2911843	2912733	+	4615150	purC	purine
+640108304	Cthe_2885	phosphoribosylaminoimidazole-succinocarboxamide synthase	Clostridium thermocellum ATCC 27405	4	3411864	3412748	+	3843301	purC	purine
+640434961	SDY_2664	phosphoribosylaminoimidazole-succinocarboxamide synthetase	Shigella dysenteriae sv. 1 Sd197	4	2456494	2457207	-	4369232	purC	purine
+638145164	HNE_2605	phosphoribosylaminoimidazole-succinocarboxamide synthase	Hyphomonas neptunium ATCC 15444	62	2766786	2767565	+	3705021	purC	purine
+640106668	Cthe_1245	phosphoribosylamine--glycine ligase	Clostridium thermocellum ATCC 27405	12	1508881	1510140	-	3843301	purD	purine
+637055296	PA4855	phosphoribosylamine--glycine ligase	Pseudomonas aeruginosa PAO1	12	5450757	5452046	+	6264404	purD	purine
+2555825343	Tmari_1255	Phosphoribosylamine--glycine ligase	Thermotoga maritima MSB8	12	1275547	1276740	+	1869612	purD	purine
+642769451	Gbem_3457	phosphoribosylamine--glycine ligase	Geobacter bemidjiensis Bem, DSM 16622	12	3967845	3969116	-	4615150	purD	purine
+640496323	Csac_1991	phosphoribosylamine--glycine ligase	Caldicellulosiruptor saccharolyticus DSM 8903	12	2136706	2137968	-	2970275	purD	purine
+646920416	ECD_03882	phosphoribosylamine-glycine ligase	Escherichia coli BL21(DE3)	12	4112667	4113956	-	4558953	purD	purine
+640435948	SDY_3721	phosphoribosylglycinamide synthetase	Shigella dysenteriae sv. 1 Sd197	12	3452000	3453289	+	4369232	purD	purine
+638143494	HNE_0922	phosphoribosylamine--glycine ligase	Hyphomonas neptunium ATCC 15444	63	939626	940918	+	3705021	purD	purine
+640432698	SDY_0275	AIR carboxylase, catalytic subunit	Shigella dysenteriae sv. 1 Sd197	2	270569	271078	-	4369232	purE	purine
+2555824513	Tmari_0443	Phosphoribosylaminoimidazole carboxylase catalytic subunit	Thermotoga maritima MSB8	2	469173	469688	-	1869612	purE	purine
+646917025	ECD_00473	phosphoribosylaminoimidazole carboxylase catalytic subunit	Escherichia coli BL21(DE3)	2	521678	522187	-	4558953	purE	purine
+640106673	Cthe_1250	phosphoribosylaminoimidazole carboxylase, catalytic subunit	Clostridium thermocellum ATCC 27405	2	1515028	1515549	-	3843301	purE	purine
+637055876	PA5426	phosphoribosylaminoimidazole carboxylase, catalytic subunit	Pseudomonas aeruginosa PAO1	2	6106272	6106763	-	6264404	purE	purine
+640495964	Csac_1630	phosphoribosylaminoimidazole carboxylase, catalytic subunit	Caldicellulosiruptor saccharolyticus DSM 8903	2	1789495	1790025	+	2970275	purE	purine
+642769450	Gbem_3456	phosphoribosylaminoimidazole carboxylase, catalytic subunit	Geobacter bemidjiensis Bem, DSM 16622	2	3967112	3967618	-	4615150	purE	purine
+638146063	HNE_3506	phosphoribosylaminoimidazole carboxylase, catalytic subunit	Hyphomonas neptunium ATCC 15444	64	3640999	3641493	+	3705021	purE	purine
+640434822	SDY_2511	amidophosphoribosyltransferase	Shigella dysenteriae sv. 1 Sd197	6	2309226	2310743	-	4369232	purF	purine
+640496327	Csac_1995	amidophosphoribosyltransferase	Caldicellulosiruptor saccharolyticus DSM 8903	6	2141219	2142643	-	2970275	purF	purine
+637053520	PA3108	amidophosphoribosyltransferase	Pseudomonas aeruginosa PAO1	6	3488409	3489914	-	6264404	purF	purine
+2555825340	Tmari_1252	Amidophosphoribosyltransferase	Thermotoga maritima MSB8	6	1272322	1273617	+	1869612	purF	purine
+646918743	ECD_02237	amidophosphoribosyltransferase	Escherichia coli BL21(DE3)	6	2315974	2317491	-	4558953	purF	purine
+642768325	Gbem_2329	amidophosphoribosyltransferase	Geobacter bemidjiensis Bem, DSM 16622	6	2700772	2702205	-	4615150	purF	purine
+640106672	Cthe_1249	amidophosphoribosyltransferase	Clostridium thermocellum ATCC 27405	6	1513511	1514977	-	3843301	purF	purine
+638143290	HNE_0717	amidophosphoribosyltransferase	Hyphomonas neptunium ATCC 15444	65	729490	730941	-	3705021	purF	purine
+637055295	PA4854	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Pseudomonas aeruginosa PAO1	10	5449046	5450653	+	6264404	purH	purine
+646920417	ECD_03883	bifunctionalphosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Escherichia coli BL21(DE3)	10	4113968	4115557	-	4558953	purH	purine
+2555825342	Tmari_1254	IMP cyclohydrolase / Phosphoribosylaminoimidazolecarboxamide formyltransferase	Thermotoga maritima MSB8	10	1274176	1275534	+	1869612	purH	purine
+640496324	Csac_1992	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Caldicellulosiruptor saccharolyticus DSM 8903	10	2138001	2139542	-	2970275	purH	purine
+640106669	Cthe_1246	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Clostridium thermocellum ATCC 27405	10	1510165	1511709	-	3843301	purH	purine
+642769452	Gbem_3458	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	Geobacter bemidjiensis Bem, DSM 16622	10	3969435	3970997	-	4615150	purH	purine
+640435947	SDY_3720	phosphoribosylaminoimidazolecarboxamideformyltransferase	Shigella dysenteriae sv. 1 Sd197	10	3450399	3451988	+	4369232	purH	purine
+638145929	HNE_3372	bifunctional purine biosynthesis protein PurH	Hyphomonas neptunium ATCC 15444	66	3516969	3518558	+	3705021	purH	purine
+642768327	Gbem_2331	AIR synthase related protein	Geobacter bemidjiensis Bem, DSM 16622	5	2703277	2706267	-	4615150	purL	purine
+640435036	SDY_2747	phosphoribosylformyl-glycineamide synthetase FGAM synthetase	Shigella dysenteriae sv. 1 Sd197	5	2545533	2549420	-	4369232	purL	purine
+646918962	ECD_02449	phosphoribosylformylglycinamidine synthase	Escherichia coli BL21(DE3)	5	2557479	2561366	-	4558953	purL	purine
+637054182	PA3763	phosphoribosylformylglycinamidine synthase	Pseudomonas aeruginosa PAO1	5	4215544	4219440	-	6264404	purL	purine
+640105968	Cthe_0554	phosphoribosylformylglycinamidine synthase	Clostridium thermocellum ATCC 27405	5	676514	680284	+	3843301	purL	purine
+640496328	Csac_1996	phosphoribosylformylglycinamidine synthase II	Caldicellulosiruptor saccharolyticus DSM 8903	5	2142625	2144817	-	2970275	purL	purine
+2555825339	Tmari_1251	Phosphoribosylformylglycinamidine synthase, synthetase subunit	Thermotoga maritima MSB8	5	1270512	1272317	+	1869612	purL	purine
+638144504	HNE_1942	phosphoribosylformylglycinamidine synthase II	Hyphomonas neptunium ATCC 15444	1	2010803	2013064	+	3705021	purL	purine
+646918902	ECD_02391	phosphoribosylaminoimidazole synthetase	Escherichia coli BL21(DE3)	8	2485678	2486715	+	4558953	purM	purine
+637051336	PA0945	phosphoribosylaminoimidazole synthetase	Pseudomonas aeruginosa PAO1	8	1032763	1033824	-	6264404	purM	purine
+640434982	SDY_2688	phosphoribosylaminoimidazole synthetase	Shigella dysenteriae sv. 1 Sd197	8	2480836	2481873	+	4369232	purM	purine
+642768399	Gbem_2402	phosphoribosylformylglycinamidine cyclo-ligase	Geobacter bemidjiensis Bem, DSM 16622	8	2781267	2782313	+	4615150	purM	purine
+640496326	Csac_1994	phosphoribosylformylglycinamidine cyclo-ligase	Caldicellulosiruptor saccharolyticus DSM 8903	8	2140191	2141216	-	2970275	purM	purine
+640106671	Cthe_1248	phosphoribosylformylglycinamidine cyclo-ligase	Clostridium thermocellum ATCC 27405	8	1512396	1513418	-	3843301	purM	purine
+2555825344	Tmari_1256	Phosphoribosylformylglycinamidine cyclo-ligase	Thermotoga maritima MSB8	8	1276737	1277672	+	1869612	purM	purine
+638144823	HNE_2263	phosphoribosylformylglycinamidine cyclo-ligase	Hyphomonas neptunium ATCC 15444	2	2366903	2367931	+	3705021	purM	purine
+646918903	ECD_02392	phosphoribosylglycinamide formyltransferase	Escherichia coli BL21(DE3)	9	2486715	2487353	+	4558953	purN	purine
+637051335	PA0944	phosphoribosylglycinamide formyltransferase	Pseudomonas aeruginosa PAO1	9	1032095	1032763	-	6264404	purN	purine
+640106670	Cthe_1247	phosphoribosylglycinamide formyltransferase	Clostridium thermocellum ATCC 27405	9	1511773	1512402	-	3843301	purN	purine
+640496325	Csac_1993	phosphoribosylglycinamide formyltransferase	Caldicellulosiruptor saccharolyticus DSM 8903	9	2139535	2140194	-	2970275	purN	purine
+2555825341	Tmari_1253	Phosphoribosylglycinamide formyltransferase	Thermotoga maritima MSB8	9	1273578	1274195	+	1869612	purN	purine
+642768400	Gbem_2403	phosphoribosylglycinamide formyltransferase	Geobacter bemidjiensis Bem, DSM 16622	9	2782329	2782943	+	4615150	purN	purine
+640434983	SDY_2689	phosphoribosylglycinamide formyltransferase 1	Shigella dysenteriae sv. 1 Sd197	9	2481873	2482511	+	4369232	purN	purine
+638144824	HNE_2264	phosphoribosylglycinamide formyltransferase	Hyphomonas neptunium ATCC 15444	3	2367928	2368512	+	3705021	purN	purine
+640084064	NATL1_07891	30S ribosomal protein S2	Prochlorococcus marinus NATL1A	19	720730	721398	+	1864731	rpsB	ssu_rprotein
+646318190	BSU16490	30S ribosomal protein S2	Bacillus subtilis subtilis 168	19	1717933	1718673	+	4215606	rpsB	ssu_rprotein
+650389292	NIES39_O05420	30S ribosomal protein S2	Arthrospira platensis NIES-39	19	6081008	6081805	-	6788435	rpsB	ssu_rprotein
+637702842	cbdb_A322	30S ribosomal protein S2	Dehalococcoides mccartyi CBDB1	19	278605	279342	-	1395502	rpsB	ssu_rprotein
+637140261	Mb2914c	30S ribosomal protein S2	Mycobacterium bovis AF2122/97	19	3155635	3156498	-	4345492	rpsB	ssu_rprotein
+637054076	PA3656	30S ribosomal protein S2	Pseudomonas aeruginosa PAO1	19	4094167	4094907	-	6264404	rpsB	ssu_rprotein
+643735734	JTY_2906	30S ribosomal protein S2	Mycobacterium bovis BCG Tokyo 172	19	3145878	3146741	-	4371711	rpsB	ssu_rprotein
+646916713	ECD_00167	30S ribosomal protein S2	Escherichia coli BL21(DE3)	19	192717	193442	+	4558953	rpsB	ssu_rprotein
+2586012282	OP10G_4612	30S ribosomal protein S2	Fimbriimonas ginsengisoli Gsoil 348	19	5009079	5009906	+	5231762	rpsB	ssu_rprotein
+640078528	A9601_08141	30S ribosomal protein S2	Prochlorococcus marinus AS9601	19	700958	701662	+	1669886	rpsB	ssu_rprotein
+646673250	Mrub_1780	30S ribosomal protein S2	Meiothermus ruber 21, DSM 1279	19	1833740	1834471	+	3097457	rpsB	ssu_rprotein
+640432613	SDY_0185	30S ribosomal subunit protein S2	Shigella dysenteriae sv. 1 Sd197	19	190136	190861	+	4369232	rpsB	ssu_rprotein
+637000164	Missing locus_tag:AC_000091.cds165.189874..190599	30S ribosomal subunit protein S2	Escherichia coli K12- W3110	19	189874	190599	+	4646332	rpsB	ssu_rprotein
+641374236	Caur_3565	ribosomal protein S2	Chloroflexus aurantiacus J-10-fl	19	4782218	4782934	+	5258541	rpsB	ssu_rprotein
+2540550229	BSU6051_16490	ribosomal protein S2	Bacillus subtilis subtilis 6051-HGW	19	1717929	1718669	+	4215610	rpsB	ssu_rprotein
+640496702	Csac_2359	ribosomal protein S2	Caldicellulosiruptor saccharolyticus DSM 8903	19	2474351	2475127	-	2970275	rpsB	ssu_rprotein
+646858204	Trad_2784	ribosomal protein S2	Truepera radiovictrix RQ-24, DSM 17093	19	3031743	3032570	+	3260398	rpsB	ssu_rprotein
+640106424	Cthe_1006	ribosomal protein S2	Clostridium thermocellum ATCC 27405	19	1202340	1203098	-	3843301	rpsB	ssu_rprotein
+639730326	Acel_1542	ribosomal protein S2	Acidothermus cellulolyticus 11B	19	1739398	1740225	-	2443540	rpsB	ssu_rprotein
+642768749	Gbem_2756	ribosomal protein S2	Geobacter bemidjiensis Bem, DSM 16622	19	3185359	3186126	-	4615150	rpsB	ssu_rprotein
+2525259483	CCALI_01529	SSU ribosomal protein S2P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	19	1804989	1805864	+	3437861	rpsB	ssu_rprotein
+2555824845	Tmari_0763	SSU ribosomal protein S2p (SAe)	Thermotoga maritima MSB8	19	789579	790367	+	1869612	rpsB	ssu_rprotein
+638144331	HNE_1768	ribosomal protein S2	Hyphomonas neptunium ATCC 15444	4	1812145	1812936	+	3705021	rpsB	ssu_rprotein
+637138058	Mb0727	30S ribosomal protein S3	Mycobacterium bovis AF2122/97	20	806104	806928	+	4345492	rpsC	ssu_rprotein
+640085288	NATL1_19971	30S ribosomal protein S3	Prochlorococcus marinus NATL1A	20	1643697	1644431	-	1864731	rpsC	ssu_rprotein
+643733543	JTY_0727	30S ribosomal protein S3	Mycobacterium bovis BCG Tokyo 172	20	806105	806929	+	4371711	rpsC	ssu_rprotein
+650385531	NIES39_D06450	30S ribosomal protein S3	Arthrospira platensis NIES-39	20	2227473	2228201	+	6788435	rpsC	ssu_rprotein
+640079487	A9601_17591	30S ribosomal protein S3	Prochlorococcus marinus AS9601	20	1494617	1495348	-	1669886	rpsC	ssu_rprotein
+646674077	Mrub_2613	30S ribosomal protein S3	Meiothermus ruber 21, DSM 1279	20	2652099	2652860	-	3097457	rpsC	ssu_rprotein
+646316549	BSU01220	30S ribosomal protein S3	Bacillus subtilis subtilis 168	20	138842	139498	+	4215606	rpsC	ssu_rprotein
+646919686	ECD_03165	30S ribosomal protein S3	Escherichia coli BL21(DE3)	20	3310352	3311053	-	4558953	rpsC	ssu_rprotein
+2586011448	OP10G_3787	30S ribosomal protein S3	Fimbriimonas ginsengisoli Gsoil 348	20	4165566	4166354	-	5231762	rpsC	ssu_rprotein
+637054677	PA4257	30S ribosomal protein S3	Pseudomonas aeruginosa PAO1	20	4763544	4764230	-	6264404	rpsC	ssu_rprotein
+640435735	SDY_3490	30S ribosomal subunit protein S3	Shigella dysenteriae sv. 1 Sd197	20	3231620	3232321	-	4369232	rpsC	ssu_rprotein
+637003906	Missing locus_tag:AC_000091.cds3812.4190533..4191234	30S ribosomal subunit protein S3	Escherichia coli K12- W3110	20	4190533	4191234	+	4646332	rpsC	ssu_rprotein
+641373055	Caur_2375	ribosomal protein S3	Chloroflexus aurantiacus J-10-fl	20	3216097	3216828	+	5258541	rpsC	ssu_rprotein
+640108332	Cthe_2909	ribosomal protein S3	Clostridium thermocellum ATCC 27405	20	3436889	3437569	+	3843301	rpsC	ssu_rprotein
+639729079	Acel_0312	ribosomal protein S3	Acidothermus cellulolyticus 11B	20	333769	334794	+	2443540	rpsC	ssu_rprotein
+642766916	Gbem_0939	ribosomal protein S3	Geobacter bemidjiensis Bem, DSM 16622	20	1101165	1101800	+	4615150	rpsC	ssu_rprotein
+2540548605	BSU6051_01220	ribosomal protein S3	Bacillus subtilis subtilis 6051-HGW	20	138842	139498	+	4215610	rpsC	ssu_rprotein
+646856459	Trad_1044	ribosomal protein S3	Truepera radiovictrix RQ-24, DSM 17093	20	1136060	1136854	+	3260398	rpsC	ssu_rprotein
+640496624	Csac_2281	ribosomal protein S3	Caldicellulosiruptor saccharolyticus DSM 8903	20	2401500	2402168	-	2970275	rpsC	ssu_rprotein
+637702944	cbdb_A445	ribosomal protein S3	Dehalococcoides mccartyi CBDB1	20	369345	370181	+	1395502	rpsC	ssu_rprotein
+2525260823	CCALI_02868	SSU ribosomal protein S3P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	20	3377488	3378264	+	3437861	rpsC	ssu_rprotein
+2555825597	Tmari_1502	SSU ribosomal protein S3p (S3e)	Thermotoga maritima MSB8	20	1494581	1495210	-	1869612	rpsC	ssu_rprotein
+638145403	HNE_2845	ribosomal protein S3	Hyphomonas neptunium ATCC 15444	5	2999768	3000505	-	3705021	rpsC	ssu_rprotein
+640078172	A9601_04601	30S ribosomal protein S4	Prochlorococcus marinus AS9601	21	401169	401777	-	1669886	rpsD	ssu_rprotein
+646674056	Mrub_2592	30S ribosomal protein S4	Meiothermus ruber 21, DSM 1279	21	2641883	2642500	-	3097457	rpsD	ssu_rprotein
+640083738	NATL1_04611	30S ribosomal protein S4	Prochlorococcus marinus NATL1A	21	423559	424167	-	1864731	rpsD	ssu_rprotein
+646919668	ECD_03147	30S ribosomal protein S4	Escherichia coli BL21(DE3)	21	3302225	3302845	-	4558953	rpsD	ssu_rprotein
+646319550	BSU29660	30S ribosomal protein S4	Bacillus subtilis subtilis 168	21	3035730	3036332	+	4215606	rpsD	ssu_rprotein
+637054659	PA4239	30S ribosomal protein S4	Pseudomonas aeruginosa PAO1	21	4755447	4756067	-	6264404	rpsD	ssu_rprotein
+650389270	NIES39_O05200	30S ribosomal protein S4	Arthrospira platensis NIES-39	21	6059537	6060145	-	6788435	rpsD	ssu_rprotein
+637140833	Mb3487c	30S ribosomal protein S4	Mycobacterium bovis AF2122/97	21	3826355	3826960	-	4345492	rpsD	ssu_rprotein
+637702965	cbdb_A465	30S ribosomal protein S4	Dehalococcoides mccartyi CBDB1	21	378999	379622	+	1395502	rpsD	ssu_rprotein
+643736350	JTY_3523	30S ribosomal protein S4	Mycobacterium bovis BCG Tokyo 172	21	3858064	3858669	-	4371711	rpsD	ssu_rprotein
+637003924	Missing locus_tag:AC_000091.cds3830.4198741..4199361	30S ribosomal subunit protein S4	Escherichia coli K12- W3110	21	4198741	4199361	+	4646332	rpsD	ssu_rprotein
+640435717	SDY_3472	30S ribosomal subunit protein S4	Shigella dysenteriae sv. 1 Sd197	21	3223493	3224113	-	4369232	rpsD	ssu_rprotein
+2540551593	BSU6051_29660	ribosomal protein S4	Bacillus subtilis subtilis 6051-HGW	21	3035712	3036314	+	4215610	rpsD	ssu_rprotein
+642766936	Gbem_0959	ribosomal protein S4	Geobacter bemidjiensis Bem, DSM 16622	21	1110461	1111087	+	4615150	rpsD	ssu_rprotein
+640108354	Cthe_2931	ribosomal protein S4	Clostridium thermocellum ATCC 27405	21	3447237	3447863	+	3843301	rpsD	ssu_rprotein
+646856480	Trad_1065	ribosomal protein S4	Truepera radiovictrix RQ-24, DSM 17093	21	1145656	1146273	+	3260398	rpsD	ssu_rprotein
+641373075	Caur_2395	ribosomal protein S4	Chloroflexus aurantiacus J-10-fl	21	3225784	3226404	+	5258541	rpsD	ssu_rprotein
+640496603	Csac_2260	ribosomal protein S4	Caldicellulosiruptor saccharolyticus DSM 8903	21	2391767	2392393	-	2970275	rpsD	ssu_rprotein
+639729100	Acel_0333	RNA-binding S4 domain protein	Acidothermus cellulolyticus 11B	21	344495	345121	+	2443540	rpsD	ssu_rprotein
+2586011806	OP10G_4143	SSU ribosomal protein S4P	Fimbriimonas ginsengisoli Gsoil 348	21	4521291	4521899	+	5231762	rpsD	ssu_rprotein
+2525260845	CCALI_02890	SSU ribosomal protein S4P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	21	3390415	3391092	+	3437861	rpsD	ssu_rprotein
+2555825576	Tmari_1481	SSU ribosomal protein S4p (S9e)	Thermotoga maritima MSB8	21	1485081	1485710	-	1869612	rpsD	ssu_rprotein
+638144518	HNE_1956	ribosomal protein S4	Hyphomonas neptunium ATCC 15444	6	2025965	2026582	-	3705021	rpsD	ssu_rprotein
+640085278	NATL1_19871	30S ribosomal protein S5	Prochlorococcus marinus NATL1A	1	1639342	1639968	-	1864731	rpsE	ssu_rprotein
+646316560	BSU01330	30S ribosomal protein S5	Bacillus subtilis subtilis 168	1	143361	143861	+	4215606	rpsE	ssu_rprotein
+646919675	ECD_03154	30S ribosomal protein S5	Escherichia coli BL21(DE3)	1	3305896	3306399	-	4558953	rpsE	ssu_rprotein
+650385541	NIES39_D06550	30S ribosomal protein S5	Arthrospira platensis NIES-39	1	2232290	2232820	+	6788435	rpsE	ssu_rprotein
+637054666	PA4246	30S ribosomal protein S5	Pseudomonas aeruginosa PAO1	1	4759070	4759570	-	6264404	rpsE	ssu_rprotein
+643733557	JTY_0741	30S ribosomal protein S5	Mycobacterium bovis BCG Tokyo 172	1	816151	816813	+	4371711	rpsE	ssu_rprotein
+2586008222	OP10G_0597	30S ribosomal protein S5	Fimbriimonas ginsengisoli Gsoil 348	1	630087	630659	+	5231762	rpsE	ssu_rprotein
+640079477	A9601_17491	30S ribosomal protein S5	Prochlorococcus marinus AS9601	1	1490319	1490939	-	1669886	rpsE	ssu_rprotein
+646674066	Mrub_2602	30S ribosomal protein S5	Meiothermus ruber 21, DSM 1279	1	2647355	2647843	-	3097457	rpsE	ssu_rprotein
+637138073	Mb0742	30S ribosomal protein S5	Mycobacterium bovis AF2122/97	1	816150	816812	+	4345492	rpsE	ssu_rprotein
+640435724	SDY_3479	30S ribosomal subunit protein S5	Shigella dysenteriae sv. 1 Sd197	1	3227164	3227667	-	4369232	rpsE	ssu_rprotein
+637003917	Missing locus_tag:AC_000091.cds3823.4195187..4195690	30S ribosomal subunit protein S5	Escherichia coli K12- W3110	1	4195187	4195690	+	4646332	rpsE	ssu_rprotein
+637702955	cbdb_A455	ribosomal protein S5	Dehalococcoides mccartyi CBDB1	1	373925	374443	+	1395502	rpsE	ssu_rprotein
+2540548616	BSU6051_01330	ribosomal protein S5	Bacillus subtilis subtilis 6051-HGW	1	143361	143861	+	4215610	rpsE	ssu_rprotein
+641373066	Caur_2386	ribosomal protein S5	Chloroflexus aurantiacus J-10-fl	1	3220815	3221351	+	5258541	rpsE	ssu_rprotein
+639729090	Acel_0323	ribosomal protein S5	Acidothermus cellulolyticus 11B	1	338763	339362	+	2443540	rpsE	ssu_rprotein
+640496613	Csac_2270	ribosomal protein S5	Caldicellulosiruptor saccharolyticus DSM 8903	1	2397101	2397607	-	2970275	rpsE	ssu_rprotein
+646856470	Trad_1055	ribosomal protein S5	Truepera radiovictrix RQ-24, DSM 17093	1	1140532	1141005	+	3260398	rpsE	ssu_rprotein
+642766927	Gbem_0950	ribosomal protein S5	Geobacter bemidjiensis Bem, DSM 16622	1	1105594	1106082	+	4615150	rpsE	ssu_rprotein
+640108343	Cthe_2920	ribosomal protein S5-like protein	Clostridium thermocellum ATCC 27405	1	3441461	3441961	+	3843301	rpsE	ssu_rprotein
+2525260835	CCALI_02880	SSU ribosomal protein S5P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	1	3384893	3385444	+	3437861	rpsE	ssu_rprotein
+2555825586	Tmari_1491	SSU ribosomal protein S5p (S2e)	Thermotoga maritima MSB8	1	1490228	1490764	-	1869612	rpsE	ssu_rprotein
+638145392	HNE_2834	ribosomal protein S5	Hyphomonas neptunium ATCC 15444	7	2995315	2995917	-	3705021	rpsE	ssu_rprotein
+650385882	NIES39_E01770	30S ribosomal protein S6	Arthrospira platensis NIES-39	2	2565316	2565666	+	6788435	rpsF	ssu_rprotein
+637055376	PA4935	30S ribosomal protein S6	Pseudomonas aeruginosa PAO1	2	5537319	5537738	-	6264404	rpsF	ssu_rprotein
+646673247	Mrub_1778	30S ribosomal protein S6	Meiothermus ruber 21, DSM 1279	2	1831858	1832172	-	3097457	rpsF	ssu_rprotein
+646320734	BSU40910	30S ribosomal protein S6	Bacillus subtilis subtilis 168	2	4199445	4199732	-	4215606	rpsF	ssu_rprotein
+646920606	ECD_04067	30S ribosomal protein S6	Escherichia coli BL21(DE3)	2	4331638	4332033	+	4558953	rpsF	ssu_rprotein
+640085487	NATL1_21891	30S ribosomal protein S6	Prochlorococcus marinus NATL1A	2	1849934	1850350	+	1864731	rpsF	ssu_rprotein
+637137391	Mb0054	30S ribosomal protein S6	Mycobacterium bovis AF2122/97	2	58182	58472	+	4345492	rpsF	ssu_rprotein
+643732873	JTY_0054	30S ribosomal protein S6	Mycobacterium bovis BCG Tokyo 172	2	58184	58474	+	4371711	rpsF	ssu_rprotein
+640079651	A9601_19161	30S ribosomal protein S6	Prochlorococcus marinus AS9601	2	1656303	1656827	+	1669886	rpsF	ssu_rprotein
+640436551	SDY_4369	30S ribosomal subunit protein S6	Shigella dysenteriae sv. 1 Sd197	2	4092697	4093092	+	4369232	rpsF	ssu_rprotein
+637004139	Missing locus_tag:AC_000091.cds4036.4429798..4430193	30S ribosomal subunit protein S6	Escherichia coli K12- W3110	2	4429798	4430193	+	4646332	rpsF	ssu_rprotein
+640107593	Cthe_2187	ribosomal protein S6	Clostridium thermocellum ATCC 27405	2	2605210	2605497	-	3843301	rpsF	ssu_rprotein
+2586009810	OP10G_2170	ribosomal protein S6	Fimbriimonas ginsengisoli Gsoil 348	2	2338554	2338829	+	5231762	rpsF	ssu_rprotein
+639730935	Acel_2133	ribosomal protein S6	Acidothermus cellulolyticus 11B	2	2412835	2413125	-	2443540	rpsF	ssu_rprotein
+641371701	Caur_1023	ribosomal protein S6	Chloroflexus aurantiacus J-10-fl	2	1416165	1416602	+	5258541	rpsF	ssu_rprotein
+637703456	cbdb_A1020	ribosomal protein S6	Dehalococcoides mccartyi CBDB1	2	825771	826100	-	1395502	rpsF	ssu_rprotein
+642768757	Gbem_2764	ribosomal protein S6	Geobacter bemidjiensis Bem, DSM 16622	2	3192332	3192736	-	4615150	rpsF	ssu_rprotein
+2540552775	BSU6051_40910	ribosomal protein S6	Bacillus subtilis subtilis 6051-HGW	2	4199449	4199736	-	4215610	rpsF	ssu_rprotein
+640495680	Csac_1335	ribosomal protein S6	Caldicellulosiruptor saccharolyticus DSM 8903	2	1503581	1503955	+	2970275	rpsF	ssu_rprotein
+646855418	Trad_0008	ribosomal protein S6	Truepera radiovictrix RQ-24, DSM 17093	2	7590	7940	-	3260398	rpsF	ssu_rprotein
+2555824683	Tmari_0603	SSU ribosomal protein S6p	Thermotoga maritima MSB8	2	637933	638319	+	1869612	rpsF	ssu_rprotein
+2525259303	CCALI_01349	SSU ribosomal protein S6P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	2	1595346	1595648	+	3437861	rpsF	ssu_rprotein
+638144722	HNE_2161	ribosomal protein S6	Hyphomonas neptunium ATCC 15444	8	2248596	2248934	+	3705021	rpsF	ssu_rprotein
+640085241	NATL1_19511	30S ribosomal protein S7	Prochlorococcus marinus NATL1A	5	1604281	1604751	-	1864731	rpsG	ssu_rprotein
+646316538	BSU01110	30S ribosomal protein S7	Bacillus subtilis subtilis 168	5	130160	130630	+	4215606	rpsG	ssu_rprotein
+637138033	Mb0702	30S ribosomal protein S7	Mycobacterium bovis AF2122/97	5	783703	784173	+	4345492	rpsG	ssu_rprotein
+646919713	ECD_03192	30S ribosomal protein S7	Escherichia coli BL21(DE3)	5	3333212	3333682	-	4558953	rpsG	ssu_rprotein
+637702935	cbdb_A435	30S ribosomal protein S7	Dehalococcoides mccartyi CBDB1	5	363340	363810	+	1395502	rpsG	ssu_rprotein
+650387082	NIES39_J05480	30S ribosomal protein S7	Arthrospira platensis NIES-39	5	3815770	3816240	-	6788435	rpsG	ssu_rprotein
+643733518	JTY_0702	30S ribosomal protein S7	Mycobacterium bovis BCG Tokyo 172	5	783704	784174	+	4371711	rpsG	ssu_rprotein
+640079440	A9601_17131	30S ribosomal protein S7	Prochlorococcus marinus AS9601	5	1457373	1457843	-	1669886	rpsG	ssu_rprotein
+637054687	PA4267	30S ribosomal protein S7	Pseudomonas aeruginosa PAO1	5	4771186	4771656	-	6264404	rpsG	ssu_rprotein
+646674087	Mrub_2623	30S ribosomal protein S7	Meiothermus ruber 21, DSM 1279	5	2659929	2660399	-	3097457	rpsG	ssu_rprotein
+637003879	Missing locus_tag:AC_000091.cds3785.4166335..4166874	30S ribosomal subunit protein S7	Escherichia coli K12- W3110	5	4166335	4166874	+	4646332	rpsG	ssu_rprotein
+640435747	SDY_3502	30S ribosomal subunit protein S7	Shigella dysenteriae sv. 1 Sd197	5	3240943	3241413	-	4369232	rpsG	ssu_rprotein
+641373044	Caur_2364	ribosomal protein S7	Chloroflexus aurantiacus J-10-fl	5	3207297	3207770	+	5258541	rpsG	ssu_rprotein
+2540548594	BSU6051_01110	ribosomal protein S7	Bacillus subtilis subtilis 6051-HGW	5	130160	130630	+	4215610	rpsG	ssu_rprotein
+640495307	Csac_0956	ribosomal protein S7	Caldicellulosiruptor saccharolyticus DSM 8903	5	1079657	1080130	+	2970275	rpsG	ssu_rprotein
+639729069	Acel_0302	ribosomal protein S7	Acidothermus cellulolyticus 11B	5	325879	326349	+	2443540	rpsG	ssu_rprotein
+642766906	Gbem_0929	ribosomal protein S7	Geobacter bemidjiensis Bem, DSM 16622	5	1093810	1094280	+	4615150	rpsG	ssu_rprotein
+646856449	Trad_1034	ribosomal protein S7	Truepera radiovictrix RQ-24, DSM 17093	5	1128684	1129154	+	3260398	rpsG	ssu_rprotein
+2586012073	OP10G_4405	ribosomal protein S7	Fimbriimonas ginsengisoli Gsoil 348	5	4801428	4801898	-	5231762	rpsG	ssu_rprotein
+640108147	Cthe_2728	ribosomal protein S7	Clostridium thermocellum ATCC 27405	5	3219779	3220249	+	3843301	rpsG	ssu_rprotein
+2525260813	CCALI_02858	SSU ribosomal protein S7P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	5	3369548	3370027	+	3437861	rpsG	ssu_rprotein
+2555825607	Tmari_1512	SSU ribosomal protein S7p (S5e)	Thermotoga maritima MSB8	5	1502166	1502633	-	1869612	rpsG	ssu_rprotein
+638145413	HNE_2855	ribosomal protein S7	Hyphomonas neptunium ATCC 15444	9	3007836	3008306	-	3705021	rpsG	ssu_rprotein
+637054669	PA4249	30S ribosomal protein S8	Pseudomonas aeruginosa PAO1	7	4760480	4760872	-	6264404	rpsH	ssu_rprotein
+650385538	NIES39_D06520	30S ribosomal protein S8	Arthrospira platensis NIES-39	7	2230864	2231265	+	6788435	rpsH	ssu_rprotein
+646919678	ECD_03157	30S ribosomal protein S8	Escherichia coli BL21(DE3)	7	3307323	3307715	-	4558953	rpsH	ssu_rprotein
+640079480	A9601_17521	30S ribosomal protein S8	Prochlorococcus marinus AS9601	7	1491888	1492289	-	1669886	rpsH	ssu_rprotein
+640085281	NATL1_19901	30S ribosomal protein S8	Prochlorococcus marinus NATL1A	7	1640942	1641343	-	1864731	rpsH	ssu_rprotein
+643733554	JTY_0738	30S ribosomal protein S8	Mycobacterium bovis BCG Tokyo 172	7	814799	815197	+	4371711	rpsH	ssu_rprotein
+637138070	Mb0739	30S ribosomal protein S8	Mycobacterium bovis AF2122/97	7	814798	815196	+	4345492	rpsH	ssu_rprotein
+646316557	BSU01300	30S ribosomal protein S8	Bacillus subtilis subtilis 168	7	141974	142372	+	4215606	rpsH	ssu_rprotein
+646674069	Mrub_2605	30S ribosomal protein S8	Meiothermus ruber 21, DSM 1279	7	2648822	2649217	-	3097457	rpsH	ssu_rprotein
+637003914	Missing locus_tag:AC_000091.cds3820.4193871..4194263	30S ribosomal subunit protein S8	Escherichia coli K12- W3110	7	4193871	4194263	+	4646332	rpsH	ssu_rprotein
+640435727	SDY_3482	30S ribosomal subunit protein S8, and regulator	Shigella dysenteriae sv. 1 Sd197	7	3228591	3228983	-	4369232	rpsH	ssu_rprotein
+641373063	Caur_2383	ribosomal protein S8	Chloroflexus aurantiacus J-10-fl	7	3219349	3219750	+	5258541	rpsH	ssu_rprotein
+642766924	Gbem_0947	ribosomal protein S8	Geobacter bemidjiensis Bem, DSM 16622	7	1104220	1104618	+	4615150	rpsH	ssu_rprotein
+639729087	Acel_0320	ribosomal protein S8	Acidothermus cellulolyticus 11B	7	337370	337774	+	2443540	rpsH	ssu_rprotein
+646856467	Trad_1052	ribosomal protein S8	Truepera radiovictrix RQ-24, DSM 17093	7	1139239	1139634	+	3260398	rpsH	ssu_rprotein
+640496616	Csac_2273	ribosomal protein S8	Caldicellulosiruptor saccharolyticus DSM 8903	7	2398595	2398993	-	2970275	rpsH	ssu_rprotein
+2540548613	BSU6051_01300	ribosomal protein S8	Bacillus subtilis subtilis 6051-HGW	7	141974	142372	+	4215610	rpsH	ssu_rprotein
+640108340	Cthe_2917	ribosomal protein S8	Clostridium thermocellum ATCC 27405	7	3440034	3440432	+	3843301	rpsH	ssu_rprotein
+2586008219	OP10G_0594	ribosomal protein S8	Fimbriimonas ginsengisoli Gsoil 348	7	628747	629142	+	5231762	rpsH	ssu_rprotein
+637702952	cbdb_A452	ribosomal protein S8	Dehalococcoides mccartyi CBDB1	7	372584	372979	+	1395502	rpsH	ssu_rprotein
+2525260832	CCALI_02877	SSU ribosomal protein S8P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	7	3383381	3383782	+	3437861	rpsH	ssu_rprotein
+2555825589	Tmari_1494	SSU ribosomal protein S8p (S15Ae)	Thermotoga maritima MSB8	7	1491730	1492134	-	1869612	rpsH	ssu_rprotein
+638145395	HNE_2837	ribosomal protein S8	Hyphomonas neptunium ATCC 15444	10	2996922	2997317	-	3705021	rpsH	ssu_rprotein
+640085268	NATL1_19771	30S ribosomal protein S9	Prochlorococcus marinus NATL1A	8	1632517	1632924	-	1864731	rpsI	ssu_rprotein
+646316579	BSU01500	30S ribosomal protein S9	Bacillus subtilis subtilis 168	8	154300	154692	+	4215606	rpsI	ssu_rprotein
+646919604	ECD_03090	30S ribosomal protein S9	Escherichia coli BL21(DE3)	8	3238978	3239370	-	4558953	rpsI	ssu_rprotein
+640079467	A9601_17391	30S ribosomal protein S9	Prochlorococcus marinus AS9601	8	1483787	1484197	-	1669886	rpsI	ssu_rprotein
+2586008237	OP10G_0612	30S ribosomal protein S9	Fimbriimonas ginsengisoli Gsoil 348	8	639596	639928	+	5231762	rpsI	ssu_rprotein
+643736335	JTY_3508	30S ribosomal protein S9	Mycobacterium bovis BCG Tokyo 172	8	3840903	3841358	-	4371711	rpsI	ssu_rprotein
+637140818	Mb3472c	30S ribosomal protein S9	Mycobacterium bovis AF2122/97	8	3809197	3809652	-	4345492	rpsI	ssu_rprotein
+650385553	NIES39_D06670	30S ribosomal protein S9	Arthrospira platensis NIES-39	8	2240435	2240845	+	6788435	rpsI	ssu_rprotein
+637054861	PA4432	30S ribosomal protein S9	Pseudomonas aeruginosa PAO1	8	4965109	4965501	-	6264404	rpsI	ssu_rprotein
+646673004	Mrub_1537	30S ribosomal protein S9	Meiothermus ruber 21, DSM 1279	8	1572631	1573017	+	3097457	rpsI	ssu_rprotein
+640435656	SDY_3406	30S ribosomal subunit protein S9	Shigella dysenteriae sv. 1 Sd197	8	3161834	3162226	-	4369232	rpsI	ssu_rprotein
+637003171	Missing locus_tag:AC_000091.cds3108.3378062..3377670	30S ribosomal subunit protein S9	Escherichia coli K12- W3110	8	3377670	3378062	-	4646332	rpsI	ssu_rprotein
+637702970	cbdb_A470	ribosomal protein S9	Dehalococcoides mccartyi CBDB1	8	382242	382640	+	1395502	rpsI	ssu_rprotein
+640107196	Cthe_1782	ribosomal protein S9	Clostridium thermocellum ATCC 27405	8	2103580	2103972	-	3843301	rpsI	ssu_rprotein
+2540548634	BSU6051_01500	ribosomal protein S9	Bacillus subtilis subtilis 6051-HGW	8	154300	154692	+	4215610	rpsI	ssu_rprotein
+646856698	Trad_1286	ribosomal protein S9	Truepera radiovictrix RQ-24, DSM 17093	8	1379723	1380109	-	3260398	rpsI	ssu_rprotein
+641373080	Caur_2400	ribosomal protein S9	Chloroflexus aurantiacus J-10-fl	8	3229138	3229536	+	5258541	rpsI	ssu_rprotein
+640495688	Csac_1343	ribosomal protein S9	Caldicellulosiruptor saccharolyticus DSM 8903	8	1511666	1512064	+	2970275	rpsI	ssu_rprotein
+642766885	Gbem_0913	ribosomal protein S9	Geobacter bemidjiensis Bem, DSM 16622	8	1074760	1075149	+	4615150	rpsI	ssu_rprotein
+639729109	Acel_0342	ribosomal protein S9	Acidothermus cellulolyticus 11B	8	351943	352455	+	2443540	rpsI	ssu_rprotein
+2525260850	CCALI_02895	SSU ribosomal protein S9P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	8	3394040	3394438	+	3437861	rpsI	ssu_rprotein
+2555825554	Tmari_1459	SSU ribosomal protein S9p (S16e)	Thermotoga maritima MSB8	8	1470972	1471376	-	1869612	rpsI	ssu_rprotein
+638144875	HNE_2315	ribosomal protein S9	Hyphomonas neptunium ATCC 15444	2	2415362	2415844	-	3705021	rpsI	ssu_rprotein
+640085238	NATL1_19481	30S ribosomal protein S10	Prochlorococcus marinus NATL1A	10	1600417	1600737	-	1864731	rpsJ	ssu_rprotein
+646919693	ECD_03172	30S ribosomal protein S10	Escherichia coli BL21(DE3)	10	3314129	3314440	-	4558953	rpsJ	ssu_rprotein
+646316542	BSU01150	30S ribosomal protein S10	Bacillus subtilis subtilis 168	10	135364	135672	+	4215606	rpsJ	ssu_rprotein
+637138051	Mb0720	30S ribosomal protein S10	Mycobacterium bovis AF2122/97	10	802255	802560	+	4345492	rpsJ	ssu_rprotein
+650387079	NIES39_J05450	30S ribosomal protein S10	Arthrospira platensis NIES-39	10	3811815	3812132	-	6788435	rpsJ	ssu_rprotein
+637054684	PA4264	30S ribosomal protein S10	Pseudomonas aeruginosa PAO1	10	4767343	4767654	-	6264404	rpsJ	ssu_rprotein
+646674084	Mrub_2620	30S ribosomal protein S10	Meiothermus ruber 21, DSM 1279	10	2656223	2656537	-	3097457	rpsJ	ssu_rprotein
+640079437	A9601_17101	30S ribosomal protein S10	Prochlorococcus marinus AS9601	10	1453536	1453856	-	1669886	rpsJ	ssu_rprotein
+643733536	JTY_0720	30S ribosomal protein S10	Mycobacterium bovis BCG Tokyo 172	10	802256	802561	+	4371711	rpsJ	ssu_rprotein
+640435742	SDY_3497	30S ribosomal subunit protein S10	Shigella dysenteriae sv. 1 Sd197	10	3235397	3235708	-	4369232	rpsJ	ssu_rprotein
+637003899	Missing locus_tag:AC_000091.cds3805.4187146..4187457	30S ribosomal subunit protein S10	Escherichia coli K12- W3110	10	4187146	4187457	+	4646332	rpsJ	ssu_rprotein
+637702937	cbdb_A438	ribosomal protein S10	Dehalococcoides mccartyi CBDB1	10	365972	366280	+	1395502	rpsJ	ssu_rprotein
+640496631	Csac_2288	ribosomal protein S10	Caldicellulosiruptor saccharolyticus DSM 8903	10	2405387	2405707	-	2970275	rpsJ	ssu_rprotein
+642766909	Gbem_0932	ribosomal protein S10	Geobacter bemidjiensis Bem, DSM 16622	10	1097741	1098049	+	4615150	rpsJ	ssu_rprotein
+639729072	Acel_0305	ribosomal protein S10	Acidothermus cellulolyticus 11B	10	329844	330152	+	2443540	rpsJ	ssu_rprotein
+646856452	Trad_1037	ribosomal protein S10	Truepera radiovictrix RQ-24, DSM 17093	10	1132727	1133047	+	3260398	rpsJ	ssu_rprotein
+641373048	Caur_2368	ribosomal protein S10	Chloroflexus aurantiacus J-10-fl	10	3212208	3212516	+	5258541	rpsJ	ssu_rprotein
+2540548598	BSU6051_01150	ribosomal protein S10	Bacillus subtilis subtilis 6051-HGW	10	135364	135672	+	4215610	rpsJ	ssu_rprotein
+640108325	Cthe_2902	ribosomal protein S10	Clostridium thermocellum ATCC 27405	10	3433095	3433406	+	3843301	rpsJ	ssu_rprotein
+2586011664	OP10G_4002	ribosomal protein S10	Fimbriimonas ginsengisoli Gsoil 348	10	4374221	4374532	+	5231762	rpsJ	ssu_rprotein
+2525260816	CCALI_02861	SSU ribosomal protein S10P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	10	3373661	3373981	+	3437861	rpsJ	ssu_rprotein
+2555825604	Tmari_1509	SSU ribosomal protein S10p (S20e)	Thermotoga maritima MSB8	10	1498500	1498808	-	1869612	rpsJ	ssu_rprotein
+638145410	HNE_2852	ribosomal protein S10	Hyphomonas neptunium ATCC 15444	3	3003744	3004064	-	3705021	rpsJ	ssu_rprotein
+646316570	BSU01420	30S ribosomal protein S11	Bacillus subtilis subtilis 168	11	148359	148754	+	4215606	rpsK	ssu_rprotein
+637054660	PA4240	30S ribosomal protein S11	Pseudomonas aeruginosa PAO1	11	4756084	4756473	-	6264404	rpsK	ssu_rprotein
+2586008232	OP10G_0607	30S ribosomal protein S11	Fimbriimonas ginsengisoli Gsoil 348	11	636129	636521	+	5231762	rpsK	ssu_rprotein
+640079472	A9601_17441	30S ribosomal protein S11	Prochlorococcus marinus AS9601	11	1486952	1487344	-	1669886	rpsK	ssu_rprotein
+646919669	ECD_03148	30S ribosomal protein S11	Escherichia coli BL21(DE3)	11	3302879	3303268	-	4558953	rpsK	ssu_rprotein
+637702964	cbdb_A464	30S ribosomal protein S11	Dehalococcoides mccartyi CBDB1	11	378597	378989	+	1395502	rpsK	ssu_rprotein
+646856479	Trad_1064	30S ribosomal protein S11	Truepera radiovictrix RQ-24, DSM 17093	11	1145174	1145569	+	3260398	rpsK	ssu_rprotein
+643736351	JTY_3524	30S ribosomal protein S11	Mycobacterium bovis BCG Tokyo 172	11	3858678	3859097	-	4371711	rpsK	ssu_rprotein
+637140834	Mb3488c	30S ribosomal protein S11	Mycobacterium bovis AF2122/97	11	3826969	3827388	-	4345492	rpsK	ssu_rprotein
+650385548	NIES39_D06620	30S ribosomal protein S11	Arthrospira platensis NIES-39	11	2237137	2237529	+	6788435	rpsK	ssu_rprotein
+640085273	NATL1_19821	30S ribosomal protein S11	Prochlorococcus marinus NATL1A	11	1635838	1636230	-	1864731	rpsK	ssu_rprotein
+646674057	Mrub_2593	30S ribosomal protein S11	Meiothermus ruber 21, DSM 1279	11	2642610	2643011	-	3097457	rpsK	ssu_rprotein
+637003923	Missing locus_tag:AC_000091.cds3829.4198318..4198707	30S ribosomal subunit protein S11	Escherichia coli K12- W3110	11	4198318	4198707	+	4646332	rpsK	ssu_rprotein
+640435718	SDY_3473	30S ribosomal subunit protein S11	Shigella dysenteriae sv. 1 Sd197	11	3224147	3224536	-	4369232	rpsK	ssu_rprotein
+639729099	Acel_0332	ribosomal protein S11	Acidothermus cellulolyticus 11B	11	344088	344495	+	2443540	rpsK	ssu_rprotein
+640108353	Cthe_2930	ribosomal protein S11	Clostridium thermocellum ATCC 27405	11	3446781	3447185	+	3843301	rpsK	ssu_rprotein
+640496604	Csac_2261	ribosomal protein S11	Caldicellulosiruptor saccharolyticus DSM 8903	11	2392417	2392809	-	2970275	rpsK	ssu_rprotein
+642766935	Gbem_0958	ribosomal protein S11	Geobacter bemidjiensis Bem, DSM 16622	11	1110009	1110404	+	4615150	rpsK	ssu_rprotein
+2540548626	BSU6051_01420	ribosomal protein S11	Bacillus subtilis subtilis 6051-HGW	11	148359	148754	+	4215610	rpsK	ssu_rprotein
+641373074	Caur_2394	ribosomal protein S11	Chloroflexus aurantiacus J-10-fl	11	3225180	3225590	+	5258541	rpsK	ssu_rprotein
+2525260844	CCALI_02889	SSU ribosomal protein S11P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	11	3389980	3390384	+	3437861	rpsK	ssu_rprotein
+2555825577	Tmari_1482	SSU ribosomal protein S11p (S14e)	Thermotoga maritima MSB8	11	1485723	1486115	-	1869612	rpsK	ssu_rprotein
+638145386	HNE_2828	ribosomal protein S11	Hyphomonas neptunium ATCC 15444	4	2991654	2992043	-	3705021	rpsK	ssu_rprotein
+650387083	NIES39_J05490	30S ribosomal protein S12	Arthrospira platensis NIES-39	12	3816365	3816739	-	6788435	rpsL	ssu_rprotein
+640085242	NATL1_19521	30S ribosomal protein S12	Prochlorococcus marinus NATL1A	12	1604800	1605210	-	1864731	rpsL	ssu_rprotein
+643733517	JTY_0701	30S ribosomal protein S12	Mycobacterium bovis BCG Tokyo 172	12	783330	783704	+	4371711	rpsL	ssu_rprotein
+646316537	BSU01100	30S ribosomal protein S12	Bacillus subtilis subtilis 168	12	129702	130118	+	4215606	rpsL	ssu_rprotein
+637054688	PA4268	30S ribosomal protein S12	Pseudomonas aeruginosa PAO1	12	4771756	4772127	-	6264404	rpsL	ssu_rprotein
+646674088	Mrub_2624	30S ribosomal protein S12	Meiothermus ruber 21, DSM 1279	12	2660447	2660863	-	3097457	rpsL	ssu_rprotein
+640079441	A9601_17141	30S ribosomal protein S12	Prochlorococcus marinus AS9601	12	1457869	1458243	-	1669886	rpsL	ssu_rprotein
+637702934	cbdb_A434	30S ribosomal protein S12	Dehalococcoides mccartyi CBDB1	12	362892	363326	+	1395502	rpsL	ssu_rprotein
+2586012074	OP10G_4406	30S ribosomal protein S12	Fimbriimonas ginsengisoli Gsoil 348	12	4801898	4802191	-	5231762	rpsL	ssu_rprotein
+646919714	ECD_03193	30S ribosomal protein S12	Escherichia coli BL21(DE3)	12	3333779	3334153	-	4558953	rpsL	ssu_rprotein
+637138032	Mb0701	30S ribosomal protein S12	Mycobacterium bovis AF2122/97	12	783329	783703	+	4345492	rpsL	ssu_rprotein
+640435748	SDY_3503	30S ribosomal subunit protein S12	Shigella dysenteriae sv. 1 Sd197	12	3241510	3241884	-	4369232	rpsL	ssu_rprotein
+637003878	Missing locus_tag:AC_000091.cds3784.4165864..4166238	30S ribosomal subunit protein S12	Escherichia coli K12- W3110	12	4165864	4166238	+	4646332	rpsL	ssu_rprotein
+640495306	Csac_0955	ribosomal protein S12	Caldicellulosiruptor saccharolyticus DSM 8903	12	1079148	1079585	+	2970275	rpsL	ssu_rprotein
+641373043	Caur_2363	ribosomal protein S12	Chloroflexus aurantiacus J-10-fl	12	3206844	3207284	+	5258541	rpsL	ssu_rprotein
+646856448	Trad_1033	ribosomal protein S12	Truepera radiovictrix RQ-24, DSM 17093	12	1128277	1128675	+	3260398	rpsL	ssu_rprotein
+640108146	Cthe_2727	ribosomal protein S12	Clostridium thermocellum ATCC 27405	12	3219171	3219599	+	3843301	rpsL	ssu_rprotein
+639729068	Acel_0301	ribosomal protein S12	Acidothermus cellulolyticus 11B	12	325505	325879	+	2443540	rpsL	ssu_rprotein
+2540548593	BSU6051_01100	ribosomal protein S12	Bacillus subtilis subtilis 6051-HGW	12	129702	130118	+	4215610	rpsL	ssu_rprotein
+642766905	Gbem_0928	ribosomal protein S12	Geobacter bemidjiensis Bem, DSM 16622	12	1093415	1093786	+	4615150	rpsL	ssu_rprotein
+2525260812	CCALI_02857	SSU ribosomal protein S12P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	12	3369161	3369532	+	3437861	rpsL	ssu_rprotein
+2555825608	Tmari_1513	SSU ribosomal protein S12p (S23e)	Thermotoga maritima MSB8	12	1502645	1503028	-	1869612	rpsL	ssu_rprotein
+638145414	HNE_2856	ribosomal protein S12	Hyphomonas neptunium ATCC 15444	5	3008322	3008693	-	3705021	rpsL	ssu_rprotein
+640079473	A9601_17451	30S ribosomal protein S13	Prochlorococcus marinus AS9601	13	1487389	1487754	-	1669886	rpsM	ssu_rprotein
+646674058	Mrub_2594	30S ribosomal protein S13	Meiothermus ruber 21, DSM 1279	13	2643156	2643536	-	3097457	rpsM	ssu_rprotein
+646316569	BSU01410	30S ribosomal protein S13	Bacillus subtilis subtilis 168	13	147973	148338	+	4215606	rpsM	ssu_rprotein
+637054661	PA4241	30S ribosomal protein S13	Pseudomonas aeruginosa PAO1	13	4756492	4756848	-	6264404	rpsM	ssu_rprotein
+646919670	ECD_03149	30S ribosomal protein S13	Escherichia coli BL21(DE3)	13	3303285	3303641	-	4558953	rpsM	ssu_rprotein
+637702963	cbdb_A463	30S ribosomal protein S13	Dehalococcoides mccartyi CBDB1	13	378182	378571	+	1395502	rpsM	ssu_rprotein
+640085274	NATL1_19831	30S ribosomal protein S13	Prochlorococcus marinus NATL1A	13	1636294	1636659	-	1864731	rpsM	ssu_rprotein
+650385547	NIES39_D06610	30S ribosomal protein S13	Arthrospira platensis NIES-39	13	2236664	2237047	+	6788435	rpsM	ssu_rprotein
+646856478	Trad_1063	30S ribosomal protein S13	Truepera radiovictrix RQ-24, DSM 17093	13	1144784	1145164	+	3260398	rpsM	ssu_rprotein
+637140835	Mb3489c	30S ribosomal protein S13	Mycobacterium bovis AF2122/97	13	3827392	3827766	-	4345492	rpsM	ssu_rprotein
+643736352	JTY_3525	30S ribosomal protein S13	Mycobacterium bovis BCG Tokyo 172	13	3859101	3859475	-	4371711	rpsM	ssu_rprotein
+640435719	SDY_3474	30S ribosomal subunit protein S13	Shigella dysenteriae sv. 1 Sd197	13	3224553	3224909	-	4369232	rpsM	ssu_rprotein
+637003922	Missing locus_tag:AC_000091.cds3828.4197945..4198301	30S ribosomal subunit protein S13	Escherichia coli K12- W3110	13	4197945	4198301	+	4646332	rpsM	ssu_rprotein
+641373073	Caur_2393	ribosomal protein S13	Chloroflexus aurantiacus J-10-fl	13	3224776	3225159	+	5258541	rpsM	ssu_rprotein
+640496605	Csac_2262	ribosomal protein S13	Caldicellulosiruptor saccharolyticus DSM 8903	13	2392829	2393203	-	2970275	rpsM	ssu_rprotein
+2540548625	BSU6051_01410	ribosomal protein S13	Bacillus subtilis subtilis 6051-HGW	13	147973	148338	+	4215610	rpsM	ssu_rprotein
+640108352	Cthe_2929	ribosomal protein S13	Clostridium thermocellum ATCC 27405	13	3446388	3446759	+	3843301	rpsM	ssu_rprotein
+639729098	Acel_0331	ribosomal protein S13	Acidothermus cellulolyticus 11B	13	343602	343982	+	2443540	rpsM	ssu_rprotein
+642766934	Gbem_0957	ribosomal protein S13	Geobacter bemidjiensis Bem, DSM 16622	13	1109625	1109993	+	4615150	rpsM	ssu_rprotein
+2586008231	OP10G_0606	SSU ribosomal protein S13P	Fimbriimonas ginsengisoli Gsoil 348	13	635681	636058	+	5231762	rpsM	ssu_rprotein
+2525260843	CCALI_02888	SSU ribosomal protein S13P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	13	3389590	3389967	+	3437861	rpsM	ssu_rprotein
+2555825578	Tmari_1483	SSU ribosomal protein S13p (S18e)	Thermotoga maritima MSB8	13	1486134	1486511	-	1869612	rpsM	ssu_rprotein
+638145387	HNE_2829	ribosomal protein S13	Hyphomonas neptunium ATCC 15444	6	2992057	2992425	-	3705021	rpsM	ssu_rprotein
+646317386	BSU08880	30S ribosomal protein S14	Bacillus subtilis subtilis 168	14	965909	966178	+	4215606	rpsN	ssu_rprotein
+643734894	JTY_2070	30S ribosomal protein S14	Mycobacterium bovis BCG Tokyo 172	14	2290784	2291089	-	4371711	rpsN	ssu_rprotein
+650386464	NIES39_H00570	30S ribosomal protein S14	Arthrospira platensis NIES-39	14	3172516	3172818	-	6788435	rpsN	ssu_rprotein
+646919679	ECD_03158	30S ribosomal protein S14	Escherichia coli BL21(DE3)	14	3307749	3308054	-	4558953	rpsN	ssu_rprotein
+646674070	Mrub_2606	30S ribosomal protein S14	Meiothermus ruber 21, DSM 1279	14	2649380	2649649	-	3097457	rpsN	ssu_rprotein
+640079103	A9601_13831	30S Ribosomal protein S14	Prochlorococcus marinus AS9601	14	1150499	1150801	+	1669886	rpsN	ssu_rprotein
+637139421	Mb2082c	30S ribosomal protein S14	Mycobacterium bovis AF2122/97	14	2298267	2298572	-	4345492	rpsN	ssu_rprotein
+640084947	NATL1_16641	30S Ribosomal protein S14	Prochlorococcus marinus NATL1A	14	1356218	1356520	+	1864731	rpsN	ssu_rprotein
+637054670	PA4250	30S ribosomal protein S14	Pseudomonas aeruginosa PAO1	14	4761062	4761367	-	6264404	rpsN	ssu_rprotein
+637003913	Missing locus_tag:AC_000091.cds3819.4193532..4193837	30S ribosomal subunit protein S14	Escherichia coli K12- W3110	14	4193532	4193837	+	4646332	rpsN	ssu_rprotein
+640435728	SDY_3483	30S ribosomal subunit protein S14	Shigella dysenteriae sv. 1 Sd197	14	3229017	3229322	-	4369232	rpsN	ssu_rprotein
+2540549442	BSU6051_08880	alternative ribosomal protein S14	Bacillus subtilis subtilis 6051-HGW	14	965906	966175	+	4215610	rpsN	ssu_rprotein
+639729086	Acel_0319	ribosomal protein S14	Acidothermus cellulolyticus 11B	14	337112	337297	+	2443540	rpsN	ssu_rprotein
+637702951	cbdb_B14	ribosomal protein S14	Dehalococcoides mccartyi CBDB1	14	372365	372550	+	1395502	rpsN	ssu_rprotein
+641373062	Caur_2382	ribosomal protein S14	Chloroflexus aurantiacus J-10-fl	14	3219108	3219293	+	5258541	rpsN	ssu_rprotein
+640108339	Cthe_2916	ribosomal protein S14	Clostridium thermocellum ATCC 27405	14	3439822	3440007	+	3843301	rpsN	ssu_rprotein
+640496617	Csac_2274	ribosomal protein S14	Caldicellulosiruptor saccharolyticus DSM 8903	14	2399020	2399205	-	2970275	rpsN	ssu_rprotein
+642766923	Gbem_0946	ribosomal protein S14	Geobacter bemidjiensis Bem, DSM 16622	14	1104000	1104185	+	4615150	rpsN	ssu_rprotein
+646855913	Trad_0495	ribosomal protein S14	Truepera radiovictrix RQ-24, DSM 17093	14	546823	547092	+	3260398	rpsN	ssu_rprotein
+2525260831	CCALI_02876	SSU ribosomal protein S14P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	14	3383186	3383371	+	3437861	rpsN	ssu_rprotein
+2586008218	OP10G_0593	SSU ribosomal protein s14p	Fimbriimonas ginsengisoli Gsoil 348	14	628540	628725	+	5231762	rpsN	ssu_rprotein
+2555825590	Tmari_1495	SSU ribosomal protein S14p (S29e)	Thermotoga maritima MSB8	14	1492150	1492335	-	1869612	rpsN	ssu_rprotein
+638145396	HNE_2838	ribosomal protein S14	Hyphomonas neptunium ATCC 15444	7	2997334	2997639	-	3705021	rpsN	ssu_rprotein
+637140156	Mb2808c	30S ribosomal protein S15	Mycobacterium bovis AF2122/97	15	3050028	3050297	-	4345492	rpsO	ssu_rprotein
+2586008361	OP10G_0736	30S ribosomal protein S15	Fimbriimonas ginsengisoli Gsoil 348	15	764121	764402	-	5231762	rpsO	ssu_rprotein
+640084213	NATL1_09361	30S Ribosomal protein S15	Prochlorococcus marinus NATL1A	15	865386	865655	-	1864731	rpsO	ssu_rprotein
+637055180	PA4741	30S ribosomal protein S15	Pseudomonas aeruginosa PAO1	15	5325653	5325922	-	6264404	rpsO	ssu_rprotein
+646673291	Mrub_1823	30S ribosomal protein S15	Meiothermus ruber 21, DSM 1279	15	1875316	1875585	-	3097457	rpsO	ssu_rprotein
+650386767	NIES39_J02330	30S ribosomal protein S15	Arthrospira platensis NIES-39	15	3501831	3502100	-	6788435	rpsO	ssu_rprotein
+646318209	BSU16680	30S ribosomal protein S15	Bacillus subtilis subtilis 168	15	1738941	1739210	+	4215606	rpsO	ssu_rprotein
+640078630	A9601_09171	30S Ribosomal protein S15	Prochlorococcus marinus AS9601	15	789924	790193	-	1669886	rpsO	ssu_rprotein
+646919544	ECD_03032	30S ribosomal protein S15	Escherichia coli BL21(DE3)	15	3179914	3180183	-	4558953	rpsO	ssu_rprotein
+643735628	JTY_2797	30S ribosomal protein S15	Mycobacterium bovis BCG Tokyo 172	15	3039700	3039969	-	4371711	rpsO	ssu_rprotein
+637003107	Missing locus_tag:AC_000091.cds3046.3311539..3311270	30S ribosomal subunit protein S15	Escherichia coli K12- W3110	15	3311270	3311539	-	4646332	rpsO	ssu_rprotein
+640435595	SDY_3344	30S ribosomal subunit protein S15	Shigella dysenteriae sv. 1 Sd197	15	3102126	3102395	-	4369232	rpsO	ssu_rprotein
+642767301	Gbem_1307	ribosomal protein S15	Geobacter bemidjiensis Bem, DSM 16622	15	1510473	1510739	+	4615150	rpsO	ssu_rprotein
+2540550248	BSU6051_16680	ribosomal protein S15	Bacillus subtilis subtilis 6051-HGW	15	1738937	1739206	+	4215610	rpsO	ssu_rprotein
+639730293	Acel_1509	ribosomal protein S15	Acidothermus cellulolyticus 11B	15	1705977	1706246	-	2443540	rpsO	ssu_rprotein
+641372720	Caur_2046	ribosomal protein S15	Chloroflexus aurantiacus J-10-fl	15	2802386	2802655	+	5258541	rpsO	ssu_rprotein
+646857032	Trad_1621	ribosomal protein S15	Truepera radiovictrix RQ-24, DSM 17093	15	1742072	1742341	+	3260398	rpsO	ssu_rprotein
+640496397	Csac_2065	ribosomal protein S15	Caldicellulosiruptor saccharolyticus DSM 8903	15	2215389	2215655	-	2970275	rpsO	ssu_rprotein
+640105831	Cthe_0417	ribosomal protein S15	Clostridium thermocellum ATCC 27405	15	524713	524976	+	3843301	rpsO	ssu_rprotein
+637703377	cbdb_A931	ribosomal protein S15	Dehalococcoides mccartyi CBDB1	15	760877	761140	+	1395502	rpsO	ssu_rprotein
+2525259737	CCALI_01783	SSU ribosomal protein S15P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	15	2118629	2118904	+	3437861	rpsO	ssu_rprotein
+2555825441	Tmari_1351	SSU ribosomal protein S15p (S13e)	Thermotoga maritima MSB8	15	1362591	1362863	+	1869612	rpsO	ssu_rprotein
+638145999	HNE_3442	ribosomal protein S15	Hyphomonas neptunium ATCC 15444	8	3581768	3582037	-	3705021	rpsO	ssu_rprotein
+650385251	NIES39_D03650	30S ribosomal protein S16	Arthrospira platensis NIES-39	16	1959673	1959966	-	6788435	rpsP	ssu_rprotein
+637140280	Mb2933c	30S ribosomal protein S16	Mycobacterium bovis AF2122/97	16	3173671	3174159	-	4345492	rpsP	ssu_rprotein
+646672463	Mrub_1007	30S ribosomal protein S16	Meiothermus ruber 21, DSM 1279	16	1001002	1001247	+	3097457	rpsP	ssu_rprotein
+646919014	ECD_02498	30S ribosomal protein S16	Escherichia coli BL21(DE3)	16	2612451	2612699	-	4558953	rpsP	ssu_rprotein
+637054164	PA3745	30S ribosomal protein S16	Pseudomonas aeruginosa PAO1	16	4196708	4196959	-	6264404	rpsP	ssu_rprotein
+640084989	NATL1_17051	30S Ribosomal protein S16	Prochlorococcus marinus NATL1A	16	1389011	1389343	-	1864731	rpsP	ssu_rprotein
+646318138	BSU15990	30S ribosomal protein S16	Bacillus subtilis subtilis 168	16	1673620	1673892	+	4215606	rpsP	ssu_rprotein
+640079205	A9601_14841	30S Ribosomal protein S16	Prochlorococcus marinus AS9601	16	1264380	1264745	-	1669886	rpsP	ssu_rprotein
+643735753	JTY_2925	30S ribosomal protein S16	Mycobacterium bovis BCG Tokyo 172	16	3163914	3164402	-	4371711	rpsP	ssu_rprotein
+640435072	SDY_2783	30S ribosomal subunit protein S16	Shigella dysenteriae sv. 1 Sd197	16	2577561	2577809	-	4369232	rpsP	ssu_rprotein
+637002575	Missing locus_tag:AC_000091.cds2526.2744841..2744593	30S ribosomal subunit protein S16	Escherichia coli K12- W3110	16	2744593	2744841	-	4646332	rpsP	ssu_rprotein
+646855482	Trad_0071	ribosomal protein S16	Truepera radiovictrix RQ-24, DSM 17093	16	74224	74538	-	3260398	rpsP	ssu_rprotein
+639730345	Acel_1561	ribosomal protein S16	Acidothermus cellulolyticus 11B	16	1758678	1759202	-	2443540	rpsP	ssu_rprotein
+640496488	Csac_2157	ribosomal protein S16	Caldicellulosiruptor saccharolyticus DSM 8903	16	2293333	2293578	-	2970275	rpsP	ssu_rprotein
+637703029	cbdb_B15	ribosomal protein S16	Dehalococcoides mccartyi CBDB1	16	441991	442239	-	1395502	rpsP	ssu_rprotein
+640106186	Cthe_0769	ribosomal protein S16	Clostridium thermocellum ATCC 27405	16	932174	932419	-	3843301	rpsP	ssu_rprotein
+641372727	Caur_2053	ribosomal protein S16	Chloroflexus aurantiacus J-10-fl	16	2813130	2813399	+	5258541	rpsP	ssu_rprotein
+2540550178	BSU6051_15990	ribosomal protein S16	Bacillus subtilis subtilis 6051-HGW	16	1673618	1673890	+	4215610	rpsP	ssu_rprotein
+642769425	Gbem_3431	ribosomal protein S16	Geobacter bemidjiensis Bem, DSM 16622	16	3943249	3943515	-	4615150	rpsP	ssu_rprotein
+2586011693	OP10G_4030	SSU ribosomal protein S16p	Fimbriimonas ginsengisoli Gsoil 348	16	4403009	4403350	-	5231762	rpsP	ssu_rprotein
+2525260627	CCALI_02673	SSU ribosomal protein S16P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	16	3147922	3148215	+	3437861	rpsP	ssu_rprotein
+2555825670	Tmari_1574	SSU ribosomal protein S16p	Thermotoga maritima MSB8	16	1556288	1556575	+	1869612	rpsP	ssu_rprotein
+638142612	HNE_0038	ribosomal protein S16	Hyphomonas neptunium ATCC 15444	9	29117	29560	+	3705021	rpsP	ssu_rprotein
+646674074	Mrub_2610	30S ribosomal protein S17	Meiothermus ruber 21, DSM 1279	17	2651161	2651454	-	3097457	rpsQ	ssu_rprotein
+646919683	ECD_03162	30S ribosomal protein S17	Escherichia coli BL21(DE3)	17	3309484	3309738	-	4558953	rpsQ	ssu_rprotein
+637138061	Mb0730	30S ribosomal protein S17	Mycobacterium bovis AF2122/97	17	807578	807988	+	4345492	rpsQ	ssu_rprotein
+646316552	BSU01250	30S ribosomal protein S17	Bacillus subtilis subtilis 168	17	140147	140410	+	4215606	rpsQ	ssu_rprotein
+646856462	Trad_1047	30S ribosomal protein S17	Truepera radiovictrix RQ-24, DSM 17093	17	1137457	1137702	+	3260398	rpsQ	ssu_rprotein
+640085285	NATL1_19941	30S Ribosomal protein S17	Prochlorococcus marinus NATL1A	17	1642713	1642979	-	1864731	rpsQ	ssu_rprotein
+643733546	JTY_0730	30S ribosomal protein S17	Mycobacterium bovis BCG Tokyo 172	17	807579	807989	+	4371711	rpsQ	ssu_rprotein
+637054674	PA4254	30S ribosomal protein S17	Pseudomonas aeruginosa PAO1	17	4762659	4762925	-	6264404	rpsQ	ssu_rprotein
+650385534	NIES39_D06480	30S ribosomal protein S17	Arthrospira platensis NIES-39	17	2229131	2229379	+	6788435	rpsQ	ssu_rprotein
+2586011445	OP10G_3784	30S ribosomal protein S17	Fimbriimonas ginsengisoli Gsoil 348	17	4164568	4164864	-	5231762	rpsQ	ssu_rprotein
+640079484	A9601_17561	30S Ribosomal protein S17	Prochlorococcus marinus AS9601	17	1493632	1493898	-	1669886	rpsQ	ssu_rprotein
+640435732	SDY_3487	30S ribosomal subunit protein S17	Shigella dysenteriae sv. 1 Sd197	17	3230752	3231006	-	4369232	rpsQ	ssu_rprotein
+637003909	Missing locus_tag:AC_000091.cds3815.4191848..4192102	30S ribosomal subunit protein S17	Escherichia coli K12- W3110	17	4191848	4192102	+	4646332	rpsQ	ssu_rprotein
+640496621	Csac_2278	ribosomal protein S17	Caldicellulosiruptor saccharolyticus DSM 8903	17	2400566	2400826	-	2970275	rpsQ	ssu_rprotein
+637702947	cbdb_A448	ribosomal protein S17	Dehalococcoides mccartyi CBDB1	17	370839	371111	+	1395502	rpsQ	ssu_rprotein
+2540548608	BSU6051_01250	ribosomal protein S17	Bacillus subtilis subtilis 6051-HGW	17	140147	140410	+	4215610	rpsQ	ssu_rprotein
+639729082	Acel_0315	ribosomal protein S17	Acidothermus cellulolyticus 11B	17	335444	335734	+	2443540	rpsQ	ssu_rprotein
+642766919	Gbem_0942	ribosomal protein S17	Geobacter bemidjiensis Bem, DSM 16622	17	1102429	1102686	+	4615150	rpsQ	ssu_rprotein
+640108335	Cthe_2912	ribosomal protein S17	Clostridium thermocellum ATCC 27405	17	3438213	3438470	+	3843301	rpsQ	ssu_rprotein
+641373058	Caur_2378	ribosomal protein S17	Chloroflexus aurantiacus J-10-fl	17	3217482	3217751	+	5258541	rpsQ	ssu_rprotein
+2525260826	CCALI_02871	SSU ribosomal protein S17P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	17	3379062	3379352	+	3437861	rpsQ	ssu_rprotein
+2555825594	Tmari_1499	SSU ribosomal protein S17p (S11e)	Thermotoga maritima MSB8	17	1493613	1493936	-	1869612	rpsQ	ssu_rprotein
+638145400	HNE_2842	ribosomal protein S17	Hyphomonas neptunium ATCC 15444	1	2998891	2999136	-	3705021	rpsQ	ssu_rprotein
+646320732	BSU40890	30S ribosomal protein S18	Bacillus subtilis subtilis 168	2	4198603	4198842	-	4215606	rpsR	ssu_rprotein
+643732875	JTY_0056	30S ribosomal protein S18	Mycobacterium bovis BCG Tokyo 172	2	59114	59368	+	4371711	rpsR	ssu_rprotein
+637055375	PA4934	30S ribosomal protein S18	Pseudomonas aeruginosa PAO1	2	5537059	5537289	-	6264404	rpsR	ssu_rprotein
+637137393	Mb0056	30S ribosomal protein S18	Mycobacterium bovis AF2122/97	2	59112	59366	+	4345492	rpsR	ssu_rprotein
+646920608	ECD_04069	30S ribosomal protein S18	Escherichia coli BL21(DE3)	2	4332359	4332586	+	4558953	rpsR	ssu_rprotein
+646673245	Mrub_1776	30S ribosomal protein S18	Meiothermus ruber 21, DSM 1279	2	1830625	1830903	-	3097457	rpsR	ssu_rprotein
+650385895	NIES39_E01900	30S ribosomal protein S18	Arthrospira platensis NIES-39	2	2578824	2579039	-	6788435	rpsR	ssu_rprotein
+640078707	A9601_09931	30S Ribosomal protein S18	Prochlorococcus marinus AS9601	2	864976	865197	+	1669886	rpsR	ssu_rprotein
+640084291	NATL1_10131	30S Ribosomal protein S18	Prochlorococcus marinus NATL1A	2	939742	939963	+	1864731	rpsR	ssu_rprotein
+637004141	Missing locus_tag:AC_000091.cds4038.4430519..4430746	30S ribosomal subunit protein S18	Escherichia coli K12- W3110	2	4430519	4430746	+	4646332	rpsR	ssu_rprotein
+640436553	SDY_4371	30S ribosomal subunit protein S18	Shigella dysenteriae sv. 1 Sd197	2	4093418	4093645	+	4369232	rpsR	ssu_rprotein
+642768756	Gbem_2763	ribosomal protein S18	Geobacter bemidjiensis Bem, DSM 16622	2	3192050	3192328	-	4615150	rpsR	ssu_rprotein
+646855416	Trad_0006	ribosomal protein S18	Truepera radiovictrix RQ-24, DSM 17093	2	6408	6692	-	3260398	rpsR	ssu_rprotein
+641372386	Caur_1713	ribosomal protein S18	Chloroflexus aurantiacus J-10-fl	2	2352366	2352611	+	5258541	rpsR	ssu_rprotein
+639730933	Acel_2131	ribosomal protein S18	Acidothermus cellulolyticus 11B	2	2412073	2412309	-	2443540	rpsR	ssu_rprotein
+640495682	Csac_1337	ribosomal protein S18	Caldicellulosiruptor saccharolyticus DSM 8903	2	1504489	1504764	+	2970275	rpsR	ssu_rprotein
+640107591	Cthe_2185	ribosomal protein S18	Clostridium thermocellum ATCC 27405	2	2604434	2604718	-	3843301	rpsR	ssu_rprotein
+2540552773	BSU6051_40890	ribosomal protein S18	Bacillus subtilis subtilis 6051-HGW	2	4198607	4198846	-	4215610	rpsR	ssu_rprotein
+2525259305	CCALI_01351	ribosomal protein S18	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	2	1596246	1596641	+	3437861	rpsR	ssu_rprotein
+637703454	cbdb_A1018	ribosomal protein S18	Dehalococcoides mccartyi CBDB1	2	824835	825278	-	1395502	rpsR	ssu_rprotein
+2586010078	OP10G_2437	SSU ribosomal protein S18p	Fimbriimonas ginsengisoli Gsoil 348	2	2635895	2636203	-	5231762	rpsR	ssu_rprotein
+2555824685	Tmari_0605	SSU ribosomal protein S18p	Thermotoga maritima MSB8	2	638759	638986	+	1869612	rpsR	ssu_rprotein
+638144723	HNE_2162	ribosomal protein S18	Hyphomonas neptunium ATCC 15444	11	2248955	2249212	+	3705021	rpsR	ssu_rprotein
+646316547	BSU01200	30S ribosomal protein S19	Bacillus subtilis subtilis 168	1	138202	138480	+	4215606	rpsS	ssu_rprotein
+637054679	PA4259	30S ribosomal protein S19	Pseudomonas aeruginosa PAO1	1	4764588	4764863	-	6264404	rpsS	ssu_rprotein
+650385529	NIES39_D06430	30S ribosomal protein S19	Arthrospira platensis NIES-39	1	2226574	2226852	+	6788435	rpsS	ssu_rprotein
+637138056	Mb0725	30S ribosomal protein S19	Mycobacterium bovis AF2122/97	1	805233	805514	+	4345492	rpsS	ssu_rprotein
+640079489	A9601_17611	30S Ribosomal protein S19	Prochlorococcus marinus AS9601	1	1495731	1496009	-	1669886	rpsS	ssu_rprotein
+646919688	ECD_03167	30S ribosomal protein S19	Escherichia coli BL21(DE3)	1	3311418	3311696	-	4558953	rpsS	ssu_rprotein
+2586011450	OP10G_3789	30S ribosomal protein s19	Fimbriimonas ginsengisoli Gsoil 348	1	4167080	4167367	-	5231762	rpsS	ssu_rprotein
+643733541	JTY_0725	30S ribosomal protein S19	Mycobacterium bovis BCG Tokyo 172	1	805234	805515	+	4371711	rpsS	ssu_rprotein
+646674079	Mrub_2615	30S ribosomal protein S19	Meiothermus ruber 21, DSM 1279	1	2653361	2653639	-	3097457	rpsS	ssu_rprotein
+640085290	NATL1_19991	30S Ribosomal protein S19	Prochlorococcus marinus NATL1A	1	1644814	1645089	-	1864731	rpsS	ssu_rprotein
+640435737	SDY_3492	30S ribosomal subunit protein S19	Shigella dysenteriae sv. 1 Sd197	1	3232686	3232964	-	4369232	rpsS	ssu_rprotein
+637003904	Missing locus_tag:AC_000091.cds3810.4189890..4190168	30S ribosomal subunit protein S19	Escherichia coli K12- W3110	1	4189890	4190168	+	4646332	rpsS	ssu_rprotein
+640108330	Cthe_2907	ribosomal protein S19	Clostridium thermocellum ATCC 27405	1	3436078	3436362	+	3843301	rpsS	ssu_rprotein
+641373053	Caur_2373	ribosomal protein S19	Chloroflexus aurantiacus J-10-fl	1	3215403	3215648	+	5258541	rpsS	ssu_rprotein
+637702942	cbdb_A443	ribosomal protein S19	Dehalococcoides mccartyi CBDB1	1	368695	368976	+	1395502	rpsS	ssu_rprotein
+639729077	Acel_0310	ribosomal protein S19	Acidothermus cellulolyticus 11B	1	332650	332931	+	2443540	rpsS	ssu_rprotein
+2540548603	BSU6051_01200	ribosomal protein S19	Bacillus subtilis subtilis 6051-HGW	1	138202	138480	+	4215610	rpsS	ssu_rprotein
+646856457	Trad_1042	ribosomal protein S19	Truepera radiovictrix RQ-24, DSM 17093	1	1135447	1135719	+	3260398	rpsS	ssu_rprotein
+640496626	Csac_2283	ribosomal protein S19	Caldicellulosiruptor saccharolyticus DSM 8903	1	2402615	2402899	-	2970275	rpsS	ssu_rprotein
+642766914	Gbem_0937	ribosomal protein S19	Geobacter bemidjiensis Bem, DSM 16622	1	1100504	1100785	+	4615150	rpsS	ssu_rprotein
+2525260821	CCALI_02866	SSU ribosomal protein S19P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	1	3376486	3376773	+	3437861	rpsS	ssu_rprotein
+2555825599	Tmari_1504	SSU ribosomal protein S19p (S15e)	Thermotoga maritima MSB8	1	1495711	1495998	-	1869612	rpsS	ssu_rprotein
+638145405	HNE_2847	ribosomal protein S19	Hyphomonas neptunium ATCC 15444	12	3000897	3001175	-	3705021	rpsS	ssu_rprotein
+637054996	PA4563	30S ribosomal protein S20	Pseudomonas aeruginosa PAO1	2	5112663	5112938	+	6264404	rpsT	ssu_rprotein
+650386065	NIES39_E03600	30S ribosomal protein S20	Arthrospira platensis NIES-39	2	2780370	2780687	+	6788435	rpsT	ssu_rprotein
+646916574	ECD_00027	30S ribosomal protein S20	Escherichia coli BL21(DE3)	2	24887	25150	-	4558953	rpsT	ssu_rprotein
+643735249	JTY_2422	30S ribosomal protein S20	Mycobacterium bovis BCG Tokyo 172	2	2668036	2668296	+	4371711	rpsT	ssu_rprotein
+637139777	Mb2435	30S ribosomal protein S20	Mycobacterium bovis AF2122/97	2	2678259	2678519	+	4345492	rpsT	ssu_rprotein
+640079417	A9601_16911	30s Ribosomal protein S20	Prochlorococcus marinus AS9601	2	1434539	1434832	-	1669886	rpsT	ssu_rprotein
+646672298	Mrub_0847	30S ribosomal protein S20	Meiothermus ruber 21, DSM 1279	2	832345	832638	+	3097457	rpsT	ssu_rprotein
+640085177	NATL1_18881	30s Ribosomal protein S20	Prochlorococcus marinus NATL1A	2	1550778	1551074	-	1864731	rpsT	ssu_rprotein
+646319128	BSU25550	30S ribosomal protein S20	Bacillus subtilis subtilis 168	2	2635815	2636081	+	4215606	rpsT	ssu_rprotein
+640432479	SDY_0045	30S ribosomal subunit protein S20	Shigella dysenteriae sv. 1 Sd197	2	39604	39867	-	4369232	rpsT	ssu_rprotein
+637000022	Missing locus_tag:AC_000091.cds23.21078..20815	30S ribosomal subunit protein S20	Escherichia coli K12- W3110	2	20815	21078	-	4646332	rpsT	ssu_rprotein
+642766727	Gbem_0756	ribosomal protein S20	Geobacter bemidjiensis Bem, DSM 16622	2	890273	890536	-	4615150	rpsT	ssu_rprotein
+641373100	Caur_2420	ribosomal protein S20	Chloroflexus aurantiacus J-10-fl	2	3249372	3249656	-	5258541	rpsT	ssu_rprotein
+640106457	Cthe_1039	ribosomal protein S20	Clostridium thermocellum ATCC 27405	2	1242708	1243055	+	3843301	rpsT	ssu_rprotein
+646856283	Trad_0865	ribosomal protein S20	Truepera radiovictrix RQ-24, DSM 17093	2	934892	935176	+	3260398	rpsT	ssu_rprotein
+2586012471	OP10G_4800	ribosomal protein S20	Fimbriimonas ginsengisoli Gsoil 348	2	5208445	5208729	-	5231762	rpsT	ssu_rprotein
+640495378	Csac_1026	ribosomal protein S20	Caldicellulosiruptor saccharolyticus DSM 8903	2	1156739	1157038	-	2970275	rpsT	ssu_rprotein
+637704076	cbdb_A1738	ribosomal protein S20	Dehalococcoides mccartyi CBDB1	2	1392931	1393197	+	1395502	rpsT	ssu_rprotein
+2540551171	BSU6051_25550	ribosomal protein S20	Bacillus subtilis subtilis 6051-HGW	2	2635798	2636064	+	4215610	rpsT	ssu_rprotein
+639729547	Acel_0776	ribosomal protein S20	Acidothermus cellulolyticus 11B	2	858794	859249	-	2443540	rpsT	ssu_rprotein
+2555825767	Tmari_1666	SSU ribosomal protein S20p	Thermotoga maritima MSB8	2	1646161	1646451	-	1869612	rpsT	ssu_rprotein
+2525258644	CCALI_00690	SSU ribosomal protein S20P	Chthonomonas calidirosea T49, DSM 23976 (Chthonomonas calirisosea T49, DSM 23976)	2	788817	789107	-	3437861	rpsT	ssu_rprotein
+638143138	HNE_0565	ribosomal protein S20	Hyphomonas neptunium ATCC 15444	13	563369	563632	-	3705021	rpsT	ssu_rprotein
+637050413	PA0035	tryptophan synthase alpha chain	Pseudomonas aeruginosa PAO1	1	37087	37893	-	6264404	trpA	tryptophan
+2555824191	Tmari_0135	Tryptophan synthase alpha chain	Thermotoga maritima MSB8	1	142818	143537	-	1869612	trpA	tryptophan
+646917797	ECD_01234	tryptophan synthase subunit alpha	Escherichia coli BL21(DE3)	1	1302008	1302814	-	4558953	trpA	tryptophan
+640433704	SDY_1328	tryptophan synthase, alpha protein	Shigella dysenteriae sv. 1 Sd197	1	1227673	1228479	-	4369232	trpA	tryptophan
+642769341	Gbem_3350	tryptophan synthase, alpha subunit	Geobacter bemidjiensis Bem, DSM 16622	1	3848588	3849391	-	4615150	trpA	tryptophan
+640496566	Csac_2230	tryptophan synthase, alpha subunit	Caldicellulosiruptor saccharolyticus DSM 8903	1	2361330	2362091	-	2970275	trpA	tryptophan
+640106834	Cthe_1411	tryptophan synthase, alpha subunit	Clostridium thermocellum ATCC 27405	1	1729879	1730649	-	3843301	trpA	tryptophan
+638146031	HNE_3474	tryptophan synthase, alpha subunit	Hyphomonas neptunium ATCC 15444	1	3610008	3610835	-	3705021	trpA	tryptophan
+2555824192	Tmari_0136	Tryptophan synthase beta chain	Thermotoga maritima MSB8	2	143534	144703	-	1869612	trpB	tryptophan
+646917798	ECD_01235	tryptophan synthase subunit beta	Escherichia coli BL21(DE3)	2	1302814	1304007	-	4558953	trpB	tryptophan
+637050414	PA0036	tryptophan synthase subunit beta	Pseudomonas aeruginosa PAO1	2	37890	39098	-	6264404	trpB	tryptophan
+640433705	SDY_1329	tryptophan synthase, beta protein	Shigella dysenteriae sv. 1 Sd197	2	1228479	1229672	-	4369232	trpB	tryptophan
+640496567	Csac_2231	tryptophan synthase, beta subunit	Caldicellulosiruptor saccharolyticus DSM 8903	2	2362094	2363269	-	2970275	trpB	tryptophan
+640106835	Cthe_1412	tryptophan synthase, beta subunit	Clostridium thermocellum ATCC 27405	2	1730642	1731826	-	3843301	trpB	tryptophan
+642769313	Gbem_3321	tryptophan synthase, beta subunit	Geobacter bemidjiensis Bem, DSM 16622	2	3818180	3819370	-	4615150	trpB	tryptophan
+638146033	HNE_3476	tryptophan synthase, beta subunit	Hyphomonas neptunium ATCC 15444	2	3611155	3612366	-	3705021	trpB	tryptophan
+646917799	ECD_01236	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase	Escherichia coli BL21(DE3)	3	1304019	1305377	-	4558953	trpC	tryptophan
+642767949	Gbem_1957	Indole-3-glycerol phosphate synthase	Geobacter bemidjiensis Bem, DSM 16622	3	2261373	2262173	+	4615150	trpC	tryptophan
+2555824194	Tmari_0138	Indole-3-glycerol phosphate synthase	Thermotoga maritima MSB8	3	145311	146069	-	1869612	trpC	tryptophan
+640106288	Cthe_0872	Indole-3-glycerol-phosphate synthase	Clostridium thermocellum ATCC 27405	3	1045842	1046624	-	3843301	trpC	tryptophan
+637051032	PA0651	indole-3-glycerol-phosphate synthase	Pseudomonas aeruginosa PAO1	3	705130	705966	+	6264404	trpC	tryptophan
+640496569	Csac_2233	Indole-3-glycerol-phosphate synthase	Caldicellulosiruptor saccharolyticus DSM 8903	3	2363873	2364655	-	2970275	trpC	tryptophan
+640433706	SDY_1330	N-(5-phosphoribosyl)anthranilate isomerase/indole-3-glycerolphosphate synthetase	Shigella dysenteriae sv. 1 Sd197	3	1229684	1231045	-	4369232	trpC	tryptophan
+638144350	HNE_1787	indole-3-glycerol phosphate synthase	Hyphomonas neptunium ATCC 15444	3	1831216	1832013	-	3705021	trpC	tryptophan
+642767948	Gbem_1956	anthranilate phosphoribosyltransferase	Geobacter bemidjiensis Bem, DSM 16622	5	2260100	2261158	+	4615150	trpD	tryptophan
+640496570	Csac_2234	anthranilate phosphoribosyltransferase	Caldicellulosiruptor saccharolyticus DSM 8903	5	2364660	2365670	-	2970275	trpD	tryptophan
+640106289	Cthe_0873	anthranilate phosphoribosyltransferase	Clostridium thermocellum ATCC 27405	5	1046690	1047727	-	3843301	trpD	tryptophan
+637051031	PA0650	anthranilate phosphoribosyltransferase	Pseudomonas aeruginosa PAO1	5	704084	705133	+	6264404	trpD	tryptophan
+640433707	SDY_1331	anthranilate synthase component II	Shigella dysenteriae sv. 1 Sd197	5	1231046	1232641	-	4369232	trpD	tryptophan
+2555824195	Tmari_0139	Anthranilate synthase, amidotransferase component / Anthranilate phosphoribosyltransferase	Thermotoga maritima MSB8	5	146044	147684	-	1869612	trpD	tryptophan
+646917800	ECD_01237	bifunctional indole-3-glycerol-phosphate synthase/anthranilate phosphoribosyltransferase	Escherichia coli BL21(DE3)	5	1305381	1306976	-	4558953	trpD	tryptophan
+638144351	HNE_1788	anthranilate phosphoribosyltransferase	Hyphomonas neptunium ATCC 15444	4	1832016	1833041	-	3705021	trpD	tryptophan
+640496572	Csac_2236	Anthranilate synthase	Caldicellulosiruptor saccharolyticus DSM 8903	7	2366243	2367610	-	2970275	trpE	tryptophan
+646917801	ECD_01238	anthranilate synthase component I	Escherichia coli BL21(DE3)	7	1306976	1308538	-	4558953	trpE	tryptophan
+640106291	Cthe_0875	anthranilate synthase component I	Clostridium thermocellum ATCC 27405	7	1048404	1049888	-	3843301	trpE	tryptophan
+642768410	Gbem_2413	anthranilate synthase component I	Geobacter bemidjiensis Bem, DSM 16622	7	2796704	2798179	-	4615150	trpE	tryptophan
+637051393	PA1001	anthranilate synthase component I	Pseudomonas aeruginosa PAO1	7	1083972	1085564	+	6264404	trpE	tryptophan
+640433708	SDY_1332	anthranilate synthase component I	Shigella dysenteriae sv. 1 Sd197	7	1232641	1234203	-	4369232	trpE	tryptophan
+2555824196	Tmari_0140	Anthranilate synthase, aminase component	Thermotoga maritima MSB8	7	147681	149054	-	1869612	trpE	tryptophan
+638144353	HNE_1790	anthranilate synthase component I	Hyphomonas neptunium ATCC 15444	5	1833607	1835031	-	3705021	trpE	tryptophan
