@@ -55,3 +55,8 @@ Prerequisites:
 
 Bowtie2, bedtools, perl Math::NumberCruncher
 
+
+##################################
+This bitbucket repository also contains operon.py, which was used for operon dispersal analysis, and dataset.txt, which 
+is the collection of input genes used for the operon dispersal analysis.
+
