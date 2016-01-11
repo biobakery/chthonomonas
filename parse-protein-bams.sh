@@ -68,7 +68,7 @@ perl parse_coverage.pl T49.P488.tmp >> T49.cov
 bedtools genomecov -d -i bams/T49.proteins.bed -ibam bams/T49-T49-proteins-sorted.bam > T49.T49.tmp
 perl parse_coverage.pl T49.T49.tmp >> T49.cov
 
-
+mkdir tmp
 mv *.cov tmp
 mv *.tmp tmp
 
