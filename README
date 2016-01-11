@@ -72,6 +72,15 @@ Note: You will almost certainly have to edit this shell script to match your ver
 
 This perl script simplifies and filters each gene as present / absent in each genome based on whether it met the IQR-based threshold. It also combines the filtered output with the uclust gene clusters, producing a table that shows both which highly similar genes were annotated in each genome, and in which genomes these are well-supported by read coverage.
 
+How to run:
+
+perl parse_uparse.pl indexed-table > last_table
+
+Note: there is a bug in index.pl such that three of the genes don't get properly indexed. I fixed those three lines manually to make it run.
+
+
+
+
 
 
 
