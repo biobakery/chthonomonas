@@ -57,6 +57,19 @@ Prerequisites:
 
 Bowtie2, bedtools, perl Math::NumberCruncher
 
+6. do_uclust.sh
+This shell script makes the annotated genes into 95% identity clusters with uclust.
+
+How to run:
+Make sure that all.fna.gz (available in Downloads) is downloaded and in the same directory
+sh do_uclust.sh
+
+Prerequisites: usearch
+
+Note: You will almost certainly have to edit this shell script to match your version of usearch
+
+
+
 
 ##################################
 This bitbucket repository also contains operon.py, which was used for operon dispersal analysis, and dataset.txt, which 
