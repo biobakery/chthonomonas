@@ -53,9 +53,6 @@ How to run:
 
 perl index.pl table > indexed-table
 
-Prerequisites:
-
-Bowtie2, bedtools, perl Math::NumberCruncher
 
 6. do_uclust.sh
 This shell script makes the annotated genes into 95% identity clusters with uclust.
@@ -64,7 +61,6 @@ How to run:
 Make sure that all.fna.gz (available in Downloads) is downloaded and in the same directory
 sh do_uclust.sh
 
-Prerequisites: usearch
 
 Note: You will almost certainly have to edit this shell script to match your version of usearch
 
@@ -79,6 +75,9 @@ perl parse_uparse.pl indexed-table > last_table
 Note: there is a bug in index.pl such that three of the genes don't get properly indexed. I fixed those three lines manually to make it run.
 
 
+Prerequisites:
+
+Bowtie2, bedtools, samtools, usearch, perl Math::NumberCruncher
 
 
 
