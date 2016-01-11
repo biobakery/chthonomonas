@@ -9,7 +9,9 @@ for each strain, in each genome. The inputs are nucleotide fasta files for genes
 and fastq files for reads.
 
 The fastq files are not included in the bitbucket repository, but are available
-for download at **insert URL**
+for download at https://drive.google.com/folderview?id=0BxCxomZqt5ykbGF6MnVEbS1rc2s&usp=sharing
+
+You will need to create a subdirectory called "bams" in the folder "Chthonomonas" and put the fastq files there. 
 
 How to run:
 
