@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""gene_distance.py: Calculates Euclidean gene distances of a group of genes, such as genes involved in a pathway, within a gneome.
+"""operon.py: Calculates Euclidean gene distances of a group of genes, such as genes involved in a pathway, within a gneome.
 The script can handle multiple homologous groups (named "operons" here) within multiple genomes provided in a single dataset file.
 
-#date            :20150331
-#version         :0.1
-#usage           :python gene_distance.py
+#date            :20160112
+#version         :0.2
+#usage           :python operon.py
 #python_version  :3.4.1  
 
 Reads: "dataset.txt"
@@ -23,7 +23,7 @@ To generate input file ("dataset.txt"):
            consistent identifiers in the columns (genome name, gene name, and pathway name).
         
 Note:
-    1. Currently only distances between genes within a single contiguous chromosome is calculated. Comparing genes on separate
+    1. Only distances between genes within a single contiguous chromosome is calculated. Comparing genes on separate
        chromosomes/plasmids will not make sense and will likely result in an error.
     2. Strandiness is only considered for calculating the ORF positions of the genes to be compared.
     
@@ -36,7 +36,7 @@ Output (distance_output.txt):
     This script outputs:
         1. Name of the pathway
         2. Name of the genome
-        3. Euclidean distances between genes of pathway (1) in genome (2)."""
+        3. Tab delimited Euclidean distances between genes of pathway (1) in genome (2)."""
 import csv
 import itertools
 from collections import defaultdict
@@ -47,7 +47,7 @@ __copyright__ = "Copyright 2015"
 __credits__ = ["Kevin C. Lee", "Xochitl C. Morgan"]
 __email__ = "cykevinlee@gmail.com"
 
-# Input file format 
+# Input file format, dataset.txt is included to recreate the analysis.
 reader = csv.reader(open('dataset.txt', 'r'), delimiter='\t')
 operons = list(reader)
 
@@ -60,14 +60,14 @@ for img_id,locus_tag,gene_desc,genome,batch,start,end,strand,length,gene,operon 
 # index tree address
     tree[operon][genome][gene] = dict(Strand = strand, Start = start, End = end, Length = length)
 
-# Here be result collecting dictionary (key: operon leading to key:genome - value: distances)
+# Creating the result-collecting dictionary (key: operon leading to key:genome - value: distances).
 result = defaultdict(dict)
 
-# Cycle through operons
+# Cycle through operons.
 for key1, value1 in tree.items():
     genome_dist = {}
     
-    #Print and write the name of the pathway ("operon")
+    #Print and write the name of the pathway ("operon").
     print(key1)
     with open("distance_output.txt","a") as myfile:
         myfile.write("\n" + key1 + "\n")
@@ -77,33 +77,33 @@ for key1, value1 in tree.items():
         ogenes=[]
         diff_a = 0
         diff_b = 0
-        dp_genome=[] # pairwise gene distance per operon for a particular genome
+        dp_genome=[] # pairwise gene distance per operon for a particular genome.
         aORF = 0
         bORF = 0
         total_length = 0
         print(key2 + "\t", end="")
-        with open("python_output2.txt","a") as myfile:
+        with open("distance_output.txt","a") as myfile:
             myfile.write(key2 + "\t")
 
-        # Cycle through operonic genes
+        # Cycle through operonic genes.
         for key3, value3 in tree[key1][key2].items():
             #print("\n" + str(key2) + " " + str(key3))
 
-            # Populate the opernic genes into a list
+            # Populate the opernic genes into a list.
             ogenes.append(key3)
 
-        # Generate gene pair combinations    
+        # Generate gene pair combinations.
         for genecomb in itertools.combinations(ogenes,2):
             gene_a = genecomb[0]
             gene_b = genecomb[1]
 
-            # Genome total length assignment and error checking
+            # Genome total length assignment and error checking.
             if tree[key1][key2][gene_a]["Length"] != tree[key1][key2][gene_b]["Length"]:
                 print("Genome total length between comparison pairs not equal!")
             else:
                 total_length = int(tree[key1][key2][gene_a]["Length"])
             
-            # Logic detecting which coordinate to use for open reading frame based on Strand
+            # Logic detecting which coordinate to use for open reading frame based on Strand.
             if tree[key1][key2][gene_a]["Strand"] == "+":
                 aORF = tree[key1][key2][gene_a]["Start"]
             elif tree[key1][key2][gene_a]["Strand"] == "-":
@@ -125,7 +125,7 @@ for key1, value1 in tree.items():
             aORF = int(aORF)            
             bORF = int(bORF)
             
-            # Logic for generating shortest absolute distances between two genes within a genome.            
+            # Logic for generating shortest absolute distances between two genes within a genome.
             if aORF > bORF:
                 diff_a = aORF - bORF
             elif bORF > aORF:
