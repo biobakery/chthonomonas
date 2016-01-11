@@ -31,7 +31,7 @@ rm P488-proteins.bam
 #P488 genome, T49 proteins
 bowtie2 --quiet -q  -x bams/T49 -1 bams/P488_R1.fastq.gz -2  bams/P488_R2.fastq.gz -S P488-proteins.sam
 samtools view -bS P488-proteins.sam > P488-proteins.bam
-samtools sort P488-proteins.bam-o P488-T49-proteins-sorted.bam
+samtools sort P488-proteins.bam -o P488-T49-proteins-sorted.bam
 rm P488-proteins.sam
 rm P488-proteins.bam
 
