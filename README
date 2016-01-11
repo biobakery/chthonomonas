@@ -1,7 +1,11 @@
 README
 
-This is the software pipeline written by Xochitl Morgan (morganx@gmail.com) to calculate
-coverage of genes within strains for Chthonomonas calidirosea. It performs the following steps:
+This repository contains all code written to support the manuscript "The Chthonomonas calidirosea genome is highly conserved across geography and distinct chemical and microbial environments in the Taupō Volcanic Zone, New Zealand" by Kevin Lee et al.
+
+The code consists of two parts: a pipeline to calculate gene coverage within strains, written and maintained by Xochitl Morgan (morganx AT gmail.com ) and a pipeline to calculate the distribution of operonic genes across different species, written and maintained by Kevin Lee (zephirum AT gmail.com)  
+##################################################################
+
+The gene coverage pipeline consists of the following steps:
 
 1. make_protein_bam.sh 
 This shell script creates bowtie2 indices for each strain, then  uses bowtie2 to align reads 
@@ -80,11 +84,38 @@ Prerequisites:
 Bowtie2, bedtools, samtools, usearch, perl Math::NumberCruncher
 
 
-
-
-
-
-
 ##################################
-This bitbucket repository also contains operon.py, which was used for operon dispersal analysis, and dataset.txt, which 
-is the collection of input genes used for the operon dispersal analysis.
+The operon pipeline calculates the distribution of operons within genomes. It consists of the following: 
+
+1. operon.py: Calculates Euclidean gene distances of a group of genes, such as genes involved in a pathway, within a genome.
+The script can handle multiple homologous groups (named "operons" here) within multiple genomes provided in a single dataset file.
+
+#date            :20160112
+#version         :0.2
+#usage           :python operon.py
+#python_version  :3.4.1  
+
+This reads in the file "dataset.txt" (which is in the same local directory) and writes the output file "distance_output.txt".
+
+2. dataset.txt 
+To generate input file ("dataset.txt"):
+    The script takes Gene Cart tables exported from JGI's Integrated Microbial Genome database (https://img.jgi.doe.gov/).
+        1. Place orthologous genes among different genomes within the gene cart.
+        2. In gene cart menu, select "Start Coord", "End Coord", "Strand", and "Scaffold Length".
+        3. Export the gene cart table data using the Export button below the table.
+        4. Append a tabbed delimited column at the end of the table naming the gene (e.g. TrpA)
+        5. Repeat the above process and collect orthologous genes within a pathway, and append another column naming the pathway (e.g. Tryptophan)
+           within all the relevant files.
+        6. Remove the header of each file and merge all files into a single file named "dataset.txt" within the working path of this script.
+        7. The script can calculate arbitrary number of genes within arbitrary number of pathways within arbitrary number of genomes, given the
+           consistent identifiers in the columns (genome name, gene name, and pathway name).
+        
+Note:
+    1. Only distances between genes within a single contiguous chromosome is calculated. Comparing genes on separate
+       chromosomes/plasmids will not make sense and will likely result in an error.
+    2. Strandiness is only considered for calculating the ORF positions of the genes to be compared.
+    
+Calculation of Euclidean distances between genes:
+    As the vast majority of prokaryotic chromosomes are circular, the geometry meant that there are two paths along the DNA molecule between any 
+    two genes. This script outputs the shorter path.
+  
