@@ -4,7 +4,7 @@ use Data::Dumper;
 
 my %res;
 
-my @strains = qw(P488 TKA WRG);
+my @strains = qw(P488 TKA WRG T49);
 
 foreach my $s (@strains)
 {
@@ -20,7 +20,7 @@ while(<FILE>)
 close(FILE);
 }
 #print Dumper %res;
-print "geneID\tgene\tP488T_median\tP488_sd\tTKA_median\tTKA_sd\tWRG_median\tWRG_sd\n";
+print "geneID\tgene\tP488T_median\tP488_sd\tTKA_median\tTKA_sd\tWRG_median\tWRG_sd\tT49_median\tT49_sd\n";
 foreach my $key (sort keys %res)
 {
 print $key, "\t"; 
