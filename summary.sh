@@ -1,5 +1,6 @@
 #! /usr/bin/sh
-cut -f 1-5 last_table > stats.txt
+
+#cut -f 1-5 last_table > stats.txt
 # for T49
 # number of T49 proteins that aren't covered in P488
 printf "T49, notP488\t"
@@ -94,35 +95,38 @@ printf "WRG, notT49\t"
 # number of MUC1 proteins that aren't covered in T49
 grep WRG stats.txt | cut -f 5 | awk '!NF {s+=1} END {print s}' 
 
-printf "WRG above 0"
-grep WRG last-table | cut -f 7  | awk '$1 > 1 {print}' | wc
+printf "WRG ==0"
+grep WRG last-table | cut -f 7  | awk '$1 == 0 {print}' | wc
 
 printf "WRG above 1"
-grep WRG last-table | cut -f 7  | awk '$1 > 1 {print}' | wc
+grep WRG last-table | cut -f 7  | awk '$1 >= 1 {print}' | wc
 
 printf "WRG above IQR "
-grep WRG last-table | cut -f 7  | awk '$1 > 17 {print}' | wc
+grep WRG last-table | cut -f 7  | awk '$1 >= 17 {print}' | wc
 
-printf "TKA above 0"
-grep TKA last-table | cut -f 5  | awk '$1 > 1 {print}' | wc
+printf "TKA ==0"
+grep TKA last-table | cut -f 5  | awk '$1  == 0 {print}' | wc
 
 printf "TKA above 1"
-grep TKA last-table | cut -f 5  | awk '$1 > 1 {print}' | wc
+grep TKA last-table | cut -f 5  | awk '$1 >= 1 {print}' | wc
 
 printf "TKA above IQR "
-grep TKA last-table | cut -f 5  | awk '$1 > 12 {print}' | wc
+grep TKA last-table | cut -f 5  | awk '$1 >= 12 {print}' | wc
 
-printf "P488 above 0"
-grep P488 last-table | cut -f 3  | awk '$1 > 1 {print}' | wc
+printf "P488 ==0"
+grep P488 last-table | cut -f 3  | awk '$1 == 0 {print}' | wc
 
 printf "P488 above 1"
-grep P488 last-table | cut -f 3  | awk '$1 > 1 {print}' | wc
+grep P488 last-table | cut -f 3  | awk '$1 >= 1 {print}' | wc
 
 printf "P488 above IQR "
-grep P488 last-table | cut -f 3  | awk '$1 > 35 {print}' | wc
+grep P488 last-table | cut -f 3  | awk '$1 >= 35 {print}' | wc
 
-printf "T49 above 0"
-grep T49 last-table | cut -f 9  | awk '$1 > 1 {print}' | wc
+printf "T49 ==0"
+grep T49 last-table | cut -f 9  | awk '$1  == 0 {print}' | wc
 
 printf "T49 above 1"
-grep T49 last-table | cut -f 9  | awk '$1 > 1 {print}' | wc
+grep T49 last-table | cut -f 9  | awk '$1 >= 1 {print}' | wc
+
+
+
