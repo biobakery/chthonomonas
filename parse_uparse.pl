@@ -2,6 +2,19 @@
 use strict;
 use Data::Dumper;
 
+#final: quantile(as.numeric(col$numericdat[,1]), na.rm=TRUE, probs=0.25) - (2 * IQR(as.numeric(col$numericdat[,1]), na.rm=TRUE))
+# All other strains are based on higher-throughput Ion Torrent or Illumina data and correspond to 2 IQR-based cutoff.
+# note: this is based on low-coverage 454 data and corresponds to 4th to 5th percentile coverage.
+my %vals = (
+"T49" =>1, 			
+"WRG" => 17,
+"TKA" =>12,
+"P488"=> 35
+);
+
+my %annot;
+get_annots();
+
 print "locusID\tannotation\tpresentP488\tpresentTKA\tpresentWRG\tpresentT49\ttotalStrainsPresent\tUparseClusterSize\tUparseCluster\n";
 my %key;
 
@@ -59,63 +72,85 @@ close(FILE);
 #open(FILE, "last-table.txt") or die "cannot open last-table.txt";
 while(<>)
 {
-chomp;
-my $hicov;
-my @l = split/\t/, $_; 
-print "$l[0]\t$l[1]\t";
-if ($l[0] =~/T49/)
+	chomp;
+	my $hicov;
+	my @l = split/\t/, $_; 
+my ($gene, $p488, $tka, $wrg, $t49) = ($l[0], $l[2], $l[4], $l[6], $l[8]);
+	my ($a, $b) = split(/\./, $gene);
+	if ($gene =~/T49/)
 		{
-		$l[5] = 1;
+		$l[8] = 1;
+		#T49-native genes must be counted as 'present' in T49 regardless of T49 coverage, since T49 coverage is not reliable.
 		#print "$l[0] so $l[5] is 1\n";
 		}
-my @slice = ($l[2], $l[3], $l[4], $l[5]);
-#T49-native genes must be counted as 'present' in T49 regardless of T49 coverage, since T49 coverage is not reliable.
-
-foreach my $s (@slice)
+		
+	if ($a eq 'P488')
 	{
-	#for everything non-T49 not-undefined means 'has already passed min filter' => (25th percentile - 2 IQR for TKA, WRG, and 
-	#P488 reads / presence of TKA, WRG, and P488 genes in T49 genome is a threshold of > 1 median coverage. 	
-	if ($s ne undef) 
-		{
-		$s =1;
-		++$hicov;
-		}
-	else
-		{
-		$s = 0;
-		}	
-	print $s, "\t";	
+		if ($p488 < $vals{"P488"}) { next}; # filter out	
+		if ($p488 >= $vals{"P488"}) { do_stuff(@l); next;}
 	}
-my $g = shift(@l);
-#print $_, "$hicov\t";
-print "$hicov\t";	
-	#print "$key{$k}\t";
-	my ($q, $r) = split/\./, $g;
-	my $a = $uc->{$r};
-	if ($a eq undef)
+	if ($a eq 'TKA')
+	{
+		if ($tka < $vals{"TKA"}) { next}; # filter out	
+		if ($tka >= $vals{"TKA"}) { do_stuff( @l); next;}
+	}
+	if ($a eq 'WRG')
+	{
+		if ($wrg < $vals{"WRG"}) { next};	# filter out
+		if ($wrg >= $vals{"WRG"}) { do_stuff(@l); next;}
+	}	
+	if ($a eq 'T49')
+	{
+	#if ($t49 < $vals{"T49"}) {  next};	
+	#if ($t49 >= $vals{"T49"}) { do_stuff(@l); }
+	# T49 genes will not be filtered out due to low coverage because 454 sequencing
+	# is not deep enough to do it without filtering out too many genes. We
+	# therefore do not filter out any T49-native genes due to low coverage.
+		do_stuff(@l);
+	}
+}		
+
+
+sub get_annots
+{
+open(FILE, "data/genes.txt") or die "cannot open data/genes.txt";
+while(<FILE>)
+	{
+	chomp;
+	my ($a, $b) = split/\t/, $_;
+	$annot{$a} = $b;
+	}
+close(FILE);
+}
+
+sub do_stuff
+{
+my $hicov = 0;
+my @l = @_;
+my ($gene, $p488, $tka, $wrg, $t49) = ($l[0], $l[2], $l[4], $l[6], $l[8]);
+my ($a, $b) = split(/\./, $gene);
+print $gene, "\t";
+	if ($p488 >= $vals{"P488"}) { print "1\t"; ++$hicov;} else {print "\t"; }	
+	if ($tka >= $vals{"TKA"}) { print "1\t";++$hicov;} else {print "\t"; }
+	if ($wrg >= $vals{"WRG"}) { print "1\t";++$hicov;} else {print "\t"; }
+	#T49-native genes can't be filtered out due to low coverage, but in other genomes, 
+	#coverage must be at least 1.
+	if ($t49 >= $vals{"T49"} or ($a eq 'T49' )) { print "1\t";++$hicov;} else {print "\t"; }			
+	print "$hicov\t";
+	my $q = $uc->{$b};
+	if ($q eq undef)
 		{
-		my $c = $alias->{$r};
-		$a = $uc->{$c};
+		my $r = $alias->{$b};
+		$q = $uc->{$r};
 		}
-	my $count = scalar(@$a);
+	my $count = scalar(@$q);
 	print $count, "\t";	
-	foreach my $b (@$a)
+	foreach my $f (@$q)
 		{
-		print "$key{$b},";
+		print "$key{$f},";
 		}
+		print "$gene\t$annot{$b}\t";
+		
 	print "\n";
 }
 
-=pod
-foreach my $k (keys %{$uc})
-{
-my $count = 0;
-#print "$key{$k}\t";
-	my $a = $uc->{$k};
-	foreach my $b (@$a)
-		{
-		print "$key{$b}\t";
-		++$count;
-		}
-print "$count\n";
-}
