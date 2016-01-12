@@ -1,5 +1,5 @@
 #! /usr/bin/sh
-
+cut -f 1-5 last_table > stats.txt
 # for T49
 # number of T49 proteins that aren't covered in P488
 printf "T49, notP488\t"
