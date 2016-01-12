@@ -78,6 +78,11 @@ perl parse_uparse.pl indexed-table > last_table
 
 Note: there is a bug in index.pl such that three of the genes don't get properly indexed. I fixed those three lines manually to make it run.
 
+8. summary.sh
+This file compiles summary statistics (e.g. for generation of tables S11 and S12) and prints to stdout
+
+How to run:
+sh summary.sh last_table
 
 Prerequisites:
 
@@ -118,4 +123,3 @@ Note:
 Calculation of Euclidean distances between genes:
     As the vast majority of prokaryotic chromosomes are circular, the geometry meant that there are two paths along the DNA molecule between any 
     two genes. This script outputs the shorter path.
-  
