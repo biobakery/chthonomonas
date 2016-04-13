@@ -1,6 +1,16 @@
 README
 
-This repository contains all code written to support the manuscript "The Chthonomonas calidirosea genome is highly conserved across geography and distinct chemical and microbial environments in the Taupō Volcanic Zone, New Zealand" by Kevin Lee et al.
+This repository contains all code written to support the manuscript "The Chthonomonas calidirosea genome 
+is highly conserved across geography and distinct chemical and microbial environments in the Taupō Volcanic Zone, New Zealand" 
+by Kevin Lee et al.
+
+This manucript is published in Applied and Environmental Microbiology and is available at:
+
+http://aem.asm.org/content/early/2016/04/04/AEM.00139-16.full.pdf
+
+Community data supporting this project is available at  http://www.ebi.ac.uk/ena/data/view/PRJEB13454 
+
+
 
 The code consists of two parts: a pipeline to calculate gene coverage within strains, written and maintained by Xochitl Morgan (morganx AT gmail.com ) and a pipeline to calculate the distribution of operonic genes across different species, written and maintained by Kevin Lee (zephirum AT gmail.com)  
 ##################################################################
